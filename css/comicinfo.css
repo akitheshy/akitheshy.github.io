@@ -1,0 +1,2457 @@
+.orange_f8e {
+	COLOR: #ff8e00 !important
+}
+.location {
+	POSITION: relative; LINE-HEIGHT: 32px; MARGIN: 0px auto; WIDTH: 1200px; HEIGHT: 32px; COLOR: #333
+}
+.location .tip_list {
+	FLOAT: right; HEIGHT: 32px; OVERFLOW: hidden
+}
+.location .tip_list A {
+	PADDING-LEFT: 15px; BACKGROUND-POSITION: 0px -377px
+}
+.comic_info {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 8px; MARGIN-BOTTOM: 30px; BACKGROUND: url(../images/comicinfo/bg_comicinfo.png) no-repeat; HEIGHT: 415px; PADDING-TOP: 0px
+}
+.comic_info .left {
+	Z-INDEX: 5; POSITION: relative; WIDTH: 900px; FLOAT: left
+}
+.comic_info .left .sign {
+	MARGIN: 16px 0px 0px 20px; FONT: 28px/30px "Microsoft Yahei"; FLOAT: left; _display: inline
+}
+.comic_info .left_tag {
+	LINE-HEIGHT: 21px; MARGIN: 23px 0px 0px 10px; FLOAT: left; COLOR: #999
+}
+.comic_info H1 {
+	POSITION: relative; PADDING-BOTTOM: 15px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; FONT: 28px/32px "Microsoft Yahei", simhei, simsun; COLOR: #333; PADDING-TOP: 15px
+}
+.comic_info H1 SPAN {
+	PADDING-LEFT: 10px; DISPLAY: inline-block; FONT: 500 12px "ËÎÌå"; COLOR: #999; VERTICAL-ALIGN: middle
+}
+.comic_info .jb {
+	MARGIN: 20px 15px 0px 0px; PADDING-LEFT: 24px; FONT-FAMILY: simsun; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: right; COLOR: #999; FONT-SIZE: 12px
+}
+.comic_info .jb I {
+	POSITION: relative; WIDTH: 18px; DISPLAY: inline-block; BACKGROUND: url(../../common/images/cs_ico.png) no-repeat 0px -496px; HEIGHT: 16px; OVERFLOW: hidden; TOP: 4px; MARGIN-RIGHT: 5px
+}
+.comic_info .zhang {
+	POSITION: absolute; WIDTH: 112px; BACKGROUND: url(../images/comicinfo/zhang.png) no-repeat; HEIGHT: 90px; TOP: -24px; RIGHT: 80px
+}
+.comic_info .coverBox {
+	WIDTH: 234px; FLOAT: left
+}
+.comic_info .cover {
+	Z-INDEX: 3; POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; WIDTH: 224px; PADDING-RIGHT: 0px; BACKGROUND: url(../images/comicinfo/bg_cover.png) no-repeat; HEIGHT: 289px; PADDING-TOP: 1px
+}
+.ico_trans {
+	BACKGROUND: url(../images/comicinfo/ico_trans.png) no-repeat
+}
+.comic_info .ico_zhougeng {
+	POSITION: absolute; WIDTH: 56px; BACKGROUND-POSITION: 0px -275px; HEIGHT: 60px; TOP: -2px; LEFT: -8px
+}
+.comic_info .cover .box {
+	DISPLAY: inline; FLOAT: left; MARGIN-RIGHT: 22px
+}
+.comic_info .cover .bot {
+	POSITION: absolute; WIDTH: 252px; BOTTOM: 17px; DISPLAY: none; LEFT: 24px
+}
+.comic_info .cover .bot .ico_trans {
+	WIDTH: 45px; DISPLAY: block; HEIGHT: 45px; OVERFLOW: hidden
+}
+.comic_info .cover .bot .ico_trans:hover {
+	BACKGROUND-POSITION: 0px -135px
+}
+.comic_info .cover .history .ico_trans {
+	BACKGROUND-POSITION: 0px -45px
+}
+.comic_info .cover .history .ico_trans:hover {
+	BACKGROUND-POSITION: 0px -180px
+}
+.comic_info .cover .feel .ico_trans {
+	BACKGROUND-POSITION: 0px -90px
+}
+.comic_info .cover .feel .ico_trans:hover {
+	BACKGROUND-POSITION: 0px -225px
+}
+.comic_info .history_pop_box {
+	Z-INDEX: 12; POSITION: absolute; WIDTH: 1190px; DISPLAY: none; HEIGHT: 415px; TOP: -3px; LEFT: -20px; _top: -5px
+}
+.comic_info .history_pop_box .bg {
+	POSITION: absolute; FILTER: alpha(opacity=90); WIDTH: 100%; BACKGROUND: url(../images/comicinfo/bg_cover_pop.png); HEIGHT: 100%; TOP: 0px; LEFT: 0px; opacity: 0.9
+}
+.comic_info .history_pop_box .close {
+	Z-INDEX: 2; POSITION: absolute; WIDTH: 20px; BACKGROUND: url(../images/comicinfo/cs_pic.png) no-repeat 2px -70px; HEIGHT: 20px; TOP: 25px; RIGHT: 15px
+}
+.comic_info .history_pop_box .close:hover {
+	BACKGROUND-POSITION: -18px -70px
+}
+.comic_info .history_pop_box .pop_con {
+	POSITION: absolute; PADDING-BOTTOM: 20px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; PADDING-TOP: 20px; LEFT: 0px
+}
+.comic_info .history_pop_box .pop_con H3 {
+	FONT: 20px/32px "Microsoft Yahei"; COLOR: #fff
+}
+.comic_info .history_pop_box .scroll_box {
+	POSITION: relative; MARGIN-TOP: 22px; WIDTH: 1170px; HEIGHT: 281px; OVERFLOW: hidden
+}
+.comic_info .history_pop_box .scroll_comic {
+	POSITION: relative; WIDTH: 1170px; HEIGHT: 281px; OVERFLOW: hidden
+}
+.comic_info .history_pop_box .scroll_comic UL {
+	POSITION: absolute; TOP: 0px; LEFT: 0px
+}
+.comic_info .history_pop_box .scroll_box LI {
+	POSITION: relative; WIDTH: 214px; FLOAT: left; OVERFLOW: hidden; MARGIN-RIGHT: 20px
+}
+.comic_info .history_pop_box .scroll_box .comic_cover {
+	BORDER-BOTTOM: #d4d4d4 1px solid; BORDER-LEFT: #d4d4d4 1px solid; PADDING-BOTTOM: 1px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; DISPLAY: block; BACKGROUND: #fff; BORDER-TOP: #d4d4d4 1px solid; BORDER-RIGHT: #d4d4d4 1px solid; PADDING-TOP: 1px
+}
+.comic_info .history_pop_box .scroll_box .comic_cover:hover {
+	BORDER-BOTTOM-COLOR: #6dad14; BORDER-TOP-COLOR: #6dad14; BORDER-RIGHT-COLOR: #6dad14; BORDER-LEFT-COLOR: #6dad14
+}
+.comic_info .history_pop_box .scroll_box LI .curr {
+	BORDER-BOTTOM-COLOR: #6dad14; BORDER-TOP-COLOR: #6dad14; BORDER-RIGHT-COLOR: #6dad14; BORDER-LEFT-COLOR: #6dad14
+}
+.comic_info .history_pop_box .scroll_box IMG {
+	WIDTH: 210px; DISPLAY: block; HEIGHT: 277px
+}
+.comic_info .history_pop_box .ico_box {
+	POSITION: absolute; PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; TOP: 12px; CURSOR: pointer; RIGHT: 2px; PADDING-TOP: 0px
+}
+.comic_info .history_pop_box .ico_box EM {
+	POSITION: relative; WIDTH: 17px; DISPLAY: inline-block; BACKGROUND: url(../images/comicinfo/cs_pic.png) no-repeat 0px 4px; FLOAT: left; HEIGHT: 24px; VERTICAL-ALIGN: middle
+}
+.comic_info .history_pop_box .download_bot A {
+	POSITION: relative; WIDTH: 17px; DISPLAY: inline-block; BACKGROUND: url(../images/comicinfo/cs_pic.png) no-repeat 0px 4px; FLOAT: left; HEIGHT: 24px; VERTICAL-ALIGN: middle
+}
+.comic_info .history_pop_box .ico_box EM {
+	DISPLAY: block !important
+}
+.comic_info .history_pop_box .cur {
+	DISPLAY: block !important
+}
+.comic_info .history_pop_box .cai {
+	TOP: 38px
+}
+.comic_info .history_pop_box .cai EM {
+	BACKGROUND-POSITION: -20px 4px
+}
+.comic_info .history_pop_box .zan2 EM {
+	BACKGROUND-POSITION: 0px -46px
+}
+.comic_info .history_pop_box .cai2 EM {
+	BACKGROUND-POSITION: -20px -46px
+}
+.comic_info .history_pop_box .ico_box SPAN {
+	POSITION: relative; PADDING-LEFT: 3px; DISPLAY: none; FONT: 13px/24px "Arial"; FLOAT: left; COLOR: #fff
+}
+.comic_info .history_pop_box .scroll_box P I {
+	POSITION: absolute; FILTER: alpha(opacity=70); WIDTH: 100%; BACKGROUND: #000; HEIGHT: 24px; TOP: 0px; LEFT: 0px; opacity: 0.7
+}
+.comic_info .history_pop_box .download_bot {
+	POSITION: absolute; WIDTH: 212px; BOTTOM: 1px; DISPLAY: none; HEIGHT: 38px; LEFT: 1px
+}
+.comic_info .history_pop_box .scroll_box .download_bot I {
+	HEIGHT: 38px
+}
+.comic_info .history_pop_box .download_bot A {
+	MARGIN: 7px 0px 0px 12px; WIDTH: 24px; BACKGROUND-POSITION: 0px -20px; HEIGHT: 24px
+}
+.comic_info .history_pop_box .download_bot A:hover {
+	BACKGROUND-POSITION: -25px -20px
+}
+.comic_info .history_pop_box .download_bot SPAN {
+	POSITION: relative; FONT: 14px/38px "Microsoft Yahei"; FLOAT: right; COLOR: #fff; MARGIN-RIGHT: 10px
+}
+.comic_info .history_pop_box .next {
+	POSITION: absolute; WIDTH: 40px; DISPLAY: none; HEIGHT: 281px; TOP: 0px; RIGHT: 0px
+}
+.comic_info .history_pop_box .next SPAN {
+	FILTER: alpha(opacity=30); WIDTH: 40px; DISPLAY: block; BACKGROUND: #000; HEIGHT: 280px; CURSOR: pointer; opacity: 0.3
+}
+.comic_info .history_pop_box .next:hover SPAN {
+	FILTER: alpha(opacity=70); opacity: 0.7
+}
+.comic_info .history_pop_box .next I {
+	POSITION: absolute; WIDTH: 15px; BACKGROUND-POSITION: 0px -410px; HEIGHT: 23px; TOP: 135px; CURSOR: pointer; LEFT: 12px
+}
+.comic_info .feel .pop_box {
+	POSITION: absolute; WIDTH: 210px; DISPLAY: none; HEIGHT: 226px; TOP: -229px; LEFT: -15px
+}
+.comic_info .feel .pop_box .bg {
+	FILTER: alpha(opacity=80); WIDTH: 210px; BACKGROUND: #000 0px 50%; HEIGHT: 226px; TOP: 0px; LEFT: 0px; opacity: 0.8
+}
+#show_feel_div {
+	Z-INDEX: 2; POSITION: absolute; TOP: 0px; LEFT: 0px
+}
+#show_feel_div P {
+	TEXT-ALIGN: center; LINE-HEIGHT: 20px; WIDTH: 215px; HEIGHT: 20px; COLOR: #fff; OVERFLOW: hidden; FONT-WEIGHT: bold; PADDING-TOP: 13px
+}
+#show_feel_div A {
+	Z-INDEX: 20; POSITION: absolute; FILTER: alpha(opacity=80); TEXT-INDENT: -9000px; WIDTH: 15px; DISPLAY: block; BACKGROUND: url(../images/comicinfo/ico_feel.png) no-repeat; HEIGHT: 15px; OVERFLOW: hidden; TEXT-DECORATION: none; opacity: 0.8
+}
+#show_feel_div A.feel_1 {
+	TOP: 55px; LEFT: 63px
+}
+#show_feel_div A.feel_2 {
+	BACKGROUND-POSITION: 0px -15px; TOP: 55px; LEFT: 131px
+}
+#show_feel_div A.feel_3 {
+	BACKGROUND-POSITION: 0px -30px; TOP: 116px; LEFT: 166px
+}
+#show_feel_div A.feel_4 {
+	BACKGROUND-POSITION: 0px -45px; TOP: 176px; LEFT: 131px
+}
+#show_feel_div A.feel_5 {
+	BACKGROUND-POSITION: 0px -60px; TOP: 176px; LEFT: 63px
+}
+#show_feel_div A.feel_6 {
+	BACKGROUND-POSITION: 0px -75px; TOP: 116px; LEFT: 30px
+}
+#show_feel_div A:hover {
+	FILTER: alpha(opacity=100); opacity: 1
+}
+.comic_info .info {
+	FLOAT: right
+}
+.comic_info .left .info {
+	WIDTH: 626px; FLOAT: left; MARGIN-LEFT: 14px
+}
+.comic_info .left .info .top {
+	BORDER-BOTTOM: #999 1px dashed; PADDING-BOTTOM: 3px; LINE-HEIGHT: 34px; PADDING-LEFT: 15px; WIDTH: 605px; PADDING-RIGHT: 0px; COLOR: #666; FONT-SIZE: 14px; PADDING-TOP: 0px; _padding-bottom: 10px
+}
+.comic_info .left .info .top .line1 {
+	WHITE-SPACE: nowrap; _padding: 10px 0 12px
+}
+.comic_info .left .info .top .line1 SPAN {
+	PADDING-RIGHT: 20px; COLOR: #6dad15
+}
+.comic_info .left .info .top .line2 B {
+	WIDTH: 16px; DISPLAY: inline-block; BACKGROUND: url(../images/comicinfo/cs_pic.png) no-repeat 0px -135px; HEIGHT: 12px; MARGIN-LEFT: 3px; VERTICAL-ALIGN: middle
+}
+.comic_info .left .info .top .line2 B.arrow_l {
+	BACKGROUND-POSITION: -20px -135px
+}
+.comic_info .left .info .top .line2 SPAN {
+	PADDING-RIGHT: 20px
+}
+.comic_info .left .info .top I {
+	PADDING-RIGHT: 20px; COLOR: #ff444f
+}
+.comic_info .left .info .top .more {
+	Z-INDEX: 2; POSITION: relative; DISPLAY: inline-block
+}
+.comic_info .left .info .top .more .btn {
+	WIDTH: 40px; DISPLAY: inline-block; BACKGROUND-POSITION: 0px -90px; HEIGHT: 18px; VERTICAL-ALIGN: middle
+}
+.comic_info .left .info .top .more .btn:hover {
+	BACKGROUND-POSITION: 0px -108px
+}
+.comic_info .left .info .top .more .pop_box {
+	BORDER-BOTTOM: #62ade2 2px solid; POSITION: absolute; BORDER-LEFT: #62ade2 2px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 3px; WIDTH: 260px; PADDING-RIGHT: 3px; DISPLAY: none; BACKGROUND: #fff; HEIGHT: 179px; COLOR: #666; FONT-SIZE: 12px; OVERFLOW: hidden; BORDER-TOP: #62ade2 2px solid; TOP: 32px; BORDER-RIGHT: #62ade2 2px solid; PADDING-TOP: 3px; LEFT: 0px
+}
+.comic_info .left .info .top .more .pop_box P {
+	BORDER-BOTTOM: #bcbcbc 1px dashed; PADDING-BOTTOM: 0px; LINE-HEIGHT: 29px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; HEIGHT: 29px; PADDING-TOP: 0px
+}
+.comic_info .left .info .top .more .pop_box SPAN {
+	WIDTH: 120px; PADDING-RIGHT: 0px; FLOAT: left
+}
+.comic_info .left .info .top .more .pop_box EM {
+	COLOR: #ff444f
+}
+.ui-dialog .textbox {
+	PADDING-BOTTOM: 20px; MARGIN: 0px auto; PADDING-LEFT: 20px; WIDTH: 480px; PADDING-RIGHT: 20px; COLOR: #666; FONT-SIZE: 14px; PADDING-TOP: 20px
+}
+.ui-dialog .textbox .ti2 {
+	PADDING-BOTTOM: 0.3em; TEXT-INDENT: 2em; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0.3em
+}
+.tc {
+	TEXT-ALIGN: center
+}
+.comic_info .left .info .label {
+	BORDER-BOTTOM: #666 1px dashed; PADDING-BOTTOM: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 0px; PADDING-TOP: 10px
+}
+.comic_info .left .info .label .tab_scroll {
+	POSITION: relative; HEIGHT: 28px
+}
+.comic_info .left .info .label .tab_scroll DIV {
+	Z-INDEX: 2; POSITION: absolute; TOP: 0px; LEFT: 0px
+}
+.comic_info .left .info .label .tab_scroll A {
+	BORDER-BOTTOM: #e2e2e2 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #e2e2e2 1px solid; WIDTH: 62px; DISPLAY: block; BACKGROUND: #eaeaea; HEIGHT: 22px; BORDER-TOP: #e2e2e2 1px solid; BORDER-RIGHT: #e2e2e2 1px solid; -webkit-transition: all .1s ease-in; -moz-transition: all .1s ease-in; -o-transition: all .1s ease-in; transition: all .1s ease-in; -ms-transition: all .1s ease-in
+}
+.comic_info .left .info .label .tab_scroll .curr {
+	BORDER-BOTTOM-COLOR: transparent; BORDER-TOP-COLOR: transparent; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #fff; BORDER-RIGHT-COLOR: transparent; BORDER-LEFT-COLOR: transparent; TEXT-DECORATION: none; _height: 24px; _border: none; _width: 64px; _line-height: 24px
+}
+.comic_info .left .info .label .tab_scroll SPAN {
+	POSITION: absolute; WIDTH: 64px; BACKGROUND: url(../images/comicinfo/cs_pic.png) no-repeat 0px -150px; HEIGHT: 28px; TOP: 0px; LEFT: 0px
+}
+.comic_info .left .info .label_con {
+	WIDTH: 605px; HEIGHT: 62px; PADDING-TOP: 10px
+}
+.comic_label A {
+	BORDER-BOTTOM: #f6d75a 1px solid; BORDER-LEFT: #f6d75a 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 14px; PADDING-LEFT: 20px; PADDING-RIGHT: 5px; MARGIN-BOTTOM: 10px; BACKGROUND: url(../images/comicinfo/cs_label.png) #f6d75a no-repeat; FLOAT: left; HEIGHT: 14px; COLOR: #fff; BORDER-TOP: #f6d75a 1px solid; MARGIN-RIGHT: 4px; BORDER-RIGHT: #f6d75a 1px solid; PADDING-TOP: 0px; border-radius: 2px
+}
+.comic_label LI SPAN {
+	BORDER-BOTTOM: #f6d75a 1px solid; BORDER-LEFT: #f6d75a 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 14px; PADDING-LEFT: 20px; PADDING-RIGHT: 5px; MARGIN-BOTTOM: 10px; BACKGROUND: url(../images/comicinfo/cs_label.png) #f6d75a no-repeat; FLOAT: left; HEIGHT: 14px; COLOR: #fff; BORDER-TOP: #f6d75a 1px solid; MARGIN-RIGHT: 4px; BORDER-RIGHT: #f6d75a 1px solid; PADDING-TOP: 0px; border-radius: 2px
+}
+.comic_label A:hover {
+	TEXT-DECORATION: none
+}
+.comic_label .label2 {
+	BORDER-BOTTOM-COLOR: #ea1616; BACKGROUND-COLOR: #ea1616; BORDER-TOP-COLOR: #ea1616; BACKGROUND-POSITION: 0px -20px; BORDER-RIGHT-COLOR: #ea1616; BORDER-LEFT-COLOR: #ea1616
+}
+.comic_label .label3 {
+	BORDER-BOTTOM-COLOR: #ffb06b; BACKGROUND-COLOR: #ffb06b; BORDER-TOP-COLOR: #ffb06b; BACKGROUND-POSITION: 0px -40px; BORDER-RIGHT-COLOR: #ffb06b; BORDER-LEFT-COLOR: #ffb06b
+}
+.comic_label .label4 {
+	BORDER-BOTTOM-COLOR: #78c9ff; BACKGROUND-COLOR: #78c9ff; BORDER-TOP-COLOR: #78c9ff; BACKGROUND-POSITION: 0px -60px; BORDER-RIGHT-COLOR: #78c9ff; BORDER-LEFT-COLOR: #78c9ff
+}
+.comic_label .label5 {
+	BORDER-BOTTOM-COLOR: #e5a4ff; BACKGROUND-COLOR: #e5a4ff; BORDER-TOP-COLOR: #e5a4ff; BACKGROUND-POSITION: 0px -80px; BORDER-RIGHT-COLOR: #e5a4ff; BORDER-LEFT-COLOR: #e5a4ff
+}
+.comic_label .label6 {
+	BORDER-BOTTOM-COLOR: #99cc33; BACKGROUND-COLOR: #99cc33; BORDER-TOP-COLOR: #99cc33; BACKGROUND-POSITION: 0px -100px; BORDER-RIGHT-COLOR: #99cc33; BORDER-LEFT-COLOR: #99cc33
+}
+.comic_label .label7 {
+	BORDER-BOTTOM-COLOR: #99ccff; BACKGROUND-COLOR: #99ccff; BORDER-TOP-COLOR: #99ccff; BACKGROUND-POSITION: 0px -120px; BORDER-RIGHT-COLOR: #99ccff; BORDER-LEFT-COLOR: #99ccff
+}
+.comic_label .label8 {
+	BORDER-BOTTOM-COLOR: #999999; BACKGROUND-COLOR: #999999; BORDER-TOP-COLOR: #999999; BACKGROUND-POSITION: 0px -140px; BORDER-RIGHT-COLOR: #999999; BORDER-LEFT-COLOR: #999999
+}
+.comic_label .label9 {
+	BORDER-BOTTOM-COLOR: #ff99cc; BACKGROUND-COLOR: #ff99cc; BORDER-TOP-COLOR: #ff99cc; BACKGROUND-POSITION: 0px -160px; BORDER-RIGHT-COLOR: #ff99cc; BORDER-LEFT-COLOR: #ff99cc
+}
+.comic_label .label10 {
+	BORDER-BOTTOM-COLOR: #ff9999; BACKGROUND-COLOR: #ff9999; BORDER-TOP-COLOR: #ff9999; BACKGROUND-POSITION: 0px -180px; BORDER-RIGHT-COLOR: #ff9999; BORDER-LEFT-COLOR: #ff9999
+}
+.comic_label .label11 {
+	BORDER-BOTTOM-COLOR: #b1b1ff; BACKGROUND-COLOR: #b1b1ff; BORDER-TOP-COLOR: #b1b1ff; BACKGROUND-POSITION: 0px -200px; BORDER-RIGHT-COLOR: #b1b1ff; BORDER-LEFT-COLOR: #b1b1ff
+}
+.comic_label .label12 {
+	BORDER-BOTTOM-COLOR: #666666; BACKGROUND-COLOR: #666666; BORDER-TOP-COLOR: #666666; BACKGROUND-POSITION: 0px -220px; BORDER-RIGHT-COLOR: #666666; BORDER-LEFT-COLOR: #666666
+}
+.comic_label .label13 {
+	BORDER-BOTTOM-COLOR: #0099ff; BACKGROUND-COLOR: #0099ff; BORDER-TOP-COLOR: #0099ff; BACKGROUND-POSITION: 0px -240px; BORDER-RIGHT-COLOR: #0099ff; BORDER-LEFT-COLOR: #0099ff
+}
+.comic_label .label14 {
+	BORDER-BOTTOM-COLOR: #ff8a8a; BACKGROUND-COLOR: #ff8a8a; BORDER-TOP-COLOR: #ff8a8a; BACKGROUND-POSITION: 0px -260px; BORDER-RIGHT-COLOR: #ff8a8a; BORDER-LEFT-COLOR: #ff8a8a
+}
+.comic_label .label15 {
+	BORDER-BOTTOM-COLOR: #68e2cb; BACKGROUND-COLOR: #68e2cb; BORDER-TOP-COLOR: #68e2cb; BACKGROUND-POSITION: 0px -280px; BORDER-RIGHT-COLOR: #68e2cb; BORDER-LEFT-COLOR: #68e2cb
+}
+.comic_label .label16 {
+	BORDER-BOTTOM-COLOR: #ffc082; BACKGROUND-COLOR: #ffc082; BORDER-TOP-COLOR: #ffc082; BACKGROUND-POSITION: 0px -300px; BORDER-RIGHT-COLOR: #ffc082; BORDER-LEFT-COLOR: #ffc082
+}
+.comic_label .label17 {
+	BORDER-BOTTOM-COLOR: #333366; BACKGROUND-COLOR: #333366; BORDER-TOP-COLOR: #333366; BACKGROUND-POSITION: 0px -320px; BORDER-RIGHT-COLOR: #333366; BORDER-LEFT-COLOR: #333366
+}
+.comic_label .label18 {
+	BORDER-BOTTOM-COLOR: #999966; BACKGROUND-COLOR: #999966; BORDER-TOP-COLOR: #999966; BACKGROUND-POSITION: 0px -340px; BORDER-RIGHT-COLOR: #999966; BORDER-LEFT-COLOR: #999966
+}
+.comic_label .label19 {
+	BORDER-BOTTOM-COLOR: #99cccc; BACKGROUND-COLOR: #99cccc; BORDER-TOP-COLOR: #99cccc; BACKGROUND-POSITION: 0px -718px; BORDER-RIGHT-COLOR: #99cccc; BORDER-LEFT-COLOR: #99cccc
+}
+.comic_label .label20 {
+	BORDER-BOTTOM-COLOR: #666699; BACKGROUND-COLOR: #666699; BORDER-TOP-COLOR: #666699; BACKGROUND-POSITION: 0px -733px; BORDER-RIGHT-COLOR: #666699; BORDER-LEFT-COLOR: #666699
+}
+.comic_label .label21 {
+	BORDER-BOTTOM-COLOR: #cc6633; BACKGROUND-COLOR: #cc6633; BORDER-TOP-COLOR: #cc6633; BACKGROUND-POSITION: 0px -748px; BORDER-RIGHT-COLOR: #cc6633; BORDER-LEFT-COLOR: #cc6633
+}
+.comic_label .label22 {
+	BORDER-BOTTOM-COLOR: #003399; BACKGROUND-COLOR: #003399; BORDER-TOP-COLOR: #003399; BACKGROUND-POSITION: 0px -763px; BORDER-RIGHT-COLOR: #003399; BORDER-LEFT-COLOR: #003399
+}
+.comic_label .label23 {
+	BORDER-BOTTOM-COLOR: #336699; BACKGROUND-COLOR: #336699; BORDER-TOP-COLOR: #336699; BACKGROUND-POSITION: 0px -778px; BORDER-RIGHT-COLOR: #336699; BORDER-LEFT-COLOR: #336699
+}
+.comic_label .label24 {
+	BORDER-BOTTOM-COLOR: #999933; BACKGROUND-COLOR: #999933; BORDER-TOP-COLOR: #999933; BACKGROUND-POSITION: 0px -793px; BORDER-RIGHT-COLOR: #999933; BORDER-LEFT-COLOR: #999933
+}
+.comic_label .label25 {
+	BORDER-BOTTOM-COLOR: #663366; BACKGROUND-COLOR: #663366; BORDER-TOP-COLOR: #663366; BACKGROUND-POSITION: 0px -808px; BORDER-RIGHT-COLOR: #663366; BORDER-LEFT-COLOR: #663366
+}
+.comic_label .label26 {
+	BORDER-BOTTOM-COLOR: #996699; BACKGROUND-COLOR: #996699; BORDER-TOP-COLOR: #996699; BACKGROUND-POSITION: 0px -823px; BORDER-RIGHT-COLOR: #996699; BORDER-LEFT-COLOR: #996699
+}
+.comic_label .label27 {
+	BORDER-BOTTOM-COLOR: #669933; BACKGROUND-COLOR: #669933; BORDER-TOP-COLOR: #669933; BACKGROUND-POSITION: 0px -838px; BORDER-RIGHT-COLOR: #669933; BORDER-LEFT-COLOR: #669933
+}
+.comic_label .label28 {
+	BORDER-BOTTOM-COLOR: #339999; BACKGROUND-COLOR: #339999; BORDER-TOP-COLOR: #339999; BACKGROUND-POSITION: 0px -853px; BORDER-RIGHT-COLOR: #339999; BORDER-LEFT-COLOR: #339999
+}
+.comic_label .label29 {
+	BORDER-BOTTOM-COLOR: #ff9900; BACKGROUND-COLOR: #ff9900; BORDER-TOP-COLOR: #ff9900; BACKGROUND-POSITION: 0px -868px; BORDER-RIGHT-COLOR: #ff9900; BORDER-LEFT-COLOR: #ff9900
+}
+.comic_label .label30 {
+	BORDER-BOTTOM-COLOR: #ff6666; BACKGROUND-COLOR: #ff6666; BORDER-TOP-COLOR: #ff6666; BACKGROUND-POSITION: 0px -883px; BORDER-RIGHT-COLOR: #ff6666; BORDER-LEFT-COLOR: #ff6666
+}
+.comic_label .label31 {
+	BORDER-BOTTOM-COLOR: #666633; BACKGROUND-COLOR: #666633; BORDER-TOP-COLOR: #666633; BACKGROUND-POSITION: 0px -898px; BORDER-RIGHT-COLOR: #666633; BORDER-LEFT-COLOR: #666633
+}
+.comic_label .label32 {
+	BORDER-BOTTOM-COLOR: #cc0033; BACKGROUND-COLOR: #cc0033; BORDER-TOP-COLOR: #cc0033; BACKGROUND-POSITION: 0px -913px; BORDER-RIGHT-COLOR: #cc0033; BORDER-LEFT-COLOR: #cc0033
+}
+.comic_label .label33 {
+	BORDER-BOTTOM-COLOR: #99cc33; BACKGROUND-COLOR: #99cc33; BORDER-TOP-COLOR: #99cc33; BACKGROUND-POSITION: 0px -928px; BORDER-RIGHT-COLOR: #99cc33; BORDER-LEFT-COLOR: #99cc33
+}
+.comic_label .label34 {
+	BORDER-BOTTOM-COLOR: #66cccc; BACKGROUND-COLOR: #66cccc; BORDER-TOP-COLOR: #66cccc; BACKGROUND-POSITION: 0px -943px; BORDER-RIGHT-COLOR: #66cccc; BORDER-LEFT-COLOR: #66cccc
+}
+.comic_label .label35 {
+	BORDER-BOTTOM-COLOR: #66ccff; BACKGROUND-COLOR: #66ccff; BORDER-TOP-COLOR: #66ccff; BACKGROUND-POSITION: 0px -958px; BORDER-RIGHT-COLOR: #66ccff; BORDER-LEFT-COLOR: #66ccff
+}
+.comic_label .label36 {
+	BORDER-BOTTOM-COLOR: #66cccc; BACKGROUND-COLOR: #66cccc; BORDER-TOP-COLOR: #66cccc; BACKGROUND-POSITION: 0px -973px; BORDER-RIGHT-COLOR: #66cccc; BORDER-LEFT-COLOR: #66cccc
+}
+.comic_label .label37 {
+	BORDER-BOTTOM-COLOR: #336666; BACKGROUND-COLOR: #336666; BORDER-TOP-COLOR: #336666; BACKGROUND-POSITION: 0px -988px; BORDER-RIGHT-COLOR: #336666; BORDER-LEFT-COLOR: #336666
+}
+.comic_label .label38 {
+	BORDER-BOTTOM-COLOR: #abcdef; BACKGROUND-COLOR: #abcdef; BORDER-TOP-COLOR: #abcdef; BACKGROUND-POSITION: 0px -1003px; BORDER-RIGHT-COLOR: #abcdef; BORDER-LEFT-COLOR: #abcdef
+}
+.comic_label .label39 {
+	BORDER-BOTTOM-COLOR: #99cc99; BACKGROUND-COLOR: #99cc99; BORDER-TOP-COLOR: #99cc99; BACKGROUND-POSITION: 0px -1018px; BORDER-RIGHT-COLOR: #99cc99; BORDER-LEFT-COLOR: #99cc99
+}
+.comic_label .label40 {
+	BORDER-BOTTOM-COLOR: #3399cc; BACKGROUND-COLOR: #3399cc; BORDER-TOP-COLOR: #3399cc; BACKGROUND-POSITION: 0px -1033px; BORDER-RIGHT-COLOR: #3399cc; BORDER-LEFT-COLOR: #3399cc
+}
+.comic_label .label41 {
+	BORDER-BOTTOM-COLOR: #cccc99; BACKGROUND-COLOR: #cccc99; BORDER-TOP-COLOR: #cccc99; BACKGROUND-POSITION: 0px -1048px; BORDER-RIGHT-COLOR: #cccc99; BORDER-LEFT-COLOR: #cccc99
+}
+.comic_label .label42 {
+	BORDER-BOTTOM-COLOR: #990033; BACKGROUND-COLOR: #990033; BORDER-TOP-COLOR: #990033; BACKGROUND-POSITION: 0px -1063px; BORDER-RIGHT-COLOR: #990033; BORDER-LEFT-COLOR: #990033
+}
+.comic_label .label43 {
+	BORDER-BOTTOM-COLOR: #ff9999; BACKGROUND-COLOR: #ff9999; BORDER-TOP-COLOR: #ff9999; BACKGROUND-POSITION: 0px -1078px; BORDER-RIGHT-COLOR: #ff9999; BORDER-LEFT-COLOR: #ff9999
+}
+.addLabelBtn {
+	POSITION: absolute; LINE-HEIGHT: 16px; MARGIN: 2px 0px 0px 15px; PADDING-LEFT: 10px; WIDTH: 55px; BOTTOM: 10px; DISPLAY: block; FONT-FAMILY: "microsoft yahei"; BACKGROUND: url(../images/comicinfo/cs_pic.png) no-repeat -50px 3px; HEIGHT: 16px; COLOR: #575757; CURSOR: pointer; RIGHT: 10px
+}
+.comic_info .role_label A {
+	BORDER-BOTTOM: #f6b235 1px solid; POSITION: relative; BORDER-LEFT: #f6b235 1px solid; PADDING-BOTTOM: 1px; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; WHITE-SPACE: nowrap; MARGIN-BOTTOM: 6px; BACKGROUND: #fff1c8; FLOAT: left; BORDER-TOP: #f6b235 1px solid; MARGIN-RIGHT: 8px; BORDER-RIGHT: #f6b235 1px solid; PADDING-TOP: 1px
+}
+.comic_info .role_label A.cur {
+	Z-INDEX: 20
+}
+.comic_info .role_label A SPAN {
+	BORDER-BOTTOM: #d5c6bb 1px solid; POSITION: absolute; BORDER-LEFT: #d5c6bb 1px solid; PADDING-BOTTOM: 5px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: none; BACKGROUND: #fffded; BORDER-TOP: #d5c6bb 1px solid; TOP: 25px; BORDER-RIGHT: #d5c6bb 1px solid; PADDING-TOP: 5px; LEFT: -1px
+}
+.comic_info .role_label A EM {
+	COLOR: #999
+}
+.comic_info .role_label A:hover {
+	TEXT-DECORATION: none
+}
+.comic_info .left .info .words {
+	POSITION: relative; PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; WORD-WRAP: break-word; HEIGHT: 80px; COLOR: #999; OVERFLOW: hidden; WORD-BREAK: break-all; PADDING-TOP: 5px
+}
+.comic_info .left .info .words .btn {
+	POSITION: absolute; WIDTH: 40px; BOTTOM: 22px; DISPLAY: inline-block; BACKGROUND-POSITION: 0px -90px; HEIGHT: 18px; VERTICAL-ALIGN: middle; RIGHT: 10px
+}
+.comic_info .left .info .words .btn:hover {
+	BACKGROUND-POSITION: 0px -108px
+}
+.comic_info .left .info .up {
+	WIDTH: 15px; DISPLAY: inline-block; BACKGROUND: url(../images/comicinfo/cs_pic.png) no-repeat -50px -50px; HEIGHT: 14px; MARGIN-LEFT: 5px; VERTICAL-ALIGN: middle; CURSOR: pointer
+}
+.comic_info .left .info .open_words .up {
+	BACKGROUND-POSITION: -50px -115px
+}
+.comic_info .left .info .btn_wrap A {
+	BORDER-BOTTOM: #d0252f 4px solid; TEXT-ALIGN: center; WIDTH: 163px; BACKGROUND: #ff444f; FLOAT: left; HEIGHT: 49px; COLOR: #fff; border-radius: 3px; -webkit-border-radius: 3px; -moz-border-radius: 3px; -ie-border-radius: 3px
+}
+.comic_info .left .info .btn_wrap STRONG {
+	TEXT-ALIGN: center; DISPLAY: block; FONT: 20px/32px "Microsoft Yahei"
+}
+.comic_info .left .info .btn_wrap SPAN {
+	DISPLAY: block; FONT: 14px "Arial"
+}
+.comic_info .left .info .btn_wrap .btn_continue SPAN {
+	FONT: 12px "ËÎÌå"
+}
+.comic_info .left .info .btn_wrap A:hover {
+	FILTER: alpha(opacity=90); TEXT-DECORATION: none; opacity: 0.85
+}
+.comic_info .left .info .btn_wrap A:active {
+	FILTER: alpha(opacity=100); BORDER-RIGHT-WIDTH: 0px; MARGIN-TOP: 12px; MARGIN-BOTTOM: 4px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; opacity: 1
+}
+.comic_info .left .info .btn_wrap .btn_stored {
+	POSITION: relative; BORDER-BOTTOM-COLOR: #2eb0a2; BORDER-TOP-COLOR: #2eb0a2; BACKGROUND: #41d0d6; BORDER-RIGHT-COLOR: #2eb0a2; BORDER-LEFT-COLOR: #2eb0a2
+}
+.ani-tag {
+	Z-INDEX: 999; POSITION: absolute; WIDTH: auto; DISPLAY: none; HEIGHT: auto; OVERFLOW: hidden
+}
+.ani-tag IMG {
+	FILTER: alpha(opacity=70); WIDTH: 100%; opacity: 0.7
+}
+.comic_info .left .info .btn_wrap .btn_ticket {
+	BORDER-BOTTOM-COLOR: #ac2a90; BORDER-TOP-COLOR: #ac2a90; BACKGROUND: #c150e6; BORDER-RIGHT-COLOR: #ac2a90; BORDER-LEFT-COLOR: #ac2a90
+}
+.comic_info .left .info .btn_wrap .btn_store {
+	BORDER-BOTTOM-COLOR: #308e84; BORDER-TOP-COLOR: #308e84; BACKGROUND: #2fb6bc; BORDER-RIGHT-COLOR: #308e84; BORDER-LEFT-COLOR: #308e84
+}
+.comic_info .left .info .btn_wrap .btn_start EM {
+	MARGIN: 7px 9px 0px 13px; WIDTH: 35px; BACKGROUND: url(../images/comicinfo/cs_pic.png) no-repeat 0px -180px; FLOAT: left; HEIGHT: 35px
+}
+.comic_info .left .info .btn_wrap .btn_start STRONG {
+	LINE-HEIGHT: 48px; FLOAT: left; FONT-SIZE: 22px
+}
+.comic_info .right {
+	WIDTH: 272px; FLOAT: right; PADDING-TOP: 15px
+}
+.comic_info .right .tx {
+	POSITION: relative; FLOAT: left; MARGIN-LEFT: 9px
+}
+.comic_info .right .tx IMG {
+	BORDER-BOTTOM: #d4d4d4 1px solid; POSITION: relative; BORDER-LEFT: #d4d4d4 1px solid; PADDING-BOTTOM: 1px; PADDING-LEFT: 1px; WIDTH: 90px; PADDING-RIGHT: 1px; DISPLAY: block; BACKGROUND: #fff; HEIGHT: 90px; BORDER-TOP: #d4d4d4 1px solid; BORDER-RIGHT: #d4d4d4 1px solid; PADDING-TOP: 1px
+}
+.comic_info .right .symbol {
+	POSITION: absolute; WIDTH: 32px; BACKGROUND: #ff5959; HEIGHT: 32px; TOP: -11px; LEFT: -8px
+}
+.comic_info .right .info {
+	POSITION: relative; LINE-HEIGHT: 24px; WIDTH: 162px; HEIGHT: 112px; COLOR: #666
+}
+.comic_info .right .info IMG {
+	VERTICAL-ALIGN: top
+}
+.comic_info .right .info .author_label {
+	POSITION: absolute; WIDTH: 34px; BACKGROUND: url(../images/comicinfo/cs_pic.png) no-repeat; HEIGHT: 33px; TOP: -15px; LEFT: 110px
+}
+.comic_info .right .info .author_hz {
+	BACKGROUND-POSITION: 0px -435px
+}
+.comic_info .right .info .author_sign {
+	BACKGROUND-POSITION: 0px -470px
+}
+.comic_info .right .name {
+	FONT: 14px "Microsoft Yahei"; COLOR: #333
+}
+.comic_info .right .name:hover {
+	COLOR: #6dad14
+}
+.comic_info .right .info STRONG {
+	PADDING-LEFT: 20px; DISPLAY: inline-block; BACKGROUND: url(../images/comicinfo/cs_pic.png) no-repeat -50px -16px; FLOAT: left; COLOR: #ff8e00; FONT-WEIGHT: normal
+}
+.comic_info .right .info .gz {
+	TEXT-ALIGN: center; LINE-HEIGHT: 18px; MARGIN: 3px 7px 0px 0px; WIDTH: 40px; BACKGROUND: #f6b235; FLOAT: right; HEIGHT: 18px; COLOR: #fff; border-radius: 2px
+}
+.side .character .gz {
+	TEXT-ALIGN: center; LINE-HEIGHT: 18px; MARGIN: 3px 7px 0px 0px; WIDTH: 40px; BACKGROUND: #f6b235; FLOAT: right; HEIGHT: 18px; COLOR: #fff; border-radius: 2px
+}
+.comic_info .right .info .gzed {
+	BACKGROUND: #a6a6a6
+}
+.side .character .gzed {
+	BACKGROUND: #a6a6a6
+}
+.comic_info .right .info .gz I {
+	FONT-FAMILY: "Tahoma"; FONT-WEIGHT: bold
+}
+.side .character .gz I {
+	FONT-FAMILY: "Tahoma"; FONT-WEIGHT: bold
+}
+.comic_info .right .info .gz:hover {
+	FILTER: alpha(opacity=80); TEXT-DECORATION: none; opacity: 0.8
+}
+.side .character .gz:hover {
+	FILTER: alpha(opacity=80); TEXT-DECORATION: none; opacity: 0.8
+}
+.comic_info .right .author_words {
+	Z-INDEX: 3; POSITION: relative; LINE-HEIGHT: 20px; MARGIN: 15px 0px 0px; WIDTH: 272px; HEIGHT: 118px; COLOR: #666; CLEAR: both
+}
+.comic_info .right .author_words .aw_content {
+	POSITION: absolute; PADDING-BOTTOM: 40px; PADDING-LEFT: 58px; WIDTH: 198px; PADDING-RIGHT: 15px; DISPLAY: block; BACKGROUND: url(../images/comicinfo/bg_author_words.png) no-repeat 1px bottom; HEIGHT: 80px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.v4_w1000 .comic_info .right .author_words .aw_content {
+	WIDTH: 155px
+}
+.comic_info .right .author_words .aw_content P {
+	WIDTH: 100%; HEIGHT: 60px
+}
+.comic_info .right .open_words {
+	PADDING-BOTTOM: 8px; HEIGHT: 244px
+}
+.comic_info .right .author_words B {
+	Z-INDEX: 2; POSITION: absolute; WIDTH: 22px; BACKGROUND: url(../images/comicinfo/cs_pic.png) no-repeat -43px -70px; HEIGHT: 18px; OVERFLOW: hidden; TOP: -5px; LEFT: 30px
+}
+.comic_info .right .author_words B.bot {
+	POSITION: absolute; BOTTOM: 25px; DISPLAY: block; BACKGROUND-POSITION: -43px -90px; TOP: auto; LEFT: 245px
+}
+.comic_info .right .author_words EM {
+	WIDTH: 15px; DISPLAY: inline-block; BACKGROUND: url(../images/comicinfo/cs_pic.png) no-repeat -50px -50px; HEIGHT: 14px; MARGIN-LEFT: 5px; VERTICAL-ALIGN: middle; CURSOR: pointer
+}
+.comic_info .right .author_words EM.up {
+	BACKGROUND-POSITION: -50px -115px
+}
+.comic_info .auto_ad {
+	POSITION: relative; HEIGHT: 166px
+}
+.comic_info .auto_ad UL {
+	POSITION: absolute; WIDTH: 270px; HEIGHT: 164px; OVERFLOW: hidden; TOP: 2px; LEFT: 1px
+}
+.comic_info .auto_ad LI {
+	POSITION: absolute; FILTER: alpha(opacity=0); TOP: 0px; LEFT: 0px; opacity: 0
+}
+.comic_info .auto_ad LI.curr_con {
+	Z-INDEX: 2; FILTER: alpha(opacity=100); opacity: 1
+}
+.comic_info .auto_ad IMG {
+	WIDTH: 270px; DISPLAY: block; HEIGHT: 164px
+}
+.comic_info .auto_ad .auto_tab {
+	Z-INDEX: 2; POSITION: absolute; BOTTOM: 10px; LEFT: 228px
+}
+.comic_info .auto_ad .auto_tab A {
+	WIDTH: 8px; BACKGROUND: url(../images/comicinfo/cs_pic.png) no-repeat 0px -220px; FLOAT: left; HEIGHT: 8px; OVERFLOW: hidden; MARGIN-RIGHT: 5px
+}
+.comic_info .auto_ad .auto_tab A.curr {
+	BACKGROUND-POSITION: -10px -220px
+}
+.comic_info .auto_ad .prev {
+	Z-INDEX: 2; POSITION: absolute; WIDTH: 30px; HEIGHT: 30px; TOP: 76px; LEFT: 1px
+}
+.comic_info .auto_ad .next {
+	Z-INDEX: 2; POSITION: absolute; WIDTH: 30px; HEIGHT: 30px; TOP: 76px; LEFT: 1px
+}
+.comic_info .auto_ad .next {
+	LEFT: 241px
+}
+.comic_info .auto_ad .prev SPAN {
+	FILTER: alpha(opacity=30); WIDTH: 30px; DISPLAY: block; BACKGROUND: #000; HEIGHT: 30px; CURSOR: pointer; opacity: 0.3
+}
+.comic_info .auto_ad .next SPAN {
+	FILTER: alpha(opacity=30); WIDTH: 30px; DISPLAY: block; BACKGROUND: #000; HEIGHT: 30px; CURSOR: pointer; opacity: 0.3
+}
+.comic_info .auto_ad .prev:hover SPAN {
+	FILTER: Alpha(opacity=70); opacity: 0.7
+}
+.comic_info .auto_ad .next:hover SPAN {
+	FILTER: Alpha(opacity=70); opacity: 0.7
+}
+.comic_info .auto_ad .prev I {
+	POSITION: absolute; WIDTH: 8px; BACKGROUND: url(../images/comicinfo/cs_pic.png) no-repeat 0px -235px; HEIGHT: 13px; TOP: 8px; CURSOR: pointer; LEFT: 12px
+}
+.comic_info .auto_ad .next I {
+	POSITION: absolute; WIDTH: 8px; BACKGROUND: url(../images/comicinfo/cs_pic.png) no-repeat 0px -235px; HEIGHT: 13px; TOP: 8px; CURSOR: pointer; LEFT: 12px
+}
+.comic_info .auto_ad .next I {
+	BACKGROUND-POSITION: -15px -235px
+}
+.comic_info .coverBox .btn_wrap {
+	MARGIN-TOP: 15px; MARGIN-LEFT: 48px
+}
+.comic_info .coverBox .btn_wrap A {
+	MARGIN: 0px 20px 0px 0px; PADDING-LEFT: 25px
+}
+.comic_info .btn_wrap A {
+	LINE-HEIGHT: 24px; MARGIN: 10px 26px 0px 16px; BACKGROUND: url(../images/comicinfo/cs_pic.png) no-repeat -44px -180px; FLOAT: left; HEIGHT: 24px
+}
+.comic_info .btn_wrap .btn_reward {
+	BACKGROUND-POSITION: -44px -205px
+}
+.comic_info .btn_wrap .btn_dub_ds.btn_reward {
+	BACKGROUND-POSITION: 0px -554px
+}
+.comic_info .btn_wrap .btn_share {
+	BACKGROUND-POSITION: -44px -230px
+}
+.side {
+	MARGIN: 25px 0px 15px; WIDTH: 250px; FLOAT: left
+}
+.side_top {
+	BORDER-BOTTOM: #bfbfbf 1px solid; BORDER-LEFT: #bfbfbf 1px solid; WIDTH: 248px; BACKGROUND: #fafafa; BORDER-TOP: #bfbfbf 1px solid; BORDER-RIGHT: #bfbfbf 1px solid
+}
+.side H2 {
+	BACKGROUND: url(../images/comicinfo/side_pic.jpg) no-repeat
+}
+.side .gift UL {
+	BACKGROUND: url(../images/comicinfo/side_pic.jpg) no-repeat
+}
+.side .dynamic P {
+	BACKGROUND: url(../images/comicinfo/side_pic.jpg) no-repeat
+}
+.side .send_gift P {
+	BACKGROUND: url(../images/comicinfo/side_pic.jpg) no-repeat
+}
+.side .gift H2 {
+	Z-INDEX: 5; POSITION: relative; PADDING-BOTTOM: 0px; MARGIN: -17px auto 8px; PADDING-LEFT: 0px; WIDTH: 175px; PADDING-RIGHT: 0px; HEIGHT: 32px; PADDING-TOP: 0px
+}
+.side .gift UL {
+	BACKGROUND-POSITION: 0px -35px; HEIGHT: 78px
+}
+.side .gift LI {
+	POSITION: relative; WIDTH: 62px; FLOAT: left; HEIGHT: 78px
+}
+.side .gift A {
+	POSITION: relative; WIDTH: 62px; FLOAT: left; HEIGHT: 78px
+}
+.side .gift A:hover {
+	TEXT-DECORATION: none
+}
+.side .gift LI .num {
+	POSITION: absolute; TEXT-ALIGN: center; WIDTH: 62px; BOTTOM: 0px; FONT: 12px/16px "Arial"; HEIGHT: 16px; COLOR: #fff; LEFT: 0px
+}
+.side .gift .pop_box {
+	Z-INDEX: 5; POSITION: absolute; WIDTH: 365px; DISPLAY: none; HEIGHT: 168px; TOP: 78px; LEFT: 0px
+}
+.side .gift .pop_box .bg {
+	POSITION: absolute; FILTER: alpha(opacity=90); WIDTH: 365px; BACKGROUND: #000; HEIGHT: 168px; TOP: 0px; LEFT: 0px; opacity: 0.9
+}
+.side .gift .pop_box B {
+	POSITION: absolute; FILTER: alpha(opacity=90); WIDTH: 10px; BACKGROUND: url(../images/comicinfo/cs_pic.png) no-repeat -55px -135px; HEIGHT: 13px; OVERFLOW: hidden; TOP: 28px; LEFT: -10px; opacity: 0.9
+}
+.side .gift .pop_box .con {
+	POSITION: absolute; LINE-HEIGHT: 24px; COLOR: #fff; FONT-SIZE: 14px; TOP: 0px; LEFT: 0px
+}
+.side .gift .pop_box .con .fl {
+	TEXT-ALIGN: center; WIDTH: 140px
+}
+.side .gift .pop_box .con .fl SPAN {
+	MARGIN: 10px auto 5px; WIDTH: 95px; DISPLAY: block; BACKGROUND: url(../images/comicinfo/bg_pop_gift.png) no-repeat; HEIGHT: 90px
+}
+.side .gift .pop_box .con .fl STRONG {
+	FONT: 20px/30px "Arial"; COLOR: #ff444f
+}
+.side .gift .pop_box .con .fr {
+	MARGIN: 20px 25px 0px 0px; WIDTH: 200px
+}
+.side .gift .pop_box .con .fr P {
+	WIDTH: 200px; HEIGHT: 100px; OVERFLOW: hidden
+}
+.side .gift .pop_box .con .fr A {
+	TEXT-ALIGN: center; LINE-HEIGHT: 28px; WIDTH: 110px; DISPLAY: block; BACKGROUND: #f6b235; HEIGHT: 28px; COLOR: #fff; border-radius: 2px
+}
+.side .gift .pop_box .con .fr A:hover {
+	FILTER: alpha(opacity=90); TEXT-DECORATION: none; opacity: 0.9
+}
+.side .dynamic P A.fr:hover {
+	FILTER: alpha(opacity=90); TEXT-DECORATION: none; opacity: 0.9
+}
+.side .gift .coffee .con .fl SPAN {
+	BACKGROUND-POSITION: 0px -90px
+}
+.side .gift .coffee .con .fr A {
+	BACKGROUND: #6dad14
+}
+.side .gift .jewel .con .fl SPAN {
+	BACKGROUND-POSITION: 0px -180px
+}
+.side .gift .jewel .con .fr A {
+	BACKGROUND: #70c2f8
+}
+.side .gift .house .con .fl SPAN {
+	BACKGROUND-POSITION: 0px -270px
+}
+.side .gift .house .con .fr A {
+	
+}
+.side .gift .pop_box .close {
+	Z-INDEX: 2; POSITION: absolute; WIDTH: 30px; HEIGHT: 30px; TOP: 0px; LEFT: 365px
+}
+.side .gift .pop_box .close SPAN {
+	FILTER: alpha(opacity=70); WIDTH: 30px; DISPLAY: block; BACKGROUND: #000; HEIGHT: 30px; CURSOR: pointer; opacity: 0.7
+}
+.side .gift .pop_box .close I {
+	POSITION: absolute; WIDTH: 20px; BACKGROUND: url(../images/comicinfo/cs_pic.png) no-repeat 0px -70px; HEIGHT: 20px; OVERFLOW: hidden; TOP: 5px; CURSOR: pointer; LEFT: 5px
+}
+.side .gift .pop_box .close:hover I {
+	BACKGROUND-POSITION: -20px -70px
+}
+.love_gift H3 {
+	POSITION: relative; PADDING-BOTTOM: 0px; LINE-HEIGHT: 50px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BACKGROUND: #f1f1f1; HEIGHT: 50px; COLOR: #333; FONT-SIZE: 12px; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+.love_gift H3 A {
+	POSITION: absolute; COLOR: #0099dd; TOP: 0px; RIGHT: 10px; FONT-WEIGHT: normal
+}
+.aBtnBoxGreen {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; LINE-HEIGHT: 28px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; DISPLAY: inline-block; BACKGROUND: #6dad14; HEIGHT: 28px; COLOR: #fff; FONT-SIZE: 14px; PADDING-TOP: 0px; border-radius: 2px
+}
+.aBtnBoxGreen:hover {
+	FILTER: alpha(opacity=90); TEXT-DECORATION: none; opacity: 0.9
+}
+.gift_value {
+	PADDING-TOP: 12px
+}
+.gift_value .fr {
+	LINE-HEIGHT: 22px; WIDTH: 154px
+}
+.gift_value .fl {
+	PADDING-LEFT: 10px; WIDTH: 78px
+}
+.gift_value .fr STRONG {
+	COLOR: #ea9105; FONT-SIZE: 16px
+}
+.gift_value .fr A {
+	MARGIN-TOP: 5px
+}
+.love_gift .why {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; PADDING-TOP: 10px
+}
+.love_gift .why .fl {
+	WIDTH: 60px
+}
+.love_gift .why .fr {
+	WIDTH: 156px
+}
+.gift_value_box {
+	POSITION: relative; HEIGHT: 222px; OVERFLOW: hidden
+}
+.send_gift_box {
+	POSITION: absolute; TOP: 0px; LEFT: 4px
+}
+.send_gift .gift_value {
+	PADDING-BOTTOM: 5px; BACKGROUND: url(../../common/images/bg_line.png) repeat-x left bottom
+}
+.send_gift .gift_value .aSend {
+	TEXT-ALIGN: right; PADDING-RIGHT: 10px; COLOR: #0099dd
+}
+.side .send_gift P {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 34px; PADDING-LEFT: 5px; PADDING-RIGHT: 10px; BACKGROUND-POSITION: 0px -170px; HEIGHT: 34px; COLOR: #38961f; PADDING-TOP: 0px
+}
+.side .send_gift P A.fl {
+	COLOR: #bb8522
+}
+.side .send_gift P A.fr {
+	TEXT-ALIGN: center; LINE-HEIGHT: 22px; MARGIN: 6px 0px 0px 5px; WIDTH: 47px; BACKGROUND: #f6b235; HEIGHT: 22px; COLOR: #fff; border-radius: 2px
+}
+.side .send_gift P EM {
+	FLOAT: right; COLOR: #38961f
+}
+.side H2 {
+	TEXT-INDENT: -999em; HEIGHT: 51px
+}
+.side .ts_no {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(../../common/images/bg_line.png) repeat-x left bottom; HEIGHT: 90px; COLOR: #333; PADDING-TOP: 30px
+}
+.side .ts_no IMG {
+	VERTICAL-ALIGN: middle; MARGIN-RIGHT: 5px
+}
+.side .dynamic H2 {
+	MARGIN-TOP: 1px; BACKGROUND-POSITION: 0px -115px; HEIGHT: 51px; BORDER-TOP: #ffae00 4px solid
+}
+.pos_rel_parent {
+	POSITION: relative; MARGIN-TOP: 10px; PADDING-LEFT: 5px; HEIGHT: 112px; OVERFLOW: hidden
+}
+.side .dynamic UL {
+	MARGIN: 0px auto; WIDTH: 238px; PADDING-TOP: 10px
+}
+.pos_abs_top {
+	POSITION: absolute; TOP: 0px; PADDING-TOP: 0px !important
+}
+.side .dynamic LI {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 28px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BACKGROUND: url(../../common/images/bg_line.png) repeat-x left bottom; HEIGHT: 28px; COLOR: #999; PADDING-TOP: 0px
+}
+.side .dynamic LI A {
+	WIDTH: 88px; DISPLAY: inline-block; COLOR: #333
+}
+.side .dynamic LI A:hover {
+	COLOR: #6dad14
+}
+.side .dynamic LI SPAN {
+	FONT-FAMILY: "Arial"; COLOR: #ff444f; MARGIN-LEFT: 10px
+}
+.side .dynamic LI EM {
+	WIDTH: 18px; DISPLAY: inline-block; BACKGROUND: url(../images/comicinfo/cs_pic.png) no-repeat 0px -260px; HEIGHT: 18px; MARGIN-LEFT: 12px; VERTICAL-ALIGN: middle
+}
+.side .dynamic P {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 34px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BACKGROUND-POSITION: 0px -170px; HEIGHT: 34px; COLOR: #38961f; PADDING-TOP: 0px
+}
+.side .dynamic P A.fl {
+	COLOR: #bb8522
+}
+.side .dynamic P A.fr {
+	TEXT-ALIGN: center; LINE-HEIGHT: 22px; MARGIN: 6px 0px 0px 5px; WIDTH: 47px; BACKGROUND: #f6b235; HEIGHT: 22px; COLOR: #fff; border-radius: 2px
+}
+.side .ad_box {
+	MARGIN: 10px auto; DISPLAY: block
+}
+.side .ad_box IMG {
+	DISPLAY: block
+}
+.side .rank .tab {
+	BORDER-BOTTOM: #46c1ac 2px solid; POSITION: relative; HEIGHT: 37px; BORDER-TOP: #bdbdbd 1px solid
+}
+.side .rank .tab DIV {
+	Z-INDEX: 2; POSITION: absolute; TOP: 0px; LEFT: 0px
+}
+.side .rank .tab A {
+	TEXT-ALIGN: center; WIDTH: 128px; DISPLAY: block; FONT: 14px/37px "Microsoft Yahei"; HEIGHT: 37px
+}
+.side .rank .tab .curr {
+	COLOR: #fff; FONT-SIZE: 16px; TEXT-DECORATION: none
+}
+.side .rank .tab SPAN {
+	POSITION: absolute; WIDTH: 124px; BACKGROUND: url(../images/comicinfo/side_pic.jpg) no-repeat 0px -210px; HEIGHT: 40px; TOP: -1px; LEFT: 0px
+}
+.side .rank_con UL {
+	MARGIN: 0px auto; WIDTH: 238px
+}
+.side .rank LI {
+	POSITION: relative; PADDING-BOTTOM: 0px; LINE-HEIGHT: 34px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; BACKGROUND: url(../../common/images/bg_line.png) repeat-x left bottom; HEIGHT: 35px; CLEAR: both; PADDING-TOP: 0px
+}
+.side .rank .num {
+	WIDTH: 18px; FONT: italic 13px/34px "Arial"; FLOAT: left; COLOR: #666
+}
+.side .rank .tx {
+	BORDER-BOTTOM: #cbcbcb 1px solid; BORDER-LEFT: #cbcbcb 1px solid; MARGIN: 5px 10px 0px 0px; WIDTH: 22px; FLOAT: left; HEIGHT: 22px; BORDER-TOP: #cbcbcb 1px solid; BORDER-RIGHT: #cbcbcb 1px solid
+}
+.side .rank .tx IMG {
+	WIDTH: 20px; DISPLAY: block; HEIGHT: 20px
+}
+.side .rank .name {
+	WIDTH: 90px; DISPLAY: inline-block; FONT-FAMILY: "microsoft yahei", simhei, simsun; COLOR: #333; FONT-SIZE: 13px
+}
+.side .rank .name_1 {
+	WIDTH: 90px !important
+}
+.side .rank .name:hover {
+	COLOR: #6dad14
+}
+.side .rank LI I {
+	FONT-FAMILY: "microsoft yahei"; FLOAT: right; MARGIN-RIGHT: 3px
+}
+.side .rank .q {
+	PADDING-BOTTOM: 9px; LINE-HEIGHT: 20px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; HEIGHT: 42px; PADDING-TOP: 9px
+}
+.side .rank .author_lev {
+	FLOAT: right
+}
+.side .rank .q .tx {
+	POSITION: relative; MARGIN-TOP: 0px; WIDTH: 40px; HEIGHT: 40px
+}
+.side .rank .q IMG {
+	WIDTH: 40px; HEIGHT: 40px
+}
+.side .rank .q .num {
+	POSITION: absolute; LINE-HEIGHT: 16px; PADDING-LEFT: 1px; WIDTH: 19px; BACKGROUND: url(../images/comicinfo/cs_pic.png) no-repeat -20px -260px; HEIGHT: 20px; COLOR: #fff; OVERFLOW: hidden; TOP: 0px; LEFT: 0px
+}
+.side .rank .q .name {
+	FONT-WEIGHT: bold
+}
+.side .rank .q .add {
+	DISPLAY: block; COLOR: #999
+}
+.side .rank .q I {
+	MARGIN-TOP: 0px; FONT-SIZE: 14px
+}
+.side .rank .second .num {
+	BACKGROUND-POSITION: 0px -280px
+}
+.side .rank .third .num {
+	BACKGROUND-POSITION: -20px -280px
+}
+.side #hy .bot {
+	Z-INDEX: 11; LINE-HEIGHT: 40px; PADDING-LEFT: 10px; WIDTH: 238px; HEIGHT: 44px; COLOR: #333; CLEAR: both; _height: 16px; _padding: 12px 0 18px 3px; _line-height: 16px
+}
+.side .no_hy {
+	TEXT-ALIGN: center; HEIGHT: 305px; COLOR: #333; PADDING-TOP: 120px
+}
+.side .no_hy A {
+	COLOR: #f65100
+}
+.side .rank .help {
+	TEXT-ALIGN: center; WIDTH: 16px; DISPLAY: inline-block; FONT: 14px/16px "Arial"; BACKGROUND: #a7a7a7; HEIGHT: 16px; COLOR: #fff
+}
+.side .character .help {
+	TEXT-ALIGN: center; WIDTH: 16px; DISPLAY: inline-block; FONT: 14px/16px "Arial"; BACKGROUND: #a7a7a7; HEIGHT: 16px; COLOR: #fff
+}
+.side .rank EM {
+	WIDTH: 8px; DISPLAY: inline-block; BACKGROUND: url(../images/comicinfo/cs_pic.png) no-repeat; HEIGHT: 8px; OVERFLOW: hidden
+}
+.side .rank EM.up {
+	BACKGROUND-POSITION: 0px -505px
+}
+.side .rank EM.down {
+	BACKGROUND-POSITION: -11px -505px
+}
+.side .rank EM.no_change {
+	BACKGROUND-POSITION: -24px -505px
+}
+.side .rank .help:hover {
+	BACKGROUND: #6dad14; TEXT-DECORATION: none
+}
+.side .character .help:hover {
+	BACKGROUND: #6dad14; TEXT-DECORATION: none
+}
+.side #hy .bot .fr {
+	MARGIN: 0px 5px 0px 0px; _top: 0
+}
+.side #m_ticket LI {
+	HEIGHT: 36px
+}
+.side #m_ticket LI I {
+	FONT-FAMILY: "microsoft yahei"; COLOR: #666; FONT-SIZE: 14px; MARGIN-RIGHT: -2px
+}
+.side #m_ticket LI I STRONG {
+	FONT: 16px "Microsoft Yahei"; COLOR: #ff444f; MARGIN-RIGHT: 2px
+}
+.side #m_ticket .second .num {
+	COLOR: #ff9000
+}
+.side #m_ticket .third .num {
+	COLOR: #4dc1f1
+}
+.side #m_ticket .first {
+	PADDING-BOTTOM: 12px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; HEIGHT: 42px; PADDING-TOP: 12px
+}
+.side #m_ticket .first I {
+	MARGIN-TOP: 0px; PADDING-LEFT: 24px; DISPLAY: block; FONT-FAMILY: "Microsoft Yahei"; BACKGROUND: url(../images/comicinfo/cs_pic.png) no-repeat -45px -257px; FLOAT: none
+}
+.side #m_ticket .first I STRONG {
+	FONT: 22px "Arial"; COLOR: #ff2792; MARGIN-RIGHT: 3px
+}
+.side #m_ticket .bot P {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 34px; MARGIN-TOP: 1px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BACKGROUND: url(../images/comicinfo/side_pic.jpg) no-repeat 0px -170px; HEIGHT: 34px; COLOR: #666; PADDING-TOP: 0px
+}
+.side #m_ticket .bot P A {
+	TEXT-ALIGN: center; LINE-HEIGHT: 22px; MARGIN-TOP: 6px; WIDTH: 47px; BACKGROUND: #f6b235; FLOAT: right; HEIGHT: 22px; COLOR: #fff; border-radius: 2px
+}
+.side #m_ticket .bot P A:hover {
+	FILTER: alpha(opacity=90); TEXT-DECORATION: none; opacity: 0.9
+}
+.side #m_ticket .bot DIV {
+	LINE-HEIGHT: 40px; HEIGHT: 44px
+}
+.side #m_ticket .bot DIV A {
+	MARGIN: 0px 5px
+}
+.side #m_ticket .bot DIV A:hover {
+	COLOR: #6dad14
+}
+.side .character H2 {
+	BACKGROUND-POSITION: 0px -250px; BORDER-TOP: #6dad14 4px solid
+}
+.side .character LI {
+	Z-INDEX: 11; BORDER-BOTTOM: #e5e5e5 1px solid; POSITION: relative; MARGIN: 0px auto; PADDING-LEFT: 14px; WIDTH: 221px; HEIGHT: 105px
+}
+.txtTs {
+	Z-INDEX: 10; BORDER-BOTTOM: #d5c6bb 1px solid; POSITION: absolute; BORDER-LEFT: #d5c6bb 1px solid; PADDING-BOTTOM: 10px; LINE-HEIGHT: 20px; PADDING-LEFT: 8px; WIDTH: 240px; PADDING-RIGHT: 8px; DISPLAY: none; BACKGROUND: #fffded; COLOR: #4d4d4d; FONT-SIZE: 12px; BORDER-TOP: #d5c6bb 1px solid; TOP: 40px; BORDER-RIGHT: #d5c6bb 1px solid; PADDING-TOP: 10px; LEFT: 220px
+}
+.txtTs H5 {
+	FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.side .character H4 {
+	PADDING-BOTTOM: 8px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT: italic 14px/16px "Microsoft Yahei"; COLOR: #f44b55; PADDING-TOP: 15px
+}
+.side .character H4 EM {
+	WIDTH: 3px; DISPLAY: inline-block; BACKGROUND: #f44b55; HEIGHT: 16px; VERTICAL-ALIGN: middle; OVERFLOW: hidden; MARGIN-RIGHT: 5px
+}
+.side .character .tx {
+	POSITION: relative; WIDTH: 58px; FLOAT: left; HEIGHT: 58px
+}
+.side .character .tx SPAN {
+	POSITION: absolute; WIDTH: 58px; BACKGROUND: url(../images/comicinfo/cs_pic.png) no-repeat 0px -300px; HEIGHT: 58px; TOP: 0px; CURSOR: pointer; LEFT: 0px
+}
+.side .character .tx IMG {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; MARGIN: 4px; WIDTH: 50px; DISPLAY: block; HEIGHT: 50px; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid; box-shadow: 0 0 3px #999; border-radius: 3px
+}
+.side .character .help {
+	MARGIN-TOP: 2px; FLOAT: right
+}
+.side .character .name {
+	LINE-HEIGHT: 26px; COLOR: #333; FONT-SIZE: 14px
+}
+.side .character .name:hover {
+	COLOR: #6dad14
+}
+.side .character .fl P {
+	PADDING-BOTTOM: 15px; LINE-HEIGHT: 16px; PADDING-LEFT: 5px; WIDTH: 158px; PADDING-RIGHT: 0px; HEIGHT: 16px; COLOR: #666; PADDING-TOP: 2px; _padding: 7px 0 5px 5px
+}
+.side .character .fans EM {
+	FONT-FAMILY: "Arial"; COLOR: #ff444f
+}
+.side .character .gz {
+	DISPLAY: none; BACKGROUND: #46c1ac; MARGIN-RIGHT: 0px
+}
+.side .character .role2 H4 {
+	COLOR: #c77ff1
+}
+.side .character .role2 H4 EM {
+	BACKGROUND: #c77ff1
+}
+.side .character .role3 H4 {
+	COLOR: #6dad14
+}
+.side .character .role3 H4 EM {
+	BACKGROUND: #6dad14
+}
+.side .character .role4 H4 {
+	COLOR: #f78d10
+}
+.side .character .role4 H4 EM {
+	BACKGROUND: #f78d10
+}
+.side .character .role4 {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.side .reader_push {
+	POSITION: relative; HEIGHT: 488px
+}
+.side .reader_push H2 {
+	MARGIN-TOP: 20px; BACKGROUND-POSITION: -1px -467px; BORDER-TOP: #1dadad 4px solid
+}
+.conBox {
+	DISPLAY: none
+}
+.side .reader_push UL {
+	MARGIN: 0px 14px
+}
+.side .reader_push LI {
+	PADDING-BOTTOM: 14px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: url(../../common/images/bg_line.png) repeat-x left bottom; HEIGHT: 110px; PADDING-TOP: 14px
+}
+.side .reader_push LI .img_box {
+	BORDER-BOTTOM: #e8e8e8 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #e8e8e8 1px solid; WIDTH: 83px; FLOAT: left; HEIGHT: 108px; BORDER-TOP: #e8e8e8 1px solid; BORDER-RIGHT: #e8e8e8 1px solid; PADDING-TOP: 1px; box-shadow: 0 0 4px #f1f1f1; border-radius: 4px
+}
+.side .reader_push LI .img_box IMG {
+	BORDER-BOTTOM: #bfbfbf 1px solid; BORDER-LEFT: #bfbfbf 1px solid; WIDTH: 79px; HEIGHT: 105px; BORDER-TOP: #bfbfbf 1px solid; BORDER-RIGHT: #bfbfbf 1px solid
+}
+.side .reader_push LI .fr {
+	WIDTH: 128px
+}
+.side .reader_push LI H3 A {
+	COLOR: #ff444f; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.side .reader_push LI P {
+	COLOR: #666; FONT-SIZE: 13px
+}
+.side .reader_push .touxiang_box {
+	MARGIN-TOP: 16px; HEIGHT: 30px
+}
+.side .reader_push .touxiang_box .img_tx IMG {
+	BORDER-BOTTOM: #cbcbcb 1px solid; BORDER-LEFT: #cbcbcb 1px solid; WIDTH: 20px; HEIGHT: 20px; VERTICAL-ALIGN: middle; BORDER-TOP: #cbcbcb 1px solid; BORDER-RIGHT: #cbcbcb 1px solid
+}
+.side .reader_push .touxiang_box .img_name {
+	POSITION: relative; COLOR: #f99200; FONT-SIZE: 13px; TOP: 3px
+}
+.side .reader_push .touxiang_box .zan {
+	WIDTH: 16px; DISPLAY: inline-block; BACKGROUND: url(../images/comic_update/update_ico.png) no-repeat -47px -3px; HEIGHT: 16px; MARGIN-LEFT: 5px; VERTICAL-ALIGN: middle; OVERFLOW: hidden
+}
+.side .reader_push LI.last {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 36px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 36px; FONT-SIZE: 13px; PADDING-TOP: 0px
+}
+.side .reader_push LI.last .fl {
+	COLOR: #818488
+}
+.side .reader_push LI.last .fr_t {
+	FLOAT: right; COLOR: #333
+}
+.side .strong_push H2 {
+	MARGIN-TOP: 20px; BACKGROUND-POSITION: 0px -305px; BORDER-TOP: #ee4036 4px solid
+}
+.side .strong_push LI {
+	PADDING-BOTTOM: 1px; MARGIN: 0px auto; WIDTH: 238px; BACKGROUND: url(../../common/images/bg_line.png) repeat-x left bottom
+}
+.side .strong_push LI P {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 28px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; HEIGHT: 28px; PADDING-TOP: 0px
+}
+.side .strong_push LI P A:hover {
+	COLOR: #6dad14
+}
+.side .strong_push LI P SPAN {
+	FLOAT: right; COLOR: #ff444f
+}
+.side .strong_push .info {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: none; HEIGHT: 107px; COLOR: #666; PADDING-TOP: 10px
+}
+.side .strong_push .info .cover {
+	BORDER-BOTTOM: #c0c0c0 1px solid; BORDER-LEFT: #c0c0c0 1px solid; WIDTH: 79px; FLOAT: left; HEIGHT: 105px; BORDER-TOP: #c0c0c0 1px solid; BORDER-RIGHT: #c0c0c0 1px solid
+}
+.side .strong_push .info IMG {
+	WIDTH: 79px; DISPLAY: block; HEIGHT: 105px
+}
+.side .strong_push .info .fr {
+	LINE-HEIGHT: 20px; WIDTH: 145px
+}
+.side .strong_push .info .name {
+	COLOR: #ff444f; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.side .strong_push .info SPAN {
+	COLOR: #333
+}
+.pd_tb_7 {
+	PADDING-BOTTOM: 5px; PADDING-TOP: 5px
+}
+.side .more_push H2 {
+	MARGIN-TOP: 20px; BACKGROUND-POSITION: 0px -415px; BORDER-TOP: #ffb679 4px solid
+}
+.side .more_push .list {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 12px; PADDING-RIGHT: 0px; PADDING-TOP: 10px
+}
+.side .more_push .list A {
+	LINE-HEIGHT: 24px; COLOR: #333; FONT-SIZE: 13px; MARGIN-RIGHT: 30px
+}
+.side .more_push .list A:hover {
+	COLOR: #6dad14
+}
+.visitors H2 {
+	MARGIN-TOP: 25px; BACKGROUND-POSITION: 0px -360px; BORDER-TOP: #369eee 4px solid
+}
+.visitors A {
+	POSITION: relative; TEXT-ALIGN: center; LINE-HEIGHT: 16px; MARGIN: 12px 2px; WIDTH: 58px; DISPLAY: inline; FLOAT: left; COLOR: #999; OVERFLOW: hidden; _width: 58px
+}
+.visitors I {
+	POSITION: absolute; WIDTH: 58px; BACKGROUND: url(../images/comicinfo/cs_pic.png) no-repeat 0px -300px; HEIGHT: 58px; TOP: 0px; CURSOR: pointer; LEFT: 0px
+}
+.visitors A SPAN {
+	DISPLAY: block; HEIGHT: 16px; COLOR: #333; OVERFLOW: hidden
+}
+.visitors A SPAN:hover {
+	COLOR: #6dad14
+}
+.visitors IMG {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; MARGIN: 4px; WIDTH: 50px; DISPLAY: block; HEIGHT: 50px; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid; box-shadow: 0 0 3px #999; border-radius: 3px
+}
+.visitors P {
+	TEXT-ALIGN: center; LINE-HEIGHT: 30px; MARGIN: 0px 5px; BACKGROUND: url(../../common/images/bg_line.png) repeat-x left top; HEIGHT: 30px; COLOR: #369eee; CLEAR: both
+}
+.side_bot {
+	PADDING-TOP: 10px
+}
+.side_bot A IMG {
+	BORDER-BOTTOM: #ccc 1px solid; BORDER-LEFT: #ccc 1px solid; DISPLAY: block; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid
+}
+.side_bot A {
+	MARGIN-TOP: 10px; WIDTH: 250px; DISPLAY: block; HEIGHT: 250px
+}
+.main {
+	WIDTH: 930px; MARGIN-BOTTOM: 15px; FLOAT: right
+}
+.noInformation {
+	TEXT-ALIGN: center; LINE-HEIGHT: 180px; FONT-FAMILY: "microsoft yahei"; HEIGHT: 180px; COLOR: #999; FONT-SIZE: 14px
+}
+.noInformation IMG {
+	VERTICAL-ALIGN: middle; MARGIN-RIGHT: 10px
+}
+.chapterlist H3 {
+	PADDING-BOTTOM: 5px; HEIGHT: 30px
+}
+.chapterlist H3 STRONG {
+	FONT: 500 22px/30px "Microsoft Yahei"; FLOAT: left; COLOR: #333
+}
+.chapterlist H3 A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 12px; PADDING-RIGHT: 12px; BACKGROUND: #d7ebfb; FLOAT: right; HEIGHT: 22px; MARGIN-RIGHT: 10px; PADDING-TOP: 0px; -webkit-transition: none; -moz-transition: none; -o-transition: none; transition: none; -ms-transition: none; border-radius: 2px
+}
+.chapterlist H3 A.tm_btn {
+	BACKGROUND: #cee7ac
+}
+.chapterlist H3 A.a_link {
+	LINE-HEIGHT: 30px; FONT-FAMILY: "microsoft yahei"; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: left; COLOR: #ff6600; FONT-SIZE: 16px
+}
+.chapterlist H3 A.a_link EM {
+	POSITION: relative; MARGIN: 0px 2px; WIDTH: 20px; DISPLAY: inline-block; BACKGROUND: url(../images/comicinfo/cs_btn.png) no-repeat 0px -158px; HEIGHT: 17px; TOP: 2px
+}
+.chapterlist H3 A.a_link:hover {
+	BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #ff6600; TEXT-DECORATION: underline
+}
+.chapterlist H3 .turn {
+	PADDING-RIGHT: 18px; BACKGROUND: url(../images/comicinfo/cs_pic.png) #d7ebfb no-repeat 65px -358px
+}
+.chapterlist H3 A:hover {
+	BACKGROUND-COLOR: #379be9; COLOR: #fff; TEXT-DECORATION: none
+}
+.chapterlist H3 A.tm_btn:hover {
+	BACKGROUND: #6dad14
+}
+.chapterlist H3 .turn:hover {
+	BACKGROUND-POSITION: 65px -394px
+}
+.chapterlist H3 .down {
+	BACKGROUND-POSITION: 65px -376px
+}
+.chapterlist H3 .down:hover {
+	BACKGROUND-POSITION: 65px -412px
+}
+.chapterlist_box {
+	BORDER-BOTTOM: #e3e3e3 5px solid; POSITION: relative; BORDER-LEFT: #e3e3e3 5px solid; PADDING-BOTTOM: 2px; PADDING-LEFT: 10px; WIDTH: 900px; PADDING-RIGHT: 10px; BORDER-TOP: #e3e3e3 5px solid; BORDER-RIGHT: #e3e3e3 5px solid; PADDING-TOP: 2px
+}
+.chapterlist_box B {
+	BORDER-BOTTOM: #000 0px solid; POSITION: absolute; BORDER-LEFT: #000 5px solid; WIDTH: 11px; HEIGHT: 11px; OVERFLOW: hidden; BORDER-TOP: #000 5px solid; BORDER-RIGHT: #000 0px solid
+}
+.chapterlist_box B.tl {
+	TOP: -5px; LEFT: -5px
+}
+.chapterlist_box B.tr {
+	BORDER-RIGHT-WIDTH: 5px; BORDER-TOP-WIDTH: 5px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; TOP: -5px; RIGHT: -5px
+}
+.chapterlist_box B.bl {
+	BORDER-RIGHT-WIDTH: 0px; BOTTOM: -5px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 5px; BORDER-LEFT-WIDTH: 5px; LEFT: -5px
+}
+.chapterlist_box B.br {
+	BORDER-RIGHT-WIDTH: 5px; BOTTOM: -5px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 5px; BORDER-LEFT-WIDTH: 0px; RIGHT: -5px
+}
+.chapterlist_box UL {
+	BACKGROUND: url(../images/comicinfo/chapter_line.png) repeat-x left bottom
+}
+.chapterlist_box LI {
+	POSITION: relative; PADDING-LEFT: 15px; WIDTH: 210px; FONT: 12px/46px "Tahoma"; BACKGROUND: url(../images/comicinfo/chapter_line.png) repeat-x left bottom; FLOAT: left; HEIGHT: 47px; COLOR: #999
+}
+.chapterlist_box LI A {
+	POSITION: relative; PADDING-LEFT: 15px; FONT: 14px/46px "ËÎÌå"; BACKGROUND: url(../images/comicinfo/cs_pic.png) no-repeat -55px -352px; FLOAT: left; COLOR: #09d; MARGIN-RIGHT: 5px
+}
+.chapterlist_box LI A.cur {
+	COLOR: #7744bb
+}
+.chapterlist_box LI A I {
+	POSITION: absolute; WIDTH: 23px; BACKGROUND: url(../../common/images/cs_ico.png) no-repeat 0px -440px; HEIGHT: 11px; TOP: 4px; RIGHT: -18px
+}
+.chapterlist_box LI .redline {
+	POSITION: absolute; WIDTH: 130px; BOTTOM: 6px; BACKGROUND: url(../images/comicinfo/red_line.png) no-repeat; HEIGHT: 8px; LEFT: 20px; _bottom: 0px
+}
+.chapterlist_box LI .ico_new {
+	POSITION: absolute; TOP: 6px; RIGHT: -24px
+}
+.chapterlist_box LI A.pay_chapter {
+	BACKGROUND-POSITION: -55px -384px
+}
+.chapterlist_box LI A.vip_chapter {
+	BACKGROUND-POSITION: -55px -417px
+}
+.chapterlist_box LI A .vip_xianmian {
+	POSITION: absolute; WIDTH: 26px; BACKGROUND: url(../images/comicinfo/cs_pic.png) no-repeat 0px -609px; HEIGHT: 15px; OVERFLOW: hidden; TOP: 16px; LEFT: -15px
+}
+.chapterlist_box .bot {
+	PADDING-BOTTOM: 20px; PADDING-LEFT: 15px; PADDING-RIGHT: 0px; HEIGHT: 27px; PADDING-TOP: 25px
+}
+.chapterlist_box .bot .fl A {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 27px; BACKGROUND-COLOR: #6dad14; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; FLOAT: left; HEIGHT: 27px; COLOR: #fff; MARGIN-RIGHT: 12px; PADDING-TOP: 0px; border-radius: 1px
+}
+.btn {
+	BACKGROUND-IMAGE: url(../images/comicinfo/cs_btn.png)
+}
+.chapterlist_box .bot .fl .add_book {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 110px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.chapterlist_box .bot .fl .add_book_end {
+	BACKGROUND-POSITION: 0px -128px
+}
+.chapterlist_box .bot .fl SPAN {
+	LINE-HEIGHT: 27px; FLOAT: left; COLOR: #666
+}
+.chapterlist_box .bot A:hover {
+	FILTER: alpha(opacity=90); TEXT-DECORATION: none; opacity: 0.9
+}
+.vote .btn_vote:hover {
+	FILTER: alpha(opacity=90); TEXT-DECORATION: none; opacity: 0.9
+}
+.vote .new_vote .btn_wrap .btn_result:hover {
+	FILTER: alpha(opacity=90); TEXT-DECORATION: none; opacity: 0.9
+}
+.chapterlist_box .btn_ds {
+	WIDTH: 110px; BACKGROUND-POSITION: 0px -30px; FLOAT: right; HEIGHT: 27px
+}
+.chapterlist_box .ds_dub_txt {
+	POSITION: relative; TEXT-ALIGN: center; LINE-HEIGHT: 33px; WIDTH: 108px; PADDING-RIGHT: 10px; BACKGROUND-POSITION: 0px -293px; FLOAT: right; HEIGHT: 32px; COLOR: #ff3541; FONT-SIZE: 13px; TOP: -2px; FONT-WEIGHT: bold; MARGIN-RIGHT: 15px
+}
+.recomend {
+	MARGIN-TOP: 24px; HEIGHT: 265px; OVERFLOW: hidden
+}
+.main .tab_wrap {
+	BORDER-BOTTOM: #534942 2px solid; POSITION: relative; BORDER-LEFT: #cecece 1px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; BACKGROUND: #eee; HEIGHT: 35px; BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid; PADDING-TOP: 0px
+}
+.main .tab_scroll DIV {
+	POSITION: absolute; TEXT-ALIGN: center; LINE-HEIGHT: 35px; WIDTH: 125px; HEIGHT: 35px; COLOR: #333; TOP: 0px; BORDER-RIGHT: #cecece 1px solid; LEFT: 0px
+}
+.main .vote_tab DIV {
+	POSITION: absolute; TEXT-ALIGN: center; LINE-HEIGHT: 35px; WIDTH: 125px; HEIGHT: 35px; COLOR: #333; TOP: 0px; BORDER-RIGHT: #cecece 1px solid; LEFT: 0px
+}
+.main .tab_scroll DIV A {
+	Z-INDEX: 2; POSITION: relative; DISPLAY: block; FONT: 14px/35px "Microsoft Yahei"; HEIGHT: 35px; COLOR: #333
+}
+.main .vote_tab A {
+	Z-INDEX: 2; POSITION: relative; DISPLAY: block; FONT: 14px/35px "Microsoft Yahei"; HEIGHT: 35px; COLOR: #333
+}
+.main .tab_scroll .curr {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.main .vote_tab .curr {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.main .tab_scroll SPAN {
+	BORDER-BOTTOM: #3c322b 1px solid; POSITION: absolute; BORDER-LEFT: #3c322b 1px solid; WIDTH: 124px; BACKGROUND: #574c45; HEIGHT: 36px; BORDER-TOP: #3c322b 1px solid; TOP: -1px; CURSOR: pointer; BORDER-RIGHT: #3c322b 1px solid; LEFT: 0px
+}
+.main .vote_tab SPAN {
+	BORDER-BOTTOM: #3c322b 1px solid; POSITION: absolute; BORDER-LEFT: #3c322b 1px solid; WIDTH: 124px; BACKGROUND: #574c45; HEIGHT: 36px; BORDER-TOP: #3c322b 1px solid; TOP: -1px; CURSOR: pointer; BORDER-RIGHT: #3c322b 1px solid; LEFT: 0px
+}
+.main .tab_scroll .ico {
+	WIDTH: 10px; BACKGROUND-POSITION: 0px -455px; HEIGHT: 10px; MARGIN-LEFT: 5px; VERTICAL-ALIGN: text-top; _display: block; _margin: -30px 0 0 80px
+}
+.recomend .other LI {
+	TEXT-ALIGN: center; MARGIN: 28px 13px; DISPLAY: inline; FLOAT: left; COLOR: #999
+}
+.recomend .author_comic LI {
+	TEXT-ALIGN: center; MARGIN: 28px 13px; DISPLAY: inline; FLOAT: left; COLOR: #999
+}
+.recomend .other .cover {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 12px; WIDTH: 104px; PADDING-RIGHT: 12px; DISPLAY: block; BACKGROUND: url(../../common/images/bg_cover.png) no-repeat; HEIGHT: 137px; PADDING-TOP: 2px
+}
+.recomend .author_comic .cover {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 12px; WIDTH: 104px; PADDING-RIGHT: 12px; DISPLAY: block; BACKGROUND: url(../../common/images/bg_cover.png) no-repeat; HEIGHT: 137px; PADDING-TOP: 2px
+}
+.recomend .other IMG {
+	WIDTH: 104px; DISPLAY: block; HEIGHT: 137px
+}
+.recomend .author_comic IMG {
+	WIDTH: 104px; DISPLAY: block; HEIGHT: 137px
+}
+.recomend .other .name {
+	MARGIN-TOP: 5px; DISPLAY: block; COLOR: #333; FONT-SIZE: 14px
+}
+.recomend .author_comic .name {
+	MARGIN-TOP: 5px; DISPLAY: block; COLOR: #333; FONT-SIZE: 14px
+}
+.recomend .other .name:hover {
+	COLOR: #6dad14
+}
+.recomend .author_comic .name:hover {
+	COLOR: #6dad14
+}
+.recomend .rec_anime {
+	PADDING-TOP: 24px
+}
+.recomend .rec_anime .first {
+	LINE-HEIGHT: 24px; WIDTH: 212px; BACKGROUND: url(../images/comicinfo/bg_rec_anime.png) no-repeat; FLOAT: left; HEIGHT: 176px; COLOR: #666
+}
+.recomend .rec_anime .first H4 {
+	PADDING-LEFT: 16px; FONT: 16px/34px "Microsoft Yahei"; COLOR: #fff
+}
+.recomend .rec_anime .first .con {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 28px; PADDING-RIGHT: 0px; PADDING-TOP: 10px
+}
+.recomend .rec_anime .first A {
+	FONT: 15px/30px "Microsoft Yahei"; COLOR: #f75000
+}
+.recomend .rec_anime .anime {
+	WIDTH: 707px; HEIGHT: 200px
+}
+.recomend .rec_anime .animelist {
+	WIDTH: 9999px
+}
+.recomend .rec_anime LI {
+	DISPLAY: inline; FLOAT: left; MARGIN-LEFT: 21px
+}
+.recomend .rec_anime LI IMG {
+	WIDTH: 210px; DISPLAY: block; HEIGHT: 150px
+}
+.recomend .rec_anime LI .cover {
+	BORDER-BOTTOM: #d5d5d5 1px solid; POSITION: relative; BORDER-LEFT: #d5d5d5 1px solid; WIDTH: 210px; DISPLAY: block; HEIGHT: 150px; BORDER-TOP: #d5d5d5 1px solid; BORDER-RIGHT: #d5d5d5 1px solid
+}
+.recomend .rec_anime LI I {
+	POSITION: absolute; WIDTH: 26px; BOTTOM: 6px; BACKGROUND-POSITION: 0px -340px; HEIGHT: 26px; LEFT: 10px
+}
+.recomend .rec_anime LI .cover:hover I {
+	WIDTH: 56px; BACKGROUND-POSITION: 0px -370px; HEIGHT: 56px; TOP: 48px; LEFT: 78px
+}
+.recomend .rec_anime LI .cover:hover {
+	BORDER-BOTTOM: #6dad14 1px solid; BORDER-LEFT: #6dad14 1px solid; BORDER-TOP: #6dad14 1px solid; BORDER-RIGHT: #6dad14 1px solid
+}
+.recomend .rec_anime LI .name {
+	POSITION: relative; TEXT-ALIGN: center; LINE-HEIGHT: 36px; DISPLAY: block; FONT-SIZE: 14px
+}
+.recomend .rec_anime LI .name:hover {
+	COLOR: #6dad14
+}
+.recomend .rec_anime LI .name EM {
+	MARGIN-LEFT: 5px; VERTICAL-ALIGN: text-top
+}
+.recomend .rec_pic {
+	POSITION: relative; MARGIN-TOP: 24px; WIDTH: 925px; HEIGHT: 185px; OVERFLOW: hidden
+}
+.recomend .author_comic {
+	POSITION: relative; MARGIN-TOP: 24px; WIDTH: 925px; HEIGHT: 185px; OVERFLOW: hidden
+}
+.recomend .outer_pic {
+	POSITION: relative; MARGIN-TOP: 24px; WIDTH: 925px; HEIGHT: 185px; OVERFLOW: hidden
+}
+.recomend .tm_pic {
+	POSITION: relative; MARGIN-TOP: 24px; WIDTH: 925px; HEIGHT: 185px; OVERFLOW: hidden
+}
+.recomend .anime {
+	POSITION: relative; MARGIN-TOP: 24px; WIDTH: 925px; HEIGHT: 185px; OVERFLOW: hidden
+}
+.recomend .rec_anime .anime {
+	MARGIN-TOP: 0px; MARGIN-LEFT: 10px
+}
+.recomend .rec_pic .scroll_comic {
+	POSITION: relative; WIDTH: 915px; HEIGHT: 185px; OVERFLOW: hidden
+}
+.recomend .author_comic .scroll_comic {
+	POSITION: relative; WIDTH: 915px; HEIGHT: 185px; OVERFLOW: hidden
+}
+.recomend .anime .scroll_comic {
+	POSITION: relative; WIDTH: 915px; HEIGHT: 185px; OVERFLOW: hidden
+}
+.recomend .anime .scroll_comic {
+	WIDTH: 700px
+}
+.recomend .anime .pagelist {
+	POSITION: absolute; TEXT-ALIGN: center; WIDTH: 100%; BOTTOM: 0px; HEIGHT: 20px; LEFT: 0px
+}
+.recomend .anime .pagelist A {
+	WIDTH: 10px; DISPLAY: inline-block; BACKGROUND: #b6b6b6; HEIGHT: 10px; OVERFLOW: hidden; MARGIN-RIGHT: 5px; border-radius: 50%
+}
+.recomend .anime .pagelist A.cur {
+	BACKGROUND: #00d9f3
+}
+.recomend .rec_pic .scroll_comic UL {
+	POSITION: absolute; TOP: 0px; LEFT: 0px
+}
+.recomend .author_comic .scroll_comic UL {
+	POSITION: absolute; TOP: 0px; LEFT: 0px
+}
+.recomend .anime .scroll_comic UL {
+	POSITION: absolute; TOP: 0px; LEFT: 0px
+}
+.recomend .rec_pic .scroll_comic LI {
+	DISPLAY: inline; FLOAT: left; MARGIN-LEFT: 15px
+}
+.recomend .rec_pic .scroll_comic IMG {
+	WIDTH: 210px; DISPLAY: block; HEIGHT: 150px
+}
+.recomend .rec_pic .scroll_comic .cover {
+	BORDER-BOTTOM: #d5d5d5 1px solid; BORDER-LEFT: #d5d5d5 1px solid; WIDTH: 210px; DISPLAY: block; HEIGHT: 150px; BORDER-TOP: #d5d5d5 1px solid; BORDER-RIGHT: #d5d5d5 1px solid; -webkit-box-shadow: 2px 2px #d5d5d5; box-shadow: 2px 2px #d5d5d5
+}
+.recomend .rec_pic .scroll_comic .cover:hover {
+	BORDER-BOTTOM-COLOR: #6dad14; BORDER-TOP-COLOR: #6dad14; BORDER-RIGHT-COLOR: #6dad14; BORDER-LEFT-COLOR: #6dad14
+}
+.recomend .rec_pic .scroll_comic P {
+	PADDING-BOTTOM: 8px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #666; PADDING-TOP: 8px
+}
+.recomend .rec_pic .scroll_comic P A {
+	MARGIN: 0px 0px 0px 8px; COLOR: #333
+}
+.recomend .rec_pic .scroll_comic P A:hover {
+	BACKGROUND: #f5dc84; TEXT-DECORATION: none
+}
+.recomend .prev {
+	Z-INDEX: 10; POSITION: absolute; WIDTH: 40px; DISPLAY: none; HEIGHT: 40px; TOP: 60px; RIGHT: 0px
+}
+.recomend .next {
+	Z-INDEX: 10; POSITION: absolute; WIDTH: 40px; DISPLAY: none; HEIGHT: 40px; TOP: 60px; RIGHT: 0px
+}
+.recomend .prev {
+	LEFT: 0px
+}
+.recomend .prev SPAN {
+	FILTER: Alpha(opacity=50); WIDTH: 40px; DISPLAY: block; BACKGROUND: #000; HEIGHT: 40px; CURSOR: pointer; opacity: 0.5
+}
+.recomend .next SPAN {
+	FILTER: Alpha(opacity=50); WIDTH: 40px; DISPLAY: block; BACKGROUND: #000; HEIGHT: 40px; CURSOR: pointer; opacity: 0.5
+}
+.recomend .prev I {
+	POSITION: absolute; WIDTH: 15px; BACKGROUND: url(../images/index/cs_ico.png) no-repeat 0px -180px; HEIGHT: 23px; TOP: 8px; CURSOR: pointer; LEFT: 12px
+}
+.recomend .next I {
+	POSITION: absolute; WIDTH: 15px; BACKGROUND: url(../images/index/cs_ico.png) no-repeat 0px -180px; HEIGHT: 23px; TOP: 8px; CURSOR: pointer; LEFT: 12px
+}
+.recomend .prev I {
+	BACKGROUND-POSITION: 0px -205px
+}
+.recomend .prev:hover SPAN {
+	FILTER: Alpha(opacity=80); opacity: 0.8
+}
+.recomend .next:hover SPAN {
+	FILTER: Alpha(opacity=80); opacity: 0.8
+}
+.recomend .author_comic {
+	MARGIN: 0px; HEIGHT: 220px
+}
+.recomend .author_comic .ts_no {
+	TEXT-ALIGN: center; FONT-FAMILY: "microsoft yahei"; COLOR: #999; FONT-SIZE: 14px; PADDING-TOP: 80px
+}
+.recomend .author_comic .ts_no IMG {
+	WIDTH: 48px; DISPLAY: inline-block; HEIGHT: 60px; VERTICAL-ALIGN: middle; MARGIN-RIGHT: 5px
+}
+.recomend .author_comic .scroll_comic {
+	WIDTH: 930px; HEIGHT: 220px
+}
+.recomend .author_comic .prev {
+	TOP: 80px
+}
+.recomend .author_comic .next {
+	TOP: 80px
+}
+.vote {
+	MARGIN-TOP: 24px
+}
+.vote .vote_tab I {
+	Z-INDEX: 2; POSITION: relative; PADDING-LEFT: 5px; FONT: 12px "Arial"; COLOR: #ff444f; CURSOR: pointer
+}
+.vote .vote_tab A:hover {
+	TEXT-DECORATION: none
+}
+.vote .btn_vote {
+	TEXT-ALIGN: center; LINE-HEIGHT: 23px; MARGIN-TOP: 6px; WIDTH: 73px; BACKGROUND: #379be9; FLOAT: right; HEIGHT: 23px; COLOR: #fff; border-radius: 2px
+}
+.vote .vote_con {
+	PADDING-BOTTOM: 15px; PADDING-LEFT: 15px; WIDTH: 900px; PADDING-RIGHT: 15px; OVERFLOW: hidden; PADDING-TOP: 15px
+}
+.vote .new_vote DT A {
+	COLOR: #379be9; FONT-SIZE: 14px; FONT-WEIGHT: bold; MARGIN-RIGHT: 6px; TEXT-DECORATION: underline
+}
+.vote .new_vote DT {
+	LINE-HEIGHT: 40px; COLOR: #999
+}
+.vote .new_vote DD {
+	LINE-HEIGHT: 22px; WIDTH: 172px; DISPLAY: inline-block; MARGIN-BOTTOM: 6px; COLOR: #767676; VERTICAL-ALIGN: top; OVERFLOW: hidden
+}
+.vote .new_vote DD LABEL {
+	CURSOR: pointer
+}
+.vote .new_vote DD INPUT {
+	VERTICAL-ALIGN: middle; MARGIN-RIGHT: 5px
+}
+.vote .new_vote .btn_wrap {
+	PADDING-BOTTOM: 20px; LINE-HEIGHT: 27px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIGHT: 27px; COLOR: #666; PADDING-TOP: 15px
+}
+.vote .new_vote .btn_wrap I {
+	COLOR: #ff444f
+}
+.vote .new_vote .btn_wrap .btn {
+	WIDTH: 80px; BACKGROUND-POSITION: 0px -60px; FLOAT: left; HEIGHT: 27px; MARGIN-RIGHT: 10px
+}
+.vote .new_vote .btn_wrap .btn_result {
+	TEXT-ALIGN: center; WIDTH: 80px; BACKGROUND: #f5e28a; FLOAT: left; HEIGHT: 27px; COLOR: #705b10; FONT-SIZE: 14px; MARGIN-RIGHT: 10px; border-radius: 2px
+}
+DL.votelist {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: url(../../common/images/dottedline_x.png) repeat-x 0px bottom; PADDING-TOP: 10px
+}
+DL.votelist DT {
+	WIDTH: 56px
+}
+DL.votelist DT IMG {
+	BORDER-BOTTOM: #d4d4d4 1px solid; BORDER-LEFT: #d4d4d4 1px solid; PADDING-BOTTOM: 1px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; BORDER-TOP: #d4d4d4 1px solid; BORDER-RIGHT: #d4d4d4 1px solid; PADDING-TOP: 1px
+}
+DL.votelist DD {
+	PADDING-LEFT: 15px; WIDTH: 825px; FLOAT: left; OVERFLOW: hidden
+}
+DL.votelist .t {
+	HEIGHT: 26px; COLOR: #999
+}
+DL.votelist UL.vote_option LI {
+	WIDTH: auto; DISPLAY: block
+}
+DL.votelist .vote_info {
+	MARGIN-TOP: -26px; FLOAT: right; _margin-top: -22px
+}
+DL.votelist .vote_info I {
+	COLOR: #333; MARGIN-RIGHT: 15px
+}
+DL.votelist .vote_info I EM {
+	COLOR: #888
+}
+DL.votelist .vote_info .u {
+	COLOR: #379be9 !important
+}
+DL.votelist .vote_info A {
+	COLOR: #379be9 !important
+}
+DL.votelist .vote_info IMG {
+	MARGIN-LEFT: 3px; VERTICAL-ALIGN: top
+}
+DL.votelist .t .votetop {
+	BORDER-BOTTOM: #ccc 1px solid; POSITION: relative; TEXT-ALIGN: center; BORDER-LEFT: #ccc 1px solid; MARGIN: 0px; PADDING-LEFT: 15px; WIDTH: 45px; FONT: 12px/22px normal; BACKGROUND: url(../images/comicinfo/cs_pic.png) #f7f7f7 no-repeat -45px -280px; FLOAT: right; HEIGHT: 20px; COLOR: #70982c; BORDER-TOP: #ccc 1px solid; CURSOR: pointer; BORDER-RIGHT: #ccc 1px solid
+}
+DL.votelist .t .votetop P {
+	BORDER-BOTTOM: #ccc 1px solid; POSITION: absolute; BORDER-LEFT: #ccc 1px solid; WIDTH: 60px; DISPLAY: none; BACKGROUND: #f7f7f7; BORDER-TOP: 0px; TOP: 20px; BORDER-RIGHT: #ccc 1px solid; PADDING-TOP: 2px; LEFT: -1px
+}
+DL.votelist .t .votetop P A {
+	TEXT-ALIGN: center; MARGIN: 0px; DISPLAY: block; FONT: 12px/20px normal; COLOR: #70982c
+}
+DL.votelist .t .votetop P A:hover {
+	BACKGROUND: #dff1b6; COLOR: #577219; TEXT-DECORATION: none
+}
+DL.votelist .t .hover {
+	BORDER-BOTTOM: 0px
+}
+DL.votelist .t .hover P {
+	DISPLAY: block
+}
+DL.votelist .t .recall {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 60px; PADDING-RIGHT: 0px; BACKGROUND: #f7f7f7; PADDING-TOP: 0px
+}
+DL.votelist .t A {
+	COLOR: #379be9; FONT-SIZE: 14px; FONT-WEIGHT: bold; MARGIN-RIGHT: 6px
+}
+UL.vote_option LI SPAN {
+	LINE-HEIGHT: 18px; DISPLAY: block; WORD-WRAP: break-word; COLOR: #767676; OVERFLOW: auto
+}
+DL.votelist .checkbox {
+	MARGIN-TOP: 1px; DISPLAY: inline; FLOAT: left; MARGIN-RIGHT: 3px; _margin-top: -2px
+}
+DL.votelist .radio {
+	MARGIN-TOP: 1px; DISPLAY: inline; FLOAT: left; MARGIN-RIGHT: 3px; _margin-top: -2px
+}
+UL.vote_option LI {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; VERTICAL-ALIGN: top; MARGIN-RIGHT: 12px; PADDING-TOP: 3px
+}
+.recomend .outer_pic {
+	HEIGHT: 201px
+}
+#outer {
+	POSITION: relative; WIDTH: 925px
+}
+#outer UL {
+	POSITION: absolute; TOP: 0px; LEFT: 0px
+}
+#outer LI {
+	MARGIN: 0px 10px 0px 11px; WIDTH: 210px; FLOAT: left
+}
+#outer LI IMG {
+	WIDTH: 210px; HEIGHT: 150px
+}
+#outer LI P {
+	POSITION: relative
+}
+#outer LI P SPAN {
+	COLOR: #ff4550
+}
+#outer LI P .buyBtn {
+	POSITION: absolute; TEXT-ALIGN: center; LINE-HEIGHT: 22px; WIDTH: 60px; DISPLAY: block; BACKGROUND: #f85c00; HEIGHT: 22px; COLOR: #fff; TOP: 10px; RIGHT: 0px; border-radius: 2px
+}
+.recomend .tm_pic {
+	HEIGHT: 201px
+}
+#tmbox {
+	POSITION: relative; WIDTH: 925px
+}
+#tmbox UL {
+	POSITION: absolute; WIDTH: 9999px; TOP: 0px; LEFT: 0px
+}
+#tmbox LI {
+	TEXT-ALIGN: center; MARGIN: 0px 10px 0px 11px; WIDTH: 210px; FLOAT: left; HEIGHT: 186px; COLOR: #999
+}
+#tmbox LI .cover {
+	PADDING-BOTTOM: 1px; PADDING-LEFT: 1px; WIDTH: 210px; PADDING-RIGHT: 5px; DISPLAY: block; BACKGROUND: url(../images/index/bg_cover.png) no-repeat 0px -155px; HEIGHT: 129px; PADDING-TOP: 5px
+}
+#tmbox LI .cover:hover {
+	BACKGROUND-POSITION: -217px -156px
+}
+#tmbox LI .cover IMG {
+	WIDTH: 209px; HEIGHT: 128px
+}
+#tmbox LI .name {
+	MARGIN-TOP: 5px; DISPLAY: block; COLOR: #333; FONT-SIZE: 14px
+}
+#tmbox LI .name:hover {
+	COLOR: #6dad14
+}
+#comment .tab_wrap P.fr {
+	LINE-HEIGHT: 35px; COLOR: #666
+}
+#comment .tab_wrap P.fr I {
+	MARGIN: 0px 5px; COLOR: #ff444f
+}
+#comment .tab_wrap P.fr A {
+	COLOR: #2daed8
+}
+.add_author {
+	PADDING-BOTTOM: 20px; PADDING-LEFT: 50px; PADDING-RIGHT: 0px; PADDING-TOP: 20px
+}
+.add_author .input_name {
+	BORDER-BOTTOM: #b9b9b9 1px solid; BORDER-LEFT: #b9b9b9 1px solid; PADDING-BOTTOM: 5px; LINE-HEIGHT: 18px; PADDING-LEFT: 5px; WIDTH: 352px; PADDING-RIGHT: 5px; HEIGHT: 18px; BORDER-TOP: #b9b9b9 1px solid; MARGIN-RIGHT: 10px; BORDER-RIGHT: #b9b9b9 1px solid; PADDING-TOP: 5px
+}
+.add_author .btn_add {
+	BORDER-BOTTOM: #5c980d 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #5c980d 1px solid; LINE-HEIGHT: 30px; WIDTH: 48px; BACKGROUND: #76b127; HEIGHT: 30px; COLOR: #fff; FONT-SIZE: 16px; BORDER-TOP: #5c980d 1px solid; CURSOR: pointer; BORDER-RIGHT: #5c980d 1px solid
+}
+.add_author .btn_add:hover {
+	BACKGROUND: #6ba61c
+}
+.add_author P {
+	BACKGROUND: #fff; PADDING-TOP: 0.6em
+}
+.add_author .list A {
+	DISPLAY: inline-block; MARGIN-RIGHT: 20px
+}
+#add_comic_tag_dialog {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; PADDING-TOP: 0px
+}
+#add_comic_tag_dialog H6 {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px
+}
+#add_comic_tag_dialog .input_name {
+	BORDER-BOTTOM: #b9b9b9 1px solid; BORDER-LEFT: #b9b9b9 1px solid; PADDING-BOTTOM: 5px; LINE-HEIGHT: 18px; PADDING-LEFT: 5px; WIDTH: 352px; PADDING-RIGHT: 5px; HEIGHT: 18px; MARGIN-LEFT: 28px; BORDER-TOP: #b9b9b9 1px solid; MARGIN-RIGHT: 10px; BORDER-RIGHT: #b9b9b9 1px solid; PADDING-TOP: 5px
+}
+#add_comic_tag_dialog .btn_add {
+	BORDER-BOTTOM: #5c980d 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #5c980d 1px solid; LINE-HEIGHT: 30px; WIDTH: 48px; BACKGROUND: #76b127; HEIGHT: 30px; COLOR: #fff; FONT-SIZE: 16px; BORDER-TOP: #5c980d 1px solid; CURSOR: pointer; BORDER-RIGHT: #5c980d 1px solid
+}
+#add_comic_tag_dialog .btn_add:hover {
+	BACKGROUND: #6ba61c
+}
+#add_comic_tag_dialog .comic_label {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 28px; ZOOM: 1; WHITE-SPACE: nowrap
+}
+#add_comic_tag_dialog .comic_label I {
+	BORDER-BOTTOM: #e4e4e4 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #e4e4e4 1px solid; LINE-HEIGHT: 14px; WIDTH: 15px; DISPLAY: none; FLOAT: left; HEIGHT: 14px; COLOR: #a5a5a5; FONT-SIZE: 14px; BORDER-TOP: #e4e4e4 1px solid; BORDER-RIGHT: #e4e4e4 1px solid
+}
+#add_comic_tag_dialog .comic_label .noadd I {
+	DISPLAY: none
+}
+#add_comic_tag_dialog .line_dash {
+	BORDER-BOTTOM: #e3e3e3 1px dashed
+}
+#add_comic_tag_dialog UL.comic_label LI {
+	MARGIN: 0px 40px 18px 0px; WIDTH: 73px; FLOAT: left; CURSOR: pointer
+}
+#add_comic_tag_dialog .comic_label .added SPAN {
+	BORDER-BOTTOM-COLOR: #d3d3d3; BACKGROUND-COLOR: #d3d3d3; BORDER-TOP-COLOR: #d3d3d3; BACKGROUND-POSITION: 0px -360px; BORDER-RIGHT-COLOR: #d3d3d3; BORDER-LEFT-COLOR: #d3d3d3
+}
+#add_comic_tag_dialog .comic_label .added .label2 {
+	BACKGROUND-POSITION: 0px -380px
+}
+#add_comic_tag_dialog .comic_label .added .label3 {
+	BACKGROUND-POSITION: 0px -400px
+}
+#add_comic_tag_dialog .comic_label .added .label4 {
+	BACKGROUND-POSITION: 0px -420px
+}
+#add_comic_tag_dialog .comic_label .added .label5 {
+	BACKGROUND-POSITION: 0px -440px
+}
+#add_comic_tag_dialog .comic_label .added .label6 {
+	BACKGROUND-POSITION: 0px -460px
+}
+#add_comic_tag_dialog .comic_label .added .label7 {
+	BACKGROUND-POSITION: 0px -480px
+}
+#add_comic_tag_dialog .comic_label .added .label8 {
+	BACKGROUND-POSITION: 0px -500px
+}
+#add_comic_tag_dialog .comic_label .added .label9 {
+	BACKGROUND-POSITION: 0px -520px
+}
+#add_comic_tag_dialog .comic_label .added .label10 {
+	BACKGROUND-POSITION: 0px -540px
+}
+#add_comic_tag_dialog .comic_label .added .label11 {
+	BACKGROUND-POSITION: 0px -560px
+}
+#add_comic_tag_dialog .comic_label .added .label12 {
+	BACKGROUND-POSITION: 0px -580px
+}
+#add_comic_tag_dialog .comic_label .added .label13 {
+	BACKGROUND-POSITION: 0px -600px
+}
+#add_comic_tag_dialog .comic_label .added .label14 {
+	BACKGROUND-POSITION: 0px -620px
+}
+#add_comic_tag_dialog .comic_label .added .label15 {
+	BACKGROUND-POSITION: 0px -640px
+}
+#add_comic_tag_dialog .comic_label .added .label16 {
+	BACKGROUND-POSITION: 0px -660px
+}
+#add_comic_tag_dialog .comic_label .added .label17 {
+	BACKGROUND-POSITION: 0px -680px
+}
+#add_comic_tag_dialog .comic_label .added .label18 {
+	BACKGROUND-POSITION: 0px -700px
+}
+.nowork {
+	LINE-HEIGHT: 60px; MARGIN: 60px auto; WIDTH: 220px; COLOR: #666666
+}
+.nowork {
+	BACKGROUND: url(../../common/images/yg_cry.png) no-repeat right 0px
+}
+.ui-dialog .jubao TD {
+	TEXT-ALIGN: left !important; PADDING-LEFT: 32px
+}
+.ui-dialog .jubao H5 {
+	FONT: 500 14px/32px "ËÎÌå"; COLOR: #333
+}
+.ui-dialog .jubao LABEL {
+	LINE-HEIGHT: 32px; PADDING-LEFT: 15px; DISPLAY: block; HEIGHT: 32px; COLOR: #666; FONT-SIZE: 14px
+}
+.ui-dialog .jubao LABEL INPUT {
+	VERTICAL-ALIGN: middle; MARGIN-RIGHT: 5px
+}
+.ui-dialog .jubao TEXTAREA {
+	BORDER-BOTTOM: #bebebe 1px solid; BORDER-LEFT: #bebebe 1px solid; PADDING-BOTTOM: 5px; MARGIN-TOP: 10px; PADDING-LEFT: 10px; WIDTH: 420px; PADDING-RIGHT: 10px; FLOAT: left; HEIGHT: 117px; COLOR: #999; FONT-SIZE: 12px; BORDER-TOP: #bebebe 1px solid; BORDER-RIGHT: #bebebe 1px solid; PADDING-TOP: 5px
+}
+.ui-dialog .jubao TD B {
+	MARGIN-TOP: 8px; FLOAT: left; COLOR: #ff3f3f; MARGIN-RIGHT: 7px
+}
+.ui-dialog .jubao .tip {
+	PADDING-LEFT: 20px; WHITE-SPACE: nowrap; BACKGROUND: url(../../common/images/cs_ico_common.png) no-repeat 0px -476px; FLOAT: left; COLOR: #ff3f3f; MARGIN-LEFT: 15px
+}
+.ui-dialog .jubao .num {
+	FONT-FAMILY: "Arial"; FLOAT: right; COLOR: #666; MARGIN-RIGHT: 30px
+}
+.ui-dialog .jubao .code {
+	POSITION: relative; LINE-HEIGHT: 28px; HEIGHT: 85px; CLEAR: both; PADDING-TOP: 30px
+}
+.ui-dialog .jubao .code .tip {
+	POSITION: absolute; TOP: 62px; LEFT: 52px
+}
+.ui-dialog .jubao .code SPAN {
+	MARGIN: 0px 8px 0px 15px; FLOAT: left; COLOR: #333; FONT-SIZE: 14px
+}
+.ui-dialog .jubao .code INPUT {
+	BORDER-BOTTOM: #bebebe 1px solid; BORDER-LEFT: #bebebe 1px solid; PADDING-BOTTOM: 5px; LINE-HEIGHT: 16px; PADDING-LEFT: 5px; WIDTH: 93px; PADDING-RIGHT: 5px; BACKGROUND: #fff; FLOAT: left; HEIGHT: 16px; BORDER-TOP: #bebebe 1px solid; BORDER-RIGHT: #bebebe 1px solid; PADDING-TOP: 5px
+}
+.ui-dialog .jubao .code IMG {
+	BORDER-BOTTOM: #c8c8c8 1px solid; BORDER-LEFT: #c8c8c8 1px solid; MARGIN: 0px 10px; WIDTH: 78px; DISPLAY: block; FLOAT: left; HEIGHT: 26px; BORDER-TOP: #c8c8c8 1px solid; BORDER-RIGHT: #c8c8c8 1px solid
+}
+.ui-dialog .jubao .code I {
+	FLOAT: left; COLOR: #666
+}
+.ui-dialog .jubao .code .tip {
+	LINE-HEIGHT: 22px
+}
+.ui-dialog .jubao .ui-dialog-buttonpane BUTTON.left {
+	BACKGROUND-POSITION: 0px -143px
+}
+.ui-dialog .jubao .ui-dialog-buttonpane {
+	PADDING-BOTTOM: 15px
+}
+#workinfo .worktab A {
+	PADDING-LEFT: 24px; BACKGROUND: url(../../common/images/cs_ico_common.png) no-repeat 0px -507px; FLOAT: right; COLOR: #999
+}
+.v4_w1000 .main {
+	WIDTH: 730px; _overflow: hidden; _width: 720px
+}
+.v4_w1000 .chapterlist_box {
+	WIDTH: 700px
+}
+.v4_w1000 .chapterlist_box LI {
+	WIDTH: 160px; OVERFLOW: hidden
+}
+.v4_w1000 .recomend .rec_anime LI {
+	MARGIN-LEFT: 18px; MARGIN-RIGHT: 4px
+}
+.v4_w1000 .recomend .other LI {
+	MARGIN: 28px 9px; _margin: 28px 8px
+}
+.v4_w1000 .recomend .author_comic LI {
+	MARGIN: 28px 9px; _margin: 28px 8px
+}
+.v4_w1000 .recomend .rec_pic {
+	WIDTH: 725px
+}
+.v4_w1000 .recomend .author_comic {
+	WIDTH: 725px
+}
+.v4_w1000 .recomend .tm_pic {
+	WIDTH: 725px
+}
+.v4_w1000 #tmbox {
+	WIDTH: 725px
+}
+.v4_w1000 .recomend .rec_pic .scroll_comic {
+	WIDTH: 730px
+}
+.v4_w1000 .recomend .author_comic .scroll_comic {
+	WIDTH: 730px
+}
+.v4_w1000 .recomend .rec_pic .scroll_comic LI {
+	MARGIN-LEFT: 23px; MARGIN-RIGHT: 4px
+}
+.v4_w1000 .ad_wrap {
+	WIDTH: 990px
+}
+.v4_w1000 .ad_wrap .fl {
+	WIDTH: 958px; OVERFLOW: hidden
+}
+.v4_w1000 .recomend .rec_anime .first {
+	DISPLAY: none
+}
+.v4_w1000 .ad_wrap IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; HEIGHT: 64px; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 0px
+}
+.v4_w1000 .location {
+	WIDTH: 990px
+}
+.v4_w1000 .comic_info {
+	PADDING-LEFT: 10px; BACKGROUND: url(../images/comicinfo/bg_comicinfo_1000.png) no-repeat
+}
+.v4_w1000 .comic_info .left {
+	WIDTH: 730px
+}
+.v4_w1000 .comic_info .right {
+	WIDTH: 232px
+}
+.v4_w1000 .comic_info .auto_ad IMG {
+	WIDTH: 230px
+}
+.v4_w1000 .comic_info .right .author_words {
+	WIDTH: 233px; HEIGHT: 98px
+}
+.v4_w1000 .comic_info .right .author_words P.bg {
+	WIDTH: 160px; HEIGHT: 66px
+}
+.v4_w1000 .comic_info .auto_ad .next {
+	LEFT: 209px
+}
+.v4_w1000 .comic_info .auto_ad .auto_tab {
+	WIDTH: 39px; LEFT: 192px
+}
+.v4_w1000 .comic_info .right .info .author_label {
+	LEFT: 99px
+}
+.v4_w1000 .comic_info .right .info {
+	WIDTH: 132px
+}
+.v4_w1000 .comic_info .right .tx IMG {
+	WIDTH: 80px; HEIGHT: 80px
+}
+.v4_w1000 .comic_info .right .author_words B {
+	TOP: 0px; LEFT: 30px
+}
+.v4_w1000 .comic_info .right .author_words B.bot {
+	BOTTOM: 25px; TOP: auto; LEFT: 195px
+}
+.v4_w1000 .comic_info .right .author_words P {
+	BACKGROUND-POSITION: 2px bottom
+}
+.v4_w1000 .comic_info .right .open_words {
+	HEIGHT: 224px; OVERFLOW: hidden
+}
+.v4_w1000 .comic_info .auto_ad {
+	LEFT: 1px
+}
+.v4_w1000 .comic_info .history_pop_box {
+	WIDTH: 1000px
+}
+.v4_w1000 .comic_info .history_pop_box .scroll_box LI {
+	MARGIN-RIGHT: 26px
+}
+.v4_w1000 .comic_info .history_pop_box .scroll_box {
+	WIDTH: 980px
+}
+.v4_w1000 .comic_info .history_pop_box .scroll_comic {
+	WIDTH: 960px
+}
+.v4_w1000 .comic_info .left .info .btn_wrap .btn_start EM {
+	DISPLAY: none
+}
+.v4_w1000 .comic_info .info {
+	WIDTH: 482px; _float: left
+}
+.v4_w1000 .comic_info .left .info .label {
+	_overflow: hidden; _width: 450px
+}
+.v4_w1000 .comic_info .left .info .top {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 6px; WIDTH: 480px; PADDING-RIGHT: 0px; FONT-SIZE: 12px; PADDING-TOP: 0px; _width: 470px
+}
+.v4_w1000 .comic_info .left .info .top .more {
+	Z-INDEX: 10
+}
+.v4_w1000 .comic_info .left .info .words {
+	WIDTH: 466px
+}
+.v4_w1000 .comic_info .left .info .open_words {
+	WIDTH: 466px
+}
+.v4_w1000 .comic_info .left .info .btn_wrap A {
+	POSITION: relative; MARGIN: 14px 0px 0px 35px; WIDTH: 100px; HEIGHT: 30px
+}
+.v4_w1000 .comic_info .left .info .btn_wrap STRONG {
+	FONT-SIZE: 16px
+}
+.v4_w1000 .comic_info .left .info .btn_wrap .btn_start STRONG {
+	LINE-HEIGHT: 30px; FLOAT: none
+}
+.v4_w1000 .comic_info .left .info .btn_wrap A SPAN {
+	POSITION: absolute; HEIGHT: 16px; COLOR: #2fb6bc; OVERFLOW: hidden; TOP: -16px; RIGHT: 0px
+}
+.v4_w1000 .comic_info .left .info .btn_wrap .btn_ticket SPAN {
+	COLOR: #c150e6
+}
+.v4_w1000 .comic_info .left .info .btn_wrap .line_blue {
+	BORDER-BOTTOM-COLOR: #33afd0; BORDER-TOP-COLOR: #33afd0; BORDER-RIGHT-COLOR: #33afd0; BORDER-LEFT-COLOR: #33afd0
+}
+.v4_w1000 .comic_info .left .info .label_con {
+	WIDTH: 484px
+}
+.v4_w1000 .vote .vote_con {
+	WIDTH: 700px
+}
+.v4_w1000 DL.votelist DD {
+	WIDTH: 625px
+}
+.comic_gg {
+	WIDTH: 930px; DISPLAY: inline-block; HEIGHT: 90px; OVERFLOW: hidden
+}
+.v4_w1000 .comic_gg {
+	WIDTH: 730px
+}
+.v4_w1000 .comic_gg IMG {
+	MARGIN-LEFT: -100px
+}
+.v4_w1000 .comic_info .role_label A {
+	LINE-HEIGHT: 18px; WHITE-SPACE: nowrap; MARGIN-BOTTOM: 8px
+}
+.v4_w1000 .comic_info .left .info .top .line1 SPAN {
+	PADDING-RIGHT: 16px
+}
+.v4_w1000 .comic_info .coverBox .btn_wrap {
+	MARGIN-TOP: 8px
+}
+.v4_w1000 .chapterlist_box LI A {
+	FONT-SIZE: 12px
+}
+.v4_w1000 #tmbox LI {
+	MARGIN: 0px 14px 0px 16px
+}
+.author_lev_txt {
+	COLOR: #9fc966
+}
+.author_lev_txt1 {
+	COLOR: #9fc966
+}
+.author_lev_txt2 {
+	COLOR: #9fc966
+}
+.author_lev_txt3 {
+	COLOR: #7bd9aa
+}
+.author_lev_txt4 {
+	COLOR: #58ba89
+}
+.author_lev_txt5 {
+	COLOR: #42b87d
+}
+.author_lev_txt6 {
+	COLOR: #73bdfc
+}
+.author_lev_txt7 {
+	COLOR: #3ca6ff
+}
+.author_lev_txt8 {
+	COLOR: #964eda
+}
+.author_lev_txt9 {
+	COLOR: #7401c4
+}
+.author_lev_txt10 {
+	COLOR: #f15b00
+}
+#fy_box .close {
+	POSITION: absolute; WIDTH: 27px; HEIGHT: 27px; TOP: 44px; CURSOR: pointer; RIGHT: 50px
+}
+#fy_box {
+	Z-INDEX: 55; POSITION: fixed; WIDTH: 640px; DISPLAY: none; BACKGROUND: url(../../../v3/www/images/read/bg_fy.png) no-repeat; HEIGHT: 480px; MARGIN-LEFT: -322px; TOP: 30%; LEFT: 50%; _position: absolute; _background: none
+}
+#fy_box .bg_click {
+	Z-INDEX: -1; POSITION: absolute; WIDTH: 640px; DISPLAY: none; BACKGROUND: url(../../../v3/www/images/read/bg_fy_click.png) no-repeat; HEIGHT: 480px; TOP: 0px; LEFT: 0px; _background: none
+}
+#fy_box .time {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 150px; PADDING-RIGHT: 0px; PADDING-TOP: 85px
+}
+#fy_box .time SPAN.tit {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 5px; FONT: 14px "Î¢ÈíÑÅºÚ"; FLOAT: left; COLOR: #3d1f00; PADDING-TOP: 20px
+}
+#fy_box .time_box {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 156px; PADDING-RIGHT: 0px; FONT: 24px "Trebuchet MS", Arial, Helvetica, sans-serif; BACKGROUND: url(../../../v3/www/images/read/ico_fy.png) no-repeat; FLOAT: left; HEIGHT: 38px; COLOR: #fff; OVERFLOW: hidden; PADDING-TOP: 22px
+}
+#fy_box .time_box SPAN {
+	POSITION: relative; TEXT-ALIGN: center; MARGIN: 0px 6px; WIDTH: 40px; FLOAT: left; HEIGHT: 25px
+}
+#fy_box .time_box SPAN I {
+	POSITION: absolute; WIDTH: 34px; BACKGROUND: url(../../../v3/www/images/read/ico_fy.png) -44px -178px; HEIGHT: 2px; TOP: 15px; LEFT: 3px
+}
+#fy_box .time I {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; WIDTH: 150px; PADDING-RIGHT: 0px; FONT: 12px "Î¢ÈíÑÅºÚ"; FLOAT: left; COLOR: #3d1f00; PADDING-TOP: 10px
+}
+#fy_box .fun1 {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 118px; PADDING-RIGHT: 0px; PADDING-TOP: 78px
+}
+#fy_box .fun1 .fy_login {
+	POSITION: absolute; FONT: 16px "Microsoft Yahei"; COLOR: #630; TOP: 24px; RIGHT: 60px; TEXT-DECORATION: none
+}
+#fy_box .fun1 P {
+	LINE-HEIGHT: 40px
+}
+.col_fb3 {
+	COLOR: #ffb330
+}
+.col_f0 {
+	COLOR: #fff000
+}
+#fy_box .fun1 A.btn {
+	MARGIN: 0px 5px; WIDTH: 165px; BACKGROUND: url(../../../v3/www/images/read/ico_fy.png) no-repeat 0px -378px; FLOAT: left; HEIGHT: 40px
+}
+.col_zong {
+	COLOR: #533205
+}
+#fy_box .invite {
+	PADDING-LEFT: 25px; DISPLAY: inline-block; HEIGHT: 22px; COLOR: #fff; MARGIN-RIGHT: 10px
+}
+.zhu {
+	POSITION: absolute; PADDING-LEFT: 5px; WIDTH: 159px; BACKGROUND: url(../../../v3/www/images/read/tishi_01.png) no-repeat; HEIGHT: 23px; COLOR: #585555; TOP: 105px; PADDING-TOP: 10px; LEFT: 353px; _background: none; _left: 250px
+}
+#fy_box .fun2 {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 122px; PADDING-RIGHT: 0px; PADDING-TOP: 45px
+}
+#fy_box .fun2 A.btn {
+	WIDTH: 165px; BACKGROUND: url(../../../v3/www/images/read/ico_fy.png) no-repeat 0px -421px; FLOAT: left; HEIGHT: 38px; MARGIN-RIGHT: 5px
+}
+#fy_box .fun2 A.btn2 {
+	WIDTH: 164px; BACKGROUND-POSITION: 0px -235px
+}
+#fy_box .fun2 SPAN {
+	DISPLAY: inline-block; PADDING-TOP: 10px
+}
+#fy_box .fun2 A {
+	LINE-HEIGHT: 40px
+}
+#fy_box .bg6 {
+	Z-INDEX: -1; TOP: 0px; LEFT: 0px; _position: absolute; _height: 480px; _width: 640px
+}
+#fy_box .fun1 A {
+	TEXT-DECORATION: underline
+}
+#fy_box .fun2 A {
+	TEXT-DECORATION: underline
+}
+#fy_box .fun1 SPAN {
+	DISPLAY: inline-block
+}
+#fy_box .ico_ver {
+	POSITION: absolute; WIDTH: 47px; BACKGROUND: url(../../../v3/www/images/read/ico_fy.png) no-repeat -100px -175px; HEIGHT: 19px; TOP: 5px; RIGHT: 105px
+}
+#fy_share .ico_ver {
+	POSITION: absolute; WIDTH: 47px; BACKGROUND: url(../../../v3/www/images/read/ico_fy.png) no-repeat -100px -175px; HEIGHT: 19px; TOP: 5px; RIGHT: 105px
+}
+#fy_box .btn_read {
+	POSITION: absolute; WIDTH: 120px; BACKGROUND: url(../../../v3/www/images/read/btn_fy.png) no-repeat; HEIGHT: 28px; TOP: 395px; LEFT: 424px
+}
+#fy_share .btn_read {
+	POSITION: absolute; WIDTH: 120px; BACKGROUND: url(../../../v3/www/images/read/btn_fy.png) no-repeat; HEIGHT: 28px; TOP: 395px; LEFT: 424px
+}
+#break_fy {
+	Z-INDEX: 55; POSITION: fixed; PADDING-BOTTOM: 0px; PADDING-LEFT: 30px; WIDTH: 271px; PADDING-RIGHT: 30px; DISPLAY: none; BACKGROUND: url(../../../v3/www/images/read/bg3_fy.png) no-repeat; HEIGHT: 150px; MARGIN-LEFT: -165px; TOP: 45%; PADDING-TOP: 80px; LEFT: 50%; _position: absolute; _background: none
+}
+#break_fy .close {
+	POSITION: absolute; WIDTH: 27px; HEIGHT: 27px; TOP: 22px; CURSOR: pointer; RIGHT: 26px
+}
+#break_fy A.btn {
+	MARGIN: 10px 0px 0px 50px; WIDTH: 140px; DISPLAY: block; BACKGROUND: url(../../../v3/www/images/read/ico_fy.png) no-repeat 0px -140px; HEIGHT: 34px
+}
+#break_fy .bg6 {
+	Z-INDEX: -1; TOP: 0px; LEFT: 0px; _position: absolute; _height: 230px; _width: 331px
+}
+#fy_share {
+	Z-INDEX: 55; POSITION: fixed; PADDING-BOTTOM: 0px; PADDING-LEFT: 49px; WIDTH: 598px; PADDING-RIGHT: 0px; DISPLAY: none; BACKGROUND: url(../../../v3/www/images/read/bg2_fy.png) no-repeat; HEIGHT: 403px; MARGIN-LEFT: -320px; TOP: 30%; PADDING-TOP: 98px; LEFT: 50%; _position: absolute; _background: none
+}
+#fy_share .close {
+	POSITION: absolute; WIDTH: 27px; HEIGHT: 27px; TOP: 52px; CURSOR: pointer; RIGHT: 58px
+}
+#fy_share .return {
+	POSITION: absolute; WIDTH: 28px; BACKGROUND: url(../../../v3/www/images/read/ico_fy.png) no-repeat -151px -145px; HEIGHT: 65px; TOP: 161px; CURSOR: pointer; RIGHT: 50px
+}
+#fy_share .tab {
+	PADDING-LEFT: 315px
+}
+#fy_share .tab LI {
+	TEXT-ALIGN: center; LINE-HEIGHT: 30px; WIDTH: 96px; FLOAT: left; HEIGHT: 30px; COLOR: #412801; CURSOR: pointer; MARGIN-RIGHT: 2px
+}
+#fy_share .tab LI.current {
+	COLOR: #fff
+}
+#fy_share .content .left {
+	WIDTH: 340px; FLOAT: left; PADDING-TOP: 10px
+}
+#fy_share .content .left H4 {
+	LINE-HEIGHT: 15px; PADDING-LEFT: 20px; BACKGROUND: url(../../../v3/www/images/read/ico_fy.png) no-repeat -165px -45px; COLOR: #fff; FONT-WEIGHT: normal
+}
+#fy_share .content .right H4 {
+	LINE-HEIGHT: 15px; PADDING-LEFT: 20px; BACKGROUND: url(../../../v3/www/images/read/ico_fy.png) no-repeat -165px -45px; COLOR: #fff; FONT-WEIGHT: normal
+}
+#fy_share .content .left .text {
+	BORDER-BOTTOM: #999 1px solid; BORDER-LEFT: #999 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 25px; MARGIN: 10px 5px 10px 0px; PADDING-LEFT: 6px; WIDTH: 272px; PADDING-RIGHT: 6px; FLOAT: left; HEIGHT: 25px; BORDER-TOP: #999 1px solid; BORDER-RIGHT: #999 1px solid; PADDING-TOP: 0px
+}
+#fy_share .content .left .btn {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; MARGIN: 10px 0px; WIDTH: 44px; BACKGROUND: url(../../../v3/www/images/read/ico_fy.png) 0px -174px; FLOAT: left; HEIGHT: 25px; BORDER-TOP: medium none; CURSOR: pointer; BORDER-RIGHT: medium none
+}
+#fy_share .content .share_style {
+	WIDTH: 340px; HEIGHT: 150px; CLEAR: both
+}
+#fy_share .content .share_style LI {
+	TEXT-ALIGN: center; MARGIN: 2px; WIDTH: 81px; DISPLAY: inline; FLOAT: left
+}
+#fy_share .content .share_style IMG {
+	DISPLAY: block
+}
+#fy_share .content .share_style A:hover {
+	COLOR: #362000
+}
+#fy_share .content .share_style SPAN {
+	LINE-HEIGHT: 30px; COLOR: #362000
+}
+#fy_share .content .right {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 15px; WIDTH: 170px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 200px; PADDING-TOP: 50px
+}
+#fy_share .content .right H4 {
+	BACKGROUND-POSITION: -166px -83px
+}
+#fy_share .bg6 {
+	Z-INDEX: -1; TOP: 0px; LEFT: 0px; _position: absolute; _height: 475; _width: 668px
+}
+#fy_share .btn_read {
+	TOP: 403px; LEFT: 412px
+}
+#rdpop {
+	Z-INDEX: 50; POSITION: fixed; WIDTH: 154px; BOTTOM: 10px; DISPLAY: block; BACKGROUND: url(http://static.u17i.com/v3/www/css/../images/other/bg_tb.png) no-repeat; HEIGHT: 330px; MARGIN-LEFT: 605px; LEFT: 50%; _position: absolute; _bottom: auto
+}
+.v4_w1000 #rdpop {
+	MARGIN-LEFT: 505px
+}
+#rdpop H3 {
+	POSITION: relative; HEIGHT: 66px
+}
+#rdpop H3 .close {
+	Z-INDEX: 1; POSITION: absolute; WIDTH: 18px; DISPLAY: block; HEIGHT: 18px; TOP: 0px; CURSOR: pointer; RIGHT: 0px
+}
+#rdpop H3 A {
+	WIDTH: 154px; DISPLAY: block; HEIGHT: 66px
+}
+#rdpop .pic {
+	TEXT-ALIGN: center; HEIGHT: 176px; OVERFLOW: hidden; PADDING-TOP: 8px
+}
+#rdpop .pic .img {
+	TEXT-ALIGN: center; DISPLAY: block; HEIGHT: 145px; OVERFLOW: hidden
+}
+#rdpop UL LI {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 0px
+}
+#rdpop UL A {
+	LINE-HEIGHT: 26px; COLOR: #fff
+}
+#unopen_legend {
+	Z-INDEX: 610; POSITION: fixed; MARGIN-LEFT: -320px; TOP: 24%; LEFT: 50%
+}
+#scrollBot {
+	TOP: 0px
+}
+#app_down {
+	BORDER-BOTTOM: #e3e3e3 5px solid; POSITION: relative; BORDER-LEFT: #e3e3e3 5px solid; WIDTH: 920px; MARGIN-BOTTOM: 10px; BACKGROUND: url(../images/comicinfo/app_download_930.jpg) no-repeat; HEIGHT: 101px; BORDER-TOP: #e3e3e3 5px solid; BORDER-RIGHT: #e3e3e3 5px solid
+}
+.app_down_more {
+	POSITION: absolute; WIDTH: 55px; DISPLAY: block; HEIGHT: 18px; TOP: 61px; RIGHT: 169px
+}
+.adul2 {
+	MARGIN-RIGHT: 30px
+}
+.app_down {
+	WIDTH: 930px; HEIGHT: 90px
+}
+.app_down .url_list {
+	POSITION: absolute; HEIGHT: 30px; TOP: 51px; LEFT: 30px
+}
+.app_down .url_list A {
+	WIDTH: 120px; DISPLAY: inline-block; FLOAT: left; HEIGHT: 30px; MARGIN-RIGHT: 50px
+}
+.chapterlist H3 A.app_down_btn {
+	POSITION: relative; PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 5px; WIDTH: 70px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: #9cd12c; FLOAT: right; HEIGHT: 20px; COLOR: #fff; MARGIN-RIGHT: 10px; PADDING-TOP: 0px
+}
+.chapterlist H3 A.app_down_btn B {
+	WIDTH: 12px; DISPLAY: inline-block; BACKGROUND: url(../images/comicinfo/app_ico.png) no-repeat 0px -9px; HEIGHT: 13px; MARGIN-LEFT: 5px; VERTICAL-ALIGN: text-bottom; OVERFLOW: hidden
+}
+.chapterlist H3 A.app_down_btn:hover {
+	BACKGROUND: #83b813; TEXT-DECORATION: none
+}
+.chapterlist H3 A.app_down_btn:hover B {
+	BACKGROUND-POSITION: 0px -26px
+}
+.chapterlist H3 A.cur.app_down_btn EM {
+	POSITION: absolute; WIDTH: 8px; DISPLAY: inline-block; BACKGROUND: url(../images/comicinfo/app_ico.png) no-repeat -1px 0px; HEIGHT: 5px; OVERFLOW: hidden; TOP: -5px; LEFT: 35px
+}
+.chapterlist H3 A.cur.app_down_btn:hover EM {
+	BACKGROUND-POSITION: 0px -42px
+}
+.v4_w1000 #app_down {
+	WIDTH: 720px; BACKGROUND: url(../images/comicinfo/app_download_730.jpg) no-repeat
+}
+.v4_w1000 .app_down .url_list {
+	LEFT: 15px
+}
+.v4_w1000 .app_down .url_list A {
+	WIDTH: 120px; MARGIN-RIGHT: 16px
+}
+.v4_w1000 .app_down .url_list A.adul2 {
+	MARGIN-RIGHT: 5px
+}
+.new_btn A {
+	BORDER-BOTTOM: #c98e20 4px solid; TEXT-ALIGN: center; LINE-HEIGHT: 36px; WIDTH: 120px; FONT-FAMILY: "microsoft yahei"; BACKGROUND: #f6b235; FLOAT: left; HEIGHT: 36px; COLOR: #fff; FONT-SIZE: 18px; border-radius: 3px
+}
+.new_btn A#a2 {
+	BORDER-BOTTOM-COLOR: #4dbcb0; BORDER-TOP-COLOR: #4dbcb0; BACKGROUND: #5ed7dc; BORDER-RIGHT-COLOR: #4dbcb0; MARGIN-LEFT: 10px; BORDER-LEFT-COLOR: #4dbcb0
+}
+.new_btn A EM {
+	POSITION: relative; WIDTH: 24px; DISPLAY: inline-block; BACKGROUND: url(../images/comicinfo/cs_btn.png) no-repeat; HEIGHT: 24px; TOP: 6px; MARGIN-RIGHT: 2px
+}
+.new_btn A#a1 EM {
+	BACKGROUND-POSITION: 0px -184px
+}
+.new_btn A#a2 EM {
+	BACKGROUND-POSITION: 0px -219px
+}
+.new_btn A:hover {
+	FILTER: alpha(opaciyt:.9); TEXT-DECORATION: none; opacity: .9
+}
+.new_btn A.cur#a2 {
+	BORDER-BOTTOM-COLOR: #308e84; BORDER-TOP-COLOR: #308e84; BACKGROUND: #2fb6bc; BORDER-RIGHT-COLOR: #308e84; BORDER-LEFT-COLOR: #308e84
+}
+.lyrics_box {
+	MARGIN-TOP: 44px
+}
+.lyrics_list {
+	MARGIN-TOP: 10px; PADDING-LEFT: 10px
+}
+.lyrics_list LI {
+	LINE-HEIGHT: 28px; WIDTH: 174px; TEXT-OVERFLOW: ellipsis; WHITE-SPACE: nowrap; FLOAT: left; HEIGHT: 28px; FONT-SIZE: 12px; OVERFLOW: hidden; MARGIN-RIGHT: 10px
+}
+.lyrics_list LI A {
+	COLOR: #666
+}
+.lyrics_list LI A:hover {
+	COLOR: #6dad14
+}
+.lyrics_list LI A.zan:hover {
+	COLOR: #666; TEXT-DECORATION: none
+}
+.lyrics_list LI A.zan {
+	POSITION: relative; LINE-HEIGHT: 18px; PADDING-LEFT: 16px; DISPLAY: inline-block; BACKGROUND: url(../images/comicinfo/zan.png) no-repeat; COLOR: #9c4803; MARGIN-LEFT: 5px; FONT-SIZE: 12px; VERTICAL-ALIGN: middle; OVERFLOW: hidden; TOP: -2px
+}
+.fill_color_list {
+	MARGIN-TOP: 10px; PADDING-LEFT: 10px; PADDING-TOP: 5px
+}
+.fill_color_list LI {
+	POSITION: relative; PADDING-LEFT: 110px; WIDTH: 110px; FLOAT: left; HEIGHT: 105px; MARGIN-RIGHT: 10px
+}
+.fill_color_list LI .imgbox {
+	BORDER-BOTTOM: #acacac 1px solid; POSITION: absolute; BORDER-LEFT: #acacac 1px solid; PADDING-BOTTOM: 1px; PADDING-LEFT: 1px; WIDTH: 95px; PADDING-RIGHT: 1px; HEIGHT: 95px; BORDER-TOP: #acacac 1px solid; TOP: 0px; BORDER-RIGHT: #acacac 1px solid; PADDING-TOP: 1px; LEFT: 0px
+}
+.fill_color_list LI .imgbox IMG {
+	WIDTH: 100%; HEIGHT: 100%
+}
+.fill_color_list LI .fill_color_txt {
+	COLOR: #000; FONT-SIZE: 12px
+}
+.fill_color_list LI .fill_color_txt:hover {
+	COLOR: #6dad14
+}
+.fill_color_list LI .zan {
+	POSITION: absolute; LINE-HEIGHT: 18px; PADDING-LEFT: 16px; BOTTOM: 20px; DISPLAY: inline-block; BACKGROUND: url(../images/comicinfo/zan.png) no-repeat; COLOR: #9c4803; FONT-SIZE: 12px; OVERFLOW: hidden; LEFT: 110px
+}
+.fill_color_list LI .zan:hover {
+	COLOR: #666; TEXT-DECORATION: none
+}
+.lyrics_box .recomend_con {
+	MIN-HEIGHT: 112px; _height: 112px
+}
+.v4_w1000 .lyrics_box {
+	MARGIN-TOP: 24px
+}
+.v4_w1000 .lyrics_list LI {
+	WIDTH: 170px
+}
+.v4_w1000 .fill_color_list {
+	HEIGHT: 105px; OVERFLOW: hidden
+}
+.v4_w1000 .fill_color_list LI {
+	WIDTH: 120px
+}
+.v4_w1000 .lyrics_box .recomend_con {
+	MIN-HEIGHT: 120px; _height: 120px
+}

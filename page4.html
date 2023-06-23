@@ -1,0 +1,604 @@
+<!doctype html>
+<html><head>
+<meta charset="utf-8">
+<title>七龙珠</title>
+<link rel="shortcut icon" href="./favicon.ico" type="image/x-icon" />
+<link rel="stylesheet" type="text/css" href="css/basic.css">
+<link rel="stylesheet" type="text/css" href="css/comicinfo.css">
+<link rel="stylesheet" type="text/css" href="css/dialog.css">
+<link rel="stylesheet" type="text/css" href="css/comment.css">
+<style>
+.bodytop {
+	position: absolute;
+	height: 650px;
+	display: block;
+	top: 47px;
+	left: 0;
+	width: 100%;
+	background: url(../images/index/bg_201507271618_1200.png) center 0 no-repeat;
+}
+</style>
+</head>
+<body style="background-image:url(about:blank);background-attachment:fixed;">
+<div id="tip_topfixed" style="display:none;"><a href="#"class="ico close" title="关闭" onClick="$(this).parent().hide()"></a>
+  <div id="msgview"></div>
+</div>
+<!--黄色提示框 end-->
+<div id="admin_body"></div>
+<!--头部-->
+
+<div id="header" class="cf"> </div>
+<!--音频播放对象-->
+
+<div id="banner">
+  <div class="wrap">
+    <div class="banner_wrap"> <!--妖气传送门-->
+      
+    
+      <div class="banner_mid"><a href="index.html" class="btn_portal" style="margin-left:40px;"><span class="fl">首页</span><em class="ico"></em></a><a href="page1.html" class="btn_portal"><span class="fl">海贼王</span><em class="ico"></em></a> <a href="page2.html" class="btn_portal"><span class="fl">灌篮高手</span><em class="ico"></em></a><a href="page3.html" class="btn_portal"><span class="fl">火影忍者</span><em class="ico"></em></a><a href="page4.html" class="btn_portal"><span class="fl">七龙珠</span><em class="ico"></em></a><a href="page5.html" class="btn_portal"><span class="fl">银魂</span><em class="ico"></em></a><a href="page6.html" class="btn_portal"><span class="fl">圣斗士星矢</span><em class="ico"></em></a><a href="page7.html" class="btn_portal"><span class="fl">黑子的篮球</span><em class="ico"></em></a><a href="page8.html" class="btn_portal"><span class="fl">棋魂</span><em class="ico"></em></a><a href="page9.html" class="btn_portal"><span class="fl">死神</span><em class="ico"></em></a><a href="page10.html" class="btn_portal"><span class="fl">家庭教师</span><em class="ico"></em></a>
+        
+      </div>
+      <!--品牌馆 end--> </div>
+    <!--动画-->
+    
+    
+    <!--我看过的end--> </div>
+</div>
+
+<div class="ad_wrap cf" style="border:1px solid #000;"> <span class="fl"><a href="#"><img src="images/1460092968_kZsco9UcmUO1.jpg" alt="送货ING"></a> </span> <a class="ico support" title="赞助商"  href="javascript:;"></a> </div>
+<!--广告 end--> 
+
+<!--位置-->
+<div class="location">
+  <p class="fl"><a href="index.html">首页</a>&nbsp;&gt;&nbsp;&nbsp;&gt;&nbsp;七龙珠</p>
+  
+</div>
+<div class="wrap cf"> 
+  <!--作品信息-->
+  <div class="comic_info"> 
+    <!--left-->
+    <div class="left" style="height:350px; ">
+      <h1 class="fl" style="margin-left:0px"> 
+ 七龙珠 </h1>
+      <div></div>
+      
+      
+      <div class="clear"></div>
+      <div class="coverBox"> 
+        <!--作品封面-->
+        <div class="cover" guide-step="1" id="cover"> <a href="#"><img src="images/a04.jpg" alt="十字徒-CROSS" /></a>
+          <div class="bot"> 
+            <!--下载-->
+            <div class="download box"> <a href="#"onClick="download_cover(119612)" class="ico_trans" title="下载"></a> </div>
+            <!--下载 end--> 
+            <!--历史封面-->
+            <div class="history box"> <a href="#"class="ico_trans" title="历史" onClick="show_cover(this, 119612)"></a> 
+              
+              <!--历史封面弹框 end--> 
+            </div>
+            
+            <!--感受-->
+            <div class="feel box"> <a href="#"class="ico_trans" title="感受" id="feelsmall"></a> 
+              <!--星星评分-->
+              <div class="starbox show_grade_div" id="show_grade" style="display:none;">
+                <div class="score_rate"> <span>0.00</span>
+                  <dl class="star-rating">
+                    <dt class="current_rating" style="width:px;"></dt>
+                    <dt><a class="one-star" title="劣质" href="javascript:;" onClick="login_ajax(function(){ grade(1)});return false;">1</a></dt>
+                    <dt><a class="two-stars" title="不给力" href="javascript:;" onClick="login_ajax(function(){ grade(2)});return false;">2</a></dt>
+                    <dt><a class="three-stars" title="平凡" href="javascript:;" onClick="login_ajax(function(){ grade(3)});return false;">3</a></dt>
+                    <dt><a class="four-stars" title="佳作" href="javascript:;" onClick="login_ajax(function(){ grade(4)});return false;">4</a></dt>
+                    <dt><a class="five-stars" title="神作" href="javascript:;" onClick="login_ajax(function(){ grade(5)});return false;">5</a></dt>
+                  </dl>
+                </div>
+                <p class="tc">当前评分人数：0人</p>
+              </div>
+              <b class="bg_star show_grade_div" style="display:none;"></b> 
+              <!--星星评分 结束--> 
+              <!--感受弹框-->
+              <div class="pop_box" style="display: none;" id="show_feel">
+                <div id="show_feel_div">
+                  <p>我对十字徒-CROSS的感受</p>
+                  <a class="feel_1" href="javascript:;"  onclick="$(this).blur();feel(1);return false;">爽快</a> <a class="feel_2" href="javascript:;"  onclick="$(this).blur();feel(2);return false;">感动</a> <a class="feel_3" href="javascript:;"  onclick="$(this).blur();feel(3);return false;">遗憾</a> <a class="feel_4" href="javascript:;"  onclick="$(this).blur();feel(4);return false;">恐怖</a> <a class="feel_5" href="javascript:;"  onclick="$(this).blur();feel(5);return false;">爆笑</a> <a class="feel_6" href="javascript:;"  onclick="$(this).blur();feel(6);return false;">其他</a>
+                  <div style="position: absolute;top:28px;left:5px">
+                   
+                  </div>
+                </div>
+                <div class="bg"></div>
+              </div>
+              <!--感受弹框 end --> 
+            </div>
+            <!--感受end--> 
+          </div>
+        </div>
+        <!--历史封面弹框-->
+        <div class="history_pop_box" id="covers">
+          <div class="bg"></div>
+        </div>
+        <!--历封面史end--> 
+        <!--作品封面--> 
+        <!--作品详情--> 
+        <!--按钮-->
+        
+        
+        <!--按钮 end--> 
+      </div>
+      <div class="info"> 
+        <!--top-->
+        <div class="top" >
+          <div class="line1">作者： <span> 鸟山明                                                                                                                 </span> 人气： <span> 8亿43643万 </span> 收藏数：<span> 621854</span>  </div>
+          <div class="line2"> 总月票：<i>568</i> 阅读顺序： <span> 从左至右<b class="arrow_r"></b> </span> 
+            <!--更多-->
+            <div class="more"> <a href="#"class="btn"></a>
+              
+            </div>
+            <!--更多 end--> 
+            
+          </div>
+        </div>
+        <!--top end --> 
+        <!--标签-->
+        
+        <!--标签 end-->
+        <div class="clear"></div>
+        <!--作品描述-->
+        <p class="words" id="words"><br>
+ 很久很久以前，地球上散落着七颗神奇的龙珠，传说只要聚齐它们，神龙就会出现，并可以为人实现一个愿望。为了寻找龙珠，布尔玛和孙悟空踏上了奇妙的寻珠之旅...... <a class="btn" href="javascript:;" onClick="show_words()"></a><br><br>
+
+</p>
+        <p class="words" id="words1" style="display:none">公元2044年，一种神秘药物"Arachne（艾拉克因）"经黑市流入我国，2年后位于上海的17岁高一学生林戒，于夜晚的"TINX酒吧"中遇到了一件不可思议的事件，从未有过的恐惧极速袭来...... <a class="btn" href="javascript:;" onClick="show_words()"></a></p>
+        <p class="words" id="words2" style="display:none">公元2044年，一种神秘药物"Arachne（艾拉克因）"经黑市流入我国，2年后位于上海的17岁高一学生林戒，于夜晚的"TINX酒吧"中遇到了一件不可思议的事件，从未有过的恐惧极速袭来...... <a class="btn" href="javascript:;" onClick="show_words()"></a></p>
+        <!--作品描述 end--> 
+        <!--按钮-->
+        <div class="btn_wrap" id="btn_big"> <a href="page17.html"class="btn_start" id="start_read"><em id="start_read_em"></em><strong>开始阅读</strong></a> <a href="#"class="btn_continue" style="display:none"><strong>继续阅读</strong><span>003阴霾无处不</span></a> <span id="bookrack" ><a href="#"class="btn_stored"  onclick='favorite(this)'><strong>加入收藏</strong><span>+<i>7135</i></span></a></span> <a href="#"class="btn_ticket" onClick="show_action_dialog(119612,'month_ticket');return false;"><strong>投月票</strong><span>+<i id="comic_month_ticket_num">224</i></span></a>
+         
+        </div>
+        <!--按钮 end--> 
+        
+      </div>
+      <!--作品详情 end--> 
+    </div>
+    <!--left end --> 
+    <!--right-->
+    <div class="right" > 
+      <!--作者信息-->
+      <div class="auto_ad" >
+          <ul class="auto_content_wrap" style=" width:270px; height:305px;">
+           
+            <li class="auto_content curr_con" ><img style=" width:270px; height:305px;"src="images/aa4.jpg" alt="魔法少女"></li>
+          </ul>
+          
+           </div>
+      <!--作者信息--> 
+    </div>
+    <!--right end--> 
+
+  <!--作品信息 end--> 
+  <!--右边-->
+  </div>
+  <div class="main"> 
+    
+    <!--章节列表-->
+    <div class="chapterlist" >
+      <h3><strong>章节列表</strong> <a  title="当前顺序：升序" class="turn up" id="comicOrder" href="javascript:;" onClick="comic_order()">章节顺序</a> </h3>
+      <!--app广告-->
+      <div class="cf" id="app_down">
+        <div class="app_down">
+          <div class="url_list"> <a title="安卓手机"  href=""></a> <a title="苹果手机"  href=""></a> <a title="WinPhone"  href=""></a> </div>
+          <a title="了解更多"  class="app_down_more" href=""></a> </div>
+      </div>
+      <!--app广告 end-->
+      <div class="chapterlist_box"> <b class="tl"></b><b class="tr"></b><b class="bl"></b><b class="br"></b> 
+        <!--章节-->
+        <ul class="cf" id="chapter">
+          <li id='cpt_read_482129'> <a id="cpt_482129" href="" 
+                    title="PSALM.1  似曾相识的恐惧 2016-04-15" 
+                     
+                    > PSALM.1  似曾相..<i></i> </a> (26p) </li>
+          <li id='cpt_read_484225'> <a id="cpt_484225" href="" 
+                    title="PSALM.2  红眸与少年 2016-04-22" 
+                     
+                    > PSALM.2  红眸与..<i></i> </a> (26p) </li>
+        </ul>
+        <script>
+                get_comic_order();
+                </script> 
+        <!--章节 end--> 
+        <!--底部按钮-->
+        <div class="bot">
+          <div class="fl"><a href="#"class="btn add_book" onclick='favorite(this);' title="加入书架"></a> <a href="#"onclick="show_action_dialog(119612,'tongren');return false;">同人图投稿</a> <a href="#"onclick ="show_action_dialog(119612,'recommend');return false;">推荐</a> <span>最后更新时间：2016-04-22</span> </div>
+          <a href="#"onclick="show_action_dialog(119612,'dashang');" class="btn btn_ds" title="打赏月票"></a> </div>
+        <!--底部按钮 end--> 
+      </div>
+    </div>
+    <!--章节列表 end--> 
+    
+    <!--填词--> 
+    
+    <!--推荐-->
+    <div class="recomend">
+      <div class="tab_wrap">
+        <div class="tab tab_scroll">
+          <div style="left:0px"><a href="#"rel="rec-1" class="curr">别人还在看</a></div>
+          <div style="left:126px"><a href="#"rel="rec-2">本作者漫画<em class="red">(3)</em></a></div>
+          <span></span> </div>
+      </div>
+      <div class="recomend_con"> 
+        
+        <!--动画--> 
+        
+        <!--动画 end--> 
+        
+        <!--别人还在看-->
+        <ul class="other" id="rec-1">
+          <!--/
+        </ul>
+        <!--别人还在看 end--> 
+        <!--本作者漫画-->
+        <div id="rec-2" class="author_comic" style="display:none;">
+          <div class="scroll_comic" style="">
+            <ul>
+              <li><a href="#" class="cover"><img src="http://cover.u17i.com/2010/12/98280_1293765183_r9AHz95a1P5P.small.jpg"/></a><a href="#" class="name"> JUSAKA摄血医</a>I swear</li>
+              <li><a href="#" class="cover"><img src="http://cover.u17i.com/2010/09/98280_1283453259_yMOzojJRdgPy.small.jpg"/></a><a href="#" class="name"> 把手给我</a>把手给我</li>
+              <li><a href="#" class="cover"><img src="http://cover.u17i.com/2010/12/98280_1293709455_0isEEz7Ef6fc.small.jpg"/></a><a href="#" class="name"> 1：10情人</a>1:0</li>
+            </ul>
+          </div>
+        </div>
+        <!--本作者漫画 end--> 
+        <!--壁纸--> 
+        <!--壁纸 end--> 
+      </div>
+    </div>
+    <!--推荐 end-->
+    <div id="tuijian"> <a href="#"><img src="images/1459401564_2ujZYjjHyGVV.gif" alt="无常道"></a> </div>
+    
+    <!--投票-->
+    <div class="vote"> 
+      <!--投票标题-->
+      <div class="tab_wrap">
+        <div class="vote_tab">
+          <div id="tp_new"><a href="#"class="curr" >最新投票</a></div>
+          <div style="left:126px" id="tp_list"><a href="#"onclick="get_vote_list();" >全部投票<i class="f99">(0)</i></a></div>
+          <span></span> </div>
+        <a href="#"class="btn_vote" onClick="window.open(_cfg_host_base+'/vote/add.php?object_id=119612&object_type=comic');">发起投票</a> </div>
+      <!--投票标题 end--> 
+      <!--投票内容-->
+      <div class="vote_con"> 
+        <!--最新投票-->
+        <div class="new_vote">
+          <p class="noInformation"><img src="images/yg_cry.png">想知道别人的想法吗？投票现在是要10妖果了，快快发起你的投票吧！</p>
+        </div>
+        <!--最新投票 end--> 
+        <!--全部投票-->
+        <div class="all_vote" id="all_vote_panel" style="display:none">
+          <div class="all_vote" id="all_vote_list"> </div>
+          <div id="vote_page" class="page"></div>
+        </div>
+        <!--全部投票 end--> 
+      </div>
+      <!--投票内容 end--> 
+    </div>
+    <!--投票 end--> 
+    <!--评论-->
+    <div id="comment"> 
+      <!--评论标题-->
+      <div class="tab_wrap" id="bind_comment_anchor">
+        <div class="vote_tab">
+          <div><a href="#"class="curr"  onclick="get_comment('create_time')">所有评论</a></div>
+          <div style="left:126px"><a href="#"onClick="get_comment('choice')" guide-step="6" id="twts">精华评论</a></div>
+          <div style="left:252px"><a href="#"onClick="get_comment('reply_time')">最新回复</a></div>
+          <div style="left:378px"><a href="#"onClick="get_comment('user')" id="my_comment">我的评论</a></div>
+          <span></span> </div>
+        <p class="fr" ><span id="comment_total"></span><a  href="" >[查看全部]</a></p>
+      </div>
+      <!--评论标题 end--> 
+      
+      <!--评论内容-->
+      <div class="container cf commentbox">
+        <div class="ncc" id="bind_comment_box"> 
+          <!--用户登录部分开始-->
+          <div class="ncc_user_login panel_login_tip" style="display:none"><span>您尚未登录，未登录状态下发表评论系统默认为匿名评论</span>
+            <label>
+              <input type="button" class="btn_reg" value=" " onClick="reg_ajax();return false;"/>
+            </label>
+            <label>
+              <input type="button" class="btn_login" value=" " onClick="login_ajax(function(){ $('.panel_login_tip').hide()});return false;"/>
+            </label>
+            <div class="clearit"></div>
+          </div>
+          <!--用户登录部分结束--> 
+          <!--发表评论部分开始-->
+          <div class="ncc_form panel_input_comment">
+            <div class="ncc_form_textarea_bg">
+              <textarea class="ncc_form_textarea input_comment" id="input_comment"></textarea>
+            </div>
+            <div class="auto zoom pd_t_6 pd_lf_p1" style="height: 30px;overflow: hidden;">
+              <div class="ico_feel_img">
+                <ol>
+                  <a href="#"onClick="$.xcomment.api.face_dialog(this,$('textarea.input_comment'));return false;" class="toolbar_face"></a><i></i>
+                </ol>
+                <ol>
+                  <a class="img toolbar_pic" href="javascript:;" onClick="$.xcomment.pic_dialog($('div.panel_comment_input_images'));return false;"></a>
+                </ol>
+                <ol style="width:25px" guide-step="8" id="ifi">
+                  <a href="#"id="at_but"></a>
+                </ol>
+              </div>
+              <div class="rt">
+                <input type="button" class="btn submit btn_send_comment" onClick="$.xcomment.send_comment();return false;" value="发表">
+              </div>
+              <div class="form_text_num">还可以输入<i class="panel_input_comment_letter_num">1000</i>字</div>
+            </div>
+            <div class="ncc_pic_list panel_comment_input_images"></div>
+          </div>
+          <!--发表评论部分结束--> 
+          <!--回复表单开始-->
+          <div class="panel_input_reply auto zoom" style="display:none">
+            <div class="ncc_reply_form">
+              <div class="ncc_reply_form_input">
+                <textarea class="input input_reply"></textarea>
+              </div>
+            </div>
+            <div class="ncc_reply_form_bottom">
+              <div class="ico_feel_img">
+                <ol>
+                  <a href="#"class="toolbar_face" onClick="$.xcomment.api.face_dialog(this,$(this).closest('div.panel_input_reply').find('textarea.input_reply'));return false;"></a>
+                </ol>
+                <ol>
+                  <a class="img toolbar_pic" href="javascript:;" onClick="$.xcomment.pic_dialog($(this).closest('div.panel_input_reply').find('div.panel_reply_input_images'));return false;"></a>
+                </ol>
+                <ol style="width:25px" guide-step="8" id="ifi">
+                  <a href="#"onClick="$(this).parents('.panel_input_reply').find('textarea').insertAtCaret('@').click().focus();"></a>
+                </ol>
+              </div>
+              <div class="ncc_reply_form_btn"><span>还可以输入<i class="panel_input_reply_letter_num"></i>字</span>
+                <input class="btn submit btn_send_reply" type="button" value="回复评论" onClick="$.xcomment.send_reply($(this));return false;"/>
+                <input class="btn reset btn_cancel_reply" type="button" value="取 消" onClick="$.xcomment.toggle_reply_panel($(this));return false;"/>
+              </div>
+              <div class="clearit"></div>
+              <div class="ncc_pic_list panel_reply_input_images"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!--评论内容 end--> 
+    </div>
+    <!--评论 end--> 
+  </div>
+  <!--右边 end--> 
+  <!--左边栏-->
+  <div class="side">
+    <div class="side_top"> 
+      <!--礼物-->
+      <div class="gift">
+        <h2></h2>
+        <ul guide-step="3" id="stg">
+          <li style="z-index:4" > <a href="#"class="btn_gift" onClick="show_action_dialog(119612,'send_gift','gift_top_8');return false;"><span class="num" id="gift_num_8">0</span></a> 
+            <!--红包弹框-->
+            <div class="pop_box">
+              <p class="bg"></p>
+              <a href="#"class="close"><span></span><i></i></a>
+              <div class="con">
+                <div class="fl"> <span></span>
+                  <p>红包</p>
+                  <strong>200</strong> </div>
+                <div class="fr">
+                  <p>撒花散红包<br/>
+                    犒劳辛苦的作者大大，画途漫漫，要加油哟！</p>
+                  <a href="#"onclick="show_action_dialog(119612,'send_gift','gift_top_8');return false;">我要送红包</a> </div>
+              </div>
+            </div>
+            <!--红包弹框 end--> 
+          </li>
+          <li style="z-index:3"> <a href="#"class="btn_gift" onClick="show_action_dialog(119612,'send_gift','gift_top_9');return false;"><span class="num" id="gift_num_9">0</span></a> 
+            <!--咖啡弹框-->
+            <div class="pop_box coffee">
+              <p class="bg"></p>
+              <a href="#"class="close"><span></span><i></i></a>
+              <div class="con">
+                <div class="fl"> <span></span>
+                  <p>咖啡</p>
+                  <strong>1000</strong> </div>
+                <div class="fr">
+                  <p>暖暖的咖啡<br/>
+                    更新路上的作者大大辛苦了。</p>
+                  <a href="#"onclick="show_action_dialog(119612,'send_gift','gift_top_9');return false;">我要送咖啡</a> </div>
+              </div>
+            </div>
+            <!--咖啡弹框 end--> 
+          </li>
+          <li style="z-index:2"> <a href="#"class="btn_gift" onClick="show_action_dialog(119612,'send_gift','gift_top_10');return false;"><span class="num" id="gift_num_10">0</span></a> 
+            <!--钻石弹框-->
+            <div class="pop_box jewel">
+              <p class="bg"></p>
+              <a href="#"class="close"><span></span><i></i></a>
+              <div class="con">
+                <div class="fl"> <span></span>
+                  <p>钻石</p>
+                  <strong>5000</strong> </div>
+                <div class="fr">
+                  <p>钻石永恒又无价<br/>
+                    就像您对作者大大的爱，连绵又细长。</p>
+                  <a href="#"onclick="show_action_dialog(119612,'send_gift','gift_top_10');return false;">我要送钻石</a> </div>
+              </div>
+            </div>
+            <!--钻石弹框 end--> 
+          </li>
+          <li style="z-index:1"> <a href="#"class="btn_gift" onClick="show_action_dialog(119612,'send_gift','gift_top_11');return false;"><span class="num" id="gift_num_11">0</span></a> 
+            <!--别墅弹框-->
+            <div class="pop_box house">
+              <p class="bg"></p>
+              <a href="#"class="close"><span></span><i></i></a>
+              <div class="con">
+                <div class="fl"> <span></span>
+                  <p>别墅</p>
+                  <strong>10000</strong> </div>
+                <div class="fr">
+                  <p>别墅准备好了<br/>
+                    作者大大，撒，一狗！向更新出发！.</p>
+                  <a href="#"onclick="show_action_dialog(119612,'send_gift','gift_top_11');return false;">我要送别墅</a> </div>
+              </div>
+            </div>
+            <!--别墅弹框 end--> 
+          </li>
+        </ul>
+      </div>
+      <!--礼物 end--> 
+      <!--本书最新动态-->
+      <div class="love_gift" id="gift_new">
+        <h3>今日心意礼物推荐<a  href="">"礼物"？</a></h3>
+        <div class="gift_value cf"> <span class="fl"> <img src="images/gift4.png"> </span> <span class="fr"> <strong>送别墅</strong><br>
+          <em class="f33"><i class="red_e5">10000</i>妖气币</em><br>
+          <em class="f66">粉丝值<i class="red_e5">+10000</i></em><br>
+          <a href="#"class="aBtnBoxGreen"  onClick="show_action_dialog(119612,'send_gift','gift_top_11');return false;">立即赠送</a> </span> </div>
+        <div class="why cf"> <span class="fl red_e5">推荐理由：</span> <span class="fr f66"> 作者大大，撒，一狗！向更新出发！. </span> </div>
+      </div>
+      <!--本书最新动态 end--> 
+      <!--广告--> 
+      <a class="ad_box"  href="javascript:;"> 
+      <!-- 作品信息页B1 --> 
+      <a href="#"><img src="images//1461575336_41Zg1Ej6x6yB.gif" alt="星STAR"></a> </a> 
+      <!--广告 end--> 
+      <!--后援团排行、月票支持榜-->
+      <div class="rank">
+        <div class="tab tab_scroll">
+          <div><a href="#"class="curr" rel="hy" guide-step="5" id="hyt">后援团排行</a></div>
+          <div style="left:124px"><a href="#"rel="m_ticket">月票支援榜</a></div>
+          <span></span> </div>
+        <div class="rank_con"> 
+          <!--后援团排行-->
+          <div id="hy">
+            <ul>
+              <li class="q first"> <a href="#" class="tx"><span class="num">1</span><img src="images/312148_dba5edca1b23ae67691cb6aad47801ae_1452001845.big.jpg"/></a>
+                <p class="fl"> <a href="#" class="name">伊利渣白</a> <span class="add">江苏<a href="#" class="ico_viplev_s viplev_3_s"></a> </span> </p>
+                <i class="fs author_lev_txt3">妖魔</i>
+                <div style="left: 235px; top: 12px; padding:0 5px; width:110px;" class="txtTs">
+                  <p> 粉丝值：<a class="red" href="">1726</a> </p>
+                </div>
+              </li>
+              <li class="q second"> <a href="#" class="tx"><span class="num">2</span><img src="images/9897404_9be06660c6aeff51788d8616cad70d9b_1433215769.big.jpg"/></a>
+                <p class="fl"> <a href="#" class="name">秘制蜜汁鸡</a> <span class="add">广东 深圳<a href="#" class="ico_viplev_s viplev_2_s"></a> </span> </p>
+                <i class="fs author_lev_txt0">妖精</i>
+                <div style="left: 235px; top: 12px; padding:0 5px; width:110px;" class="txtTs">
+                  <p> 粉丝值：<a class="red" href="">90</a> </p>
+                </div>
+              </li>
+              <li class="q third"> <a href="#" class="tx"><span class="num">3</span><img src="images/12832430_c328b9b285a26db907b26f434392f701_1447994080.big.jpg"/></a>
+                <p class="fl"> <a href="#" class="name">凡人皆需侍奉</a> <span class="add">海外<a href="#" class="ico_viplev_s viplev_2_s"></a> </span> </p>
+                <i class="fs author_lev_txt0">妖精</i>
+                <div style="left: 235px; top: 12px; padding:0 5px; width:110px;" class="txtTs">
+                  <p> 粉丝值：<a class="red" href="">90</a> </p>
+                </div>
+              </li>
+              <li> <span class="num">4</span>
+                <p class="fl"><a href="#" class="name">杭州大娘水脚</a> <a href="#" class="ico_viplev_s viplev_5_s"></a> </p>
+                <i class="fs author_lev_txt0">妖精</i>
+                <div style="left: 235px; top: 6px; padding: 0px 5px; width: 110px; display: none;" class="txtTs">
+                  <p> 粉丝值：<a class="red" href="">90</a> </p>
+                </div>
+              </li>
+              <li> <span class="num">5</span>
+                <p class="fl"><a href="#" class="name">DeadRose</a> <a href="#" class="ico_viplev_s viplev_5_s"></a> </p>
+                <i class="fs author_lev_txt0">妖精</i>
+                <div style="left: 235px; top: 6px; padding: 0px 5px; width: 110px; display: none;" class="txtTs">
+                  <p> 粉丝值：<a class="red" href="">90</a> </p>
+                </div>
+              </li>
+              <li> <span class="num">6</span>
+                <p class="fl"><a href="#" class="name">若相依</a> <a href="#" class="ico_viplev_s viplev_6_s"></a> </p>
+                <i class="fs author_lev_txt0">妖精</i>
+                <div style="left: 235px; top: 6px; padding: 0px 5px; width: 110px; display: none;" class="txtTs">
+                  <p> 粉丝值：<a class="red" href="">90</a> </p>
+                </div>
+              </li>
+              <li> <span class="num">7</span>
+                <p class="fl"><a href="#" class="name">ZacKing</a> <a href="#" class="ico_viplev_s viplev_2_s"></a> </p>
+                <i class="fs author_lev_txt0">妖精</i>
+                <div style="left: 235px; top: 6px; padding: 0px 5px; width: 110px; display: none;" class="txtTs">
+                  <p> 粉丝值：<a class="red" href="">90</a> </p>
+                </div>
+              </li>
+              <li> <span class="num">8</span>
+                <p class="fl"><a href="#" class="name">漫友0994035</a> <a href="#" class="ico_viplev_s viplev_2_s"></a> </p>
+                <i class="fs author_lev_txt0">妖精</i>
+                <div style="left: 235px; top: 6px; padding: 0px 5px; width: 110px; display: none;" class="txtTs">
+                  <p> 粉丝值：<a class="red" href="">90</a> </p>
+                </div>
+              </li>
+              <li> <span class="num">9</span>
+                <p class="fl"><a href="#" class="name">漫友1104987</a> <a href="#" class="ico_viplev_s viplev_2_s"></a> </p>
+                <i class="fs author_lev_txt0">妖精</i>
+                <div style="left: 235px; top: 6px; padding: 0px 5px; width: 110px; display: none;" class="txtTs">
+                  <p> 粉丝值：<a class="red" href="">90</a> </p>
+                </div>
+              </li>
+              <li> <span class="num">10</span>
+                <p class="fl"><a href="#" class="name">丶何西岚</a> <a href="#" class="ico_viplev_s viplev_4_s"></a> </p>
+                <i class="fs author_lev_txt0">妖精</i>
+                <div style="left: 235px; top: 6px; padding: 0px 5px; width: 110px; display: none;" class="txtTs">
+                  <p> 粉丝值：<a class="red" href="">90</a> </p>
+                </div>
+              </li>
+            </ul>
+            <div class="bot"  style="position: relative;"><span id="mytop">我的粉丝值</span><i class="red" id="fans_num">&nbsp;0&nbsp;</i> <em class="down" style="display:none"></em> <a href="#"class="help">?</a> <a href="#" class="fr">[更多&规则]</a>
+              <div class="txtTs" style="left: 80px; top:30px" >
+                <p> 您可以给喜欢漫画进行投月票或者送礼物就可以获得粉丝值了。<a href="#" class="blue">进入后援团</a> </p>
+              </div>
+            </div>
+          </div>
+          <!--后援团排行 end --> 
+          <!--月票支持榜-->
+          <div id="m_ticket" style="display:none">
+            <ul>
+              <li class="q first"> <a href="#" class="tx"> <span class="num">1</span><img src="images/312148_dba5edca1b23ae67691cb6aad47801ae_1452001845.small.jpg"/></a>
+                <p class="fl"> <a href="#" class="name name_1">伊利渣白</a> <a href="#"  class="ico_viplev_s viplev_3_s"></a> <i><strong>8</strong>张</i> </p>
+              </li>
+              <li class="second"> <span class="num">2</span> <a href="#" class="tx"><img src="images/default.small.gif"/></a>
+                <p class="fl"><a href="#" class="name name_1">漫友286655</a> <a href="#" class="ico_viplev_s viplev_3_s"></a> </p>
+                <i><strong>3</strong>张</i> </li>
+              <li class="third"> <span class="num">3</span> <a href="#" class="tx"><img src="images/1191347_a969d73fa2069e03f955d3794c307d4b_1344519049.small.jpg"/></a>
+                <p class="fl"><a href="#" class="name name_1">飞机刀</a> <a href="#" class="ico_viplev_s viplev_6_s"></a> </p>
+                <i><strong>3</strong>张</i> </li>
+              <li > <span class="num">4</span> <a href="#" class="tx"><img src="images/default.small.gif"/></a>
+                <p class="fl"><a href="#" class="name name_1">顧亜</a> <a href="#" class="ico_viplev_s viplev_5_s"></a> </p>
+                <i><strong>3</strong>张</i> </li>
+              <li > <span class="num">5</span> <a href="#" class="tx"><img src="images/13800409_2058be322a3804a7d87de453ea4a51f3_1455887289.small.jpg"/></a>
+                <p class="fl"><a href="#" class="name name_1">欧啦欧啦！</a> <a href="#" class="ico_viplev_s viplev_2_s"></a> </p>
+                <i><strong>3</strong>张</i> </li>
+              <li > <span class="num">6</span> <a href="#" class="tx"><img src="images/default.small.gif"/></a>
+                <p class="fl"><a href="#" class="name name_1">漫友522881</a> <a href="#"  class="ico_viplev_s viplev_1n_s"></a></p>
+                <i><strong>3</strong>张</i> </li>
+              <li > <span class="num">7</span> <a href="#" class="tx"><img src="images/4110961_44e6dd198590e8e4c87bb10a8d2a4824_1434693807.small.jpg"/></a>
+                <p class="fl"><a href="#" class="name name_1">朱飞航</a> <a href="#" class="ico_viplev_s viplev_4_s"></a> </p>
+                <i><strong>3</strong>张</i> </li>
+              <li > <span class="num">8</span> <a href="#" class="tx"><img src="images/4087771_fbac9609da99898a23704b819e3c70f8_1458355282.small.png"/></a>
+                <p class="fl"><a href="#" class="name name_1">iDream</a> <a href="#" class="ico_viplev_s viplev_6_s"></a> </p>
+                <i><strong>3</strong>张</i> </li>
+              <li > <span class="num">9</span> <a href="#" class="tx"><img src="images/10830334_f7e6f5d6579875dd8225a5141b5e8580_1435889711.small.jpg"/></a>
+                <p class="fl"><a href="#" class="name name_1">我有恐高症</a> <a href="#" class="ico_viplev_s viplev_1_s"></a> </p>
+                <i><strong>3</strong>张</i> </li>
+              <li > <span class="num">10</span> <a href="#" class="tx"><img src="images/412253_438e430bd620229ae8f8cc9f7fd1c0f0_1408162956.small.gif"/></a>
+                <p class="fl"><a href="#" class="name name_1">ahehot</a> <a href="#" class="ico_viplev_s viplev_6_s"></a> </p>
+                <i><strong>3</strong>张</i> </li>
+            </ul>
+            <div class="bot">
+              <p>漫画本月月票排名 ：<i class="red">121</i><a href="#"onClick="show_action_dialog(119612,'month_ticket');return false;" class="fr">投月票</a></p>
+              <div><a href="#">[月票排名奖励]</a><a href="#">[月票折现计划]</a><a href="#">[排行榜]</a></div>
+            </div>
+          </div>
+          <!--月票支持榜 end --> 
+        </div>
+      </div>
+    </div>
+    <!--广告--> 
+    
+    <!--广告--> 
+  </div>
+  <!--左边栏 end--> 
+  
+</div>
+<!--主内容 end--> 
+<!--底部-->
+
+</body>
+</html>

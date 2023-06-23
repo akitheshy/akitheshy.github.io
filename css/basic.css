@@ -1,0 +1,1734 @@
+body {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H1 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H2 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H3 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H4 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H5 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H6 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+HR {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+P {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+BLOCKQUOTE {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DT {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DD {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+UL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+OL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+LI {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+PRE {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+FIELDSET {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+lengend {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+BUTTON {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+INPUT {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+TEXTAREA {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+TH {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+TD {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+body {
+	FONT: 12px/22px "宋体"
+}
+BUTTON {
+	FONT: 12px/22px "宋体"
+}
+INPUT {
+	FONT: 12px/22px "宋体"
+}
+SELECT {
+	FONT: 12px/22px "宋体"
+}
+TEXTAREA {
+	FONT: 12px/22px "宋体"
+}
+H1 {
+	FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+H2 {
+	FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+H3 {
+	FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+H4 {
+	FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+H5 {
+	FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+H6 {
+	FONT-SIZE: 12px; FONT-WEIGHT: normal
+}
+ADDRESS {
+	FONT-STYLE: normal
+}
+CITE {
+	FONT-STYLE: normal
+}
+DFN {
+	FONT-STYLE: normal
+}
+EM {
+	FONT-STYLE: normal
+}
+I {
+	FONT-STYLE: normal
+}
+BLOCKQUOTE {
+	QUOTES: none
+}
+Q {
+	QUOTES: none
+}
+UL {
+	LIST-STYLE-TYPE: none; LIST-STYLE-IMAGE: none
+}
+OL {
+	LIST-STYLE-TYPE: none; LIST-STYLE-IMAGE: none
+}
+A {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; COLOR: #666; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+A.u {
+	TEXT-DECORATION: underline
+}
+FIELDSET {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+BUTTON {
+	FONT-SIZE: 100%
+}
+INPUT {
+	FONT-SIZE: 100%
+}
+SELECT {
+	FONT-SIZE: 100%
+}
+TEXTAREA {
+	FONT-SIZE: 100%
+}
+TABLE {
+	BORDER-SPACING: 0; BORDER-COLLAPSE: collapse
+}
+HTML {
+	OVERFLOW-Y: scroll
+}
+.clear {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 0px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 0px; VISIBILITY: hidden; CLEAR: both; FONT-SIZE: 0px; OVERFLOW: hidden; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.fl {
+	FLOAT: left
+}
+.fr {
+	FLOAT: right
+}
+.cl {
+	CLEAR: both
+}
+.po_r {
+	POSITION: relative
+}
+.cf {
+	
+}
+.cf:after {
+	DISPLAY: block; HEIGHT: 0px; VISIBILITY: hidden; CLEAR: both; CONTENT: ""
+}
+.fblack {
+	COLOR: #000
+}
+.f33 {
+	COLOR: #333
+}
+.f66 {
+	COLOR: #666
+}
+.f99 {
+	COLOR: #999 !important
+}
+.f_green {
+	COLOR: #58900d !important
+}
+.f_green2 {
+	COLOR: #10ad90
+}
+.red {
+	COLOR: #ff444f !important
+}
+.orange {
+	COLOR: #eca205 !important
+}
+.orange2 {
+	COLOR: #f80 !important
+}
+.blue {
+	COLOR: #379be9 !important
+}
+.purple {
+	COLOR: #8687ca !important
+}
+.f_arial {
+	FONT-FAMILY: "Arial"
+}
+.fb {
+	FONT-WEIGHT: bold !important
+}
+.f12 {
+	FONT-SIZE: 12px
+}
+.f14 {
+	FONT-SIZE: 14px
+}
+.f16 {
+	FONT-SIZE: 16px
+}
+.f13 {
+	FONT-SIZE: 13px
+}
+.sp10 {
+	HEIGHT: 10px; CLEAR: both; OVERFLOW: hidden
+}
+.sp15 {
+	HEIGHT: 10px; CLEAR: both; OVERFLOW: hidden
+}
+.sp20 {
+	HEIGHT: 10px; CLEAR: both; OVERFLOW: hidden
+}
+.sp15 {
+	HEIGHT: 15px
+}
+.sp20 {
+	HEIGHT: 20px
+}
+.mg_b_5 {
+	MARGIN-BOTTOM: 5px
+}
+.pd_b_10 {
+	PADDING-BOTTOM: 10px
+}
+.pd_b_40 {
+	PADDING-BOTTOM: 40px
+}
+.txt_in2 {
+	TEXT-INDENT: 2em
+}
+.txt_left {
+	TEXT-ALIGN: left
+}
+.wrap {
+	POSITION: relative; MARGIN: 0px auto; WIDTH: 1200px
+}
+.ico {
+	DISPLAY: inline-block; BACKGROUND: url(../images/cs_ico.png) no-repeat; VERTICAL-ALIGN: text-bottom
+}
+.ico_geng {
+	WIDTH: 15px; BACKGROUND-POSITION: 0px -40px; HEIGHT: 15px
+}
+.ico_vip {
+	WIDTH: 15px; BACKGROUND-POSITION: -15px -40px; HEIGHT: 15px
+}
+.ico_end {
+	WIDTH: 14px; BACKGROUND-POSITION: 0px -60px; HEIGHT: 16px
+}
+.ico_pay {
+	WIDTH: 16px; BACKGROUND-POSITION: -14px -60px; HEIGHT: 16px
+}
+.ico_sign {
+	WIDTH: 16px; BACKGROUND-POSITION: 0px -80px; HEIGHT: 15px
+}
+.ico_male {
+	WIDTH: 12px; BACKGROUND-POSITION: -19px -80px; HEIGHT: 13px; MARGIN-RIGHT: 3px
+}
+.ico_female {
+	WIDTH: 12px; BACKGROUND-POSITION: -19px -100px; HEIGHT: 13px; MARGIN-RIGHT: 3px
+}
+.ico_n {
+	WIDTH: 12px; BACKGROUND-POSITION: -14px -519px; HEIGHT: 13px; MARGIN-RIGHT: 3px
+}
+.ico_nosex {
+	WIDTH: 12px; BACKGROUND-POSITION: -25px -498px; HEIGHT: 13px; MARGIN-RIGHT: 3px
+}
+.ico_new {
+	WIDTH: 23px; BACKGROUND-POSITION: 0px -440px; HEIGHT: 11px
+}
+.ico_noread {
+	WIDTH: 39px; BACKGROUND-POSITION: 0px -475px; HEIGHT: 16px
+}
+#topbar {
+	Z-INDEX: 50; POSITION: fixed; WIDTH: 100%; BACKGROUND: url(../images/top_line.png) repeat-x; HEIGHT: 44px; TOP: 0px; PADDING-TOP: 3px; LEFT: 0px; _position: absolute
+}
+.topbar_con {
+	BACKGROUND: url(../images/cs_topbar.png) repeat-x; HEIGHT: 44px
+}
+#topbar .left {
+	FLOAT: left
+}
+#topbar .left .nav {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 25px; PADDING-RIGHT: 16px; FONT: 14px/44px "Microsoft Yahei"; BACKGROUND: url(../images/cs_topbar.png) no-repeat; FLOAT: left; HEIGHT: 44px; PADDING-TOP: 0px
+}
+#topbar .pop_on .nav {
+	BACKGROUND-COLOR: #5c5c5c; COLOR: #fff !important; TEXT-DECORATION: none
+}
+#topbar .nav EM {
+	Z-INDEX: 10; BORDER-BOTTOM: transparent 0px dashed; POSITION: absolute; BORDER-LEFT: transparent 3px dashed; LINE-HEIGHT: 0; WIDTH: 0px; HEIGHT: 0px; FONT-SIZE: 0px; BORDER-TOP: #9f9f9f 3px solid; TOP: 21px; RIGHT: 5px; BORDER-RIGHT: transparent 3px dashed
+}
+#topbar .pop_on .nav EM {
+	-webkit-transform: rotate(180deg); -moz-transform: rotate(180deg); -o-transform: rotate(180deg); transform: rotate(180deg); -webkit-transition: all .25s ease 0s; -moz-transition: all .25s ease 0s; -o-transition: all .25s ease 0s; transition: all .25s ease 0s
+}
+#topbar .pop_on Q {
+	COLOR: #5c5c5c
+}
+#topbar .pop_wrap {
+	POSITION: relative; FLOAT: left; MARGIN-RIGHT: 12px
+}
+#topbar .pop_box {
+	POSITION: absolute; DISPLAY: none; TOP: 47px; PADDING-TOP: 6px; LEFT: 0px
+}
+#topbar .left .nav_app {
+	BACKGROUND-POSITION: 5px -47px; COLOR: #3aceb2
+}
+#topbar .left .pop_on .nav_app {
+	BORDER-BOTTOM: #3aceb2 3px solid; BACKGROUND-POSITION: 5px -82px
+}
+#topbar .left .nav_novel {
+	BACKGROUND-POSITION: 5px -117px; COLOR: #3ea2e6
+}
+#topbar .left .pop_on .nav_novel {
+	BORDER-BOTTOM: #3ea2e6 3px solid; BACKGROUND-POSITION: 5px -152px
+}
+#topbar .left .nav_uxiong {
+	BACKGROUND-POSITION: 5px -187px; COLOR: #d5882e
+}
+#topbar .left .pop_on .nav_uxiong {
+	BORDER-BOTTOM: #d5882e 3px solid; BACKGROUND-POSITION: 5px -222px
+}
+#topbar .left .nav_mall {
+	BACKGROUND-POSITION: 2px -257px; COLOR: #e14f8a
+}
+#topbar .left .pop_on .nav_mall {
+	BORDER-BOTTOM: #e14f8a 3px solid; BACKGROUND-POSITION: 2px -292px
+}
+#topbar .left .nav_game {
+	BACKGROUND-POSITION: 4px -327px; COLOR: #ff5c5f
+}
+#topbar .left .pop_on .nav_game {
+	BORDER-BOTTOM: #ff5c5f 3px solid; BACKGROUND-POSITION: 4px -362px
+}
+#topbar .left .nav_mowan {
+	PADDING-LEFT: 33px; BACKGROUND-POSITION: 0px -461px; COLOR: #ff8177
+}
+#topbar .left .nav_mowan:hover {
+	BACKGROUND-POSITION: 0px -523px; COLOR: #fa5d50; TEXT-DECORATION: none
+}
+#topbar .pop_on .pop_box {
+	DISPLAY: block !important; -webkit-animation: pop_fadein .5s alternate ease-in-out; -moz-animation: pop_fadein .5s alternate linear; -ms-animation: pop_fadein .5s alternate linear; animation: pop_fadein .5s alternate ease-in-out
+}
+#topbar .pop_box_con {
+	BORDER-BOTTOM: #5c5c5c 1px solid; BORDER-LEFT: #5c5c5c 1px solid; PADDING-BOTTOM: 8px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: #fff; BORDER-TOP: #5c5c5c 1px solid; BORDER-RIGHT: #5c5c5c 1px solid; PADDING-TOP: 8px; -webkit-box-shadow: 2px 3px #818181; box-shadow: 2px 3px #818181
+}
+#brand .pop_box {
+	BORDER-BOTTOM: #5c5c5c 1px solid; BORDER-LEFT: #5c5c5c 1px solid; PADDING-BOTTOM: 8px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: #fff; BORDER-TOP: #5c5c5c 1px solid; BORDER-RIGHT: #5c5c5c 1px solid; PADDING-TOP: 8px; -webkit-box-shadow: 2px 3px #818181; box-shadow: 2px 3px #818181
+}
+#topbar .app_pop .last SPAN {
+	BORDER-BOTTOM: medium none
+}
+#topbar .usercenter_pop .last SPAN {
+	BORDER-BOTTOM: medium none
+}
+#topbar .more_pop .last {
+	BORDER-BOTTOM: medium none
+}
+#topbar .app_pop .last A:hover SPAN {
+	PADDING-BOTTOM: 0px
+}
+#topbar .usercenter_pop .last A:hover SPAN {
+	PADDING-BOTTOM: 0px
+}
+#topbar .app_pop {
+	WIDTH: 135px
+}
+#topbar .uxiong_pop {
+	WIDTH: 135px
+}
+#topbar .app_pop LI {
+	WIDTH: 100%; FLOAT: left
+}
+#topbar .uxiong_pop LI {
+	WIDTH: 100%; FLOAT: left
+}
+#topbar .notice_pop LI {
+	WIDTH: 100%; FLOAT: left
+}
+#topbar .usercenter_pop LI {
+	WIDTH: 100%; FLOAT: left
+}
+#topbar .app_pop LI A {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; DISPLAY: block; PADDING-TOP: 0px; -webkit-transition: all .2s ease-in; -moz-transition: all .2s ease-in; -o-transition: all .2s ease-in; transition: all .2s ease-in; _zoom: 1; -ms-transition: all .2s ease-in
+}
+#topbar .notice_pop LI A {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; DISPLAY: block; PADDING-TOP: 0px; -webkit-transition: all .2s ease-in; -moz-transition: all .2s ease-in; -o-transition: all .2s ease-in; transition: all .2s ease-in; _zoom: 1; -ms-transition: all .2s ease-in
+}
+#topbar .usercenter_pop LI A {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; DISPLAY: block; PADDING-TOP: 0px; -webkit-transition: all .2s ease-in; -moz-transition: all .2s ease-in; -o-transition: all .2s ease-in; transition: all .2s ease-in; _zoom: 1; -ms-transition: all .2s ease-in
+}
+#topbar .app_pop LI A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; PADDING-TOP: 0px
+}
+#topbar .app_pop LI A SPAN {
+	BORDER-BOTTOM: #dcdddd 1px dashed; DISPLAY: block; FONT: 13px/31px "Tahoma"; HEIGHT: 31px; COLOR: #333; CURSOR: pointer
+}
+#topbar .notice_pop LI SPAN {
+	BORDER-BOTTOM: #dcdddd 1px dashed; DISPLAY: block; FONT: 13px/31px "Tahoma"; HEIGHT: 31px; COLOR: #333; CURSOR: pointer
+}
+#topbar .usercenter_pop LI SPAN {
+	BORDER-BOTTOM: #dcdddd 1px dashed; DISPLAY: block; FONT: 13px/31px "Tahoma"; HEIGHT: 31px; COLOR: #333; CURSOR: pointer
+}
+#topbar .app_pop LI A SPAN I {
+	BACKGROUND: url(../images/cs_topbar_pop.jpg) no-repeat
+}
+#topbar .uxiong_pop SPAN {
+	BACKGROUND: url(../images/cs_topbar_pop.jpg) no-repeat
+}
+#topbar .app_pop LI A SPAN I {
+	MARGIN: 4px 3px; WIDTH: 22px; DISPLAY: inline-block; HEIGHT: 22px; VERTICAL-ALIGN: middle
+}
+#topbar .app_pop LI A:hover {
+	MARGIN-TOP: -1px; BACKGROUND: #f2f2f2; TEXT-DECORATION: none; PADDING-TOP: 1px
+}
+#topbar .notice_pop A:hover {
+	MARGIN-TOP: -1px; BACKGROUND: #f2f2f2; TEXT-DECORATION: none; PADDING-TOP: 1px
+}
+#topbar .usercenter_pop A:hover {
+	MARGIN-TOP: -1px; BACKGROUND: #f2f2f2; TEXT-DECORATION: none; PADDING-TOP: 1px
+}
+#topbar .app_pop LI A:hover SPAN {
+	BORDER-BOTTOM: medium none; PADDING-BOTTOM: 1px
+}
+#topbar .notice_pop A:hover SPAN {
+	BORDER-BOTTOM: medium none; PADDING-BOTTOM: 1px
+}
+#topbar .app_pop LI .a2 I {
+	BACKGROUND-POSITION: -25px 0px
+}
+#topbar .app_pop LI .a3 I {
+	BACKGROUND-POSITION: -50px 0px
+}
+#topbar .app_pop LI .a4 I {
+	BACKGROUND-POSITION: -75px 0px
+}
+#topbar .uxiong_pop SPAN {
+	MARGIN: 8px 0px; WIDTH: 115px; DISPLAY: block; HEIGHT: 46px; CURSOR: pointer
+}
+#topbar .uxiong_pop A {
+	BORDER-BOTTOM: #dcdddd 1px dashed; MARGIN: 0px auto; WIDTH: 115px; DISPLAY: block
+}
+#topbar .uxiong_pop .x1 {
+	BACKGROUND-POSITION: 0px -25px
+}
+#topbar .uxiong_pop .x2 {
+	BACKGROUND-POSITION: 0px -71px
+}
+#topbar .uxiong_pop .x3 {
+	BACKGROUND-POSITION: 0px -117px
+}
+#topbar .uxiong_pop .last A {
+	BORDER-BOTTOM: medium none
+}
+#topbar .mall_pop {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 495px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#topbar .mall_pop .left {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 4px; FLOAT: left; PADDING-TOP: 10px
+}
+#topbar .mall_pop .info {
+	BORDER-BOTTOM: #fff 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #fff 1px solid; PADDING-BOTTOM: 6px; LINE-HEIGHT: 18px; PADDING-LEFT: 6px; WIDTH: 90px; PADDING-RIGHT: 6px; FLOAT: left; HEIGHT: 175px; COLOR: #999; BORDER-TOP: #fff 1px solid; MARGIN-RIGHT: 5px; BORDER-RIGHT: #fff 1px solid; PADDING-TOP: 6px
+}
+#topbar .mall_pop .info:hover {
+	BORDER-BOTTOM-COLOR: #e14f8a; BORDER-TOP-COLOR: #e14f8a; BACKGROUND: #f2f2f2; BORDER-RIGHT-COLOR: #e14f8a; BORDER-LEFT-COLOR: #e14f8a; TEXT-DECORATION: none
+}
+#topbar .mall_pop .info IMG {
+	BORDER-BOTTOM: #cdcdcd 1px solid; BORDER-LEFT: #cdcdcd 1px solid; WIDTH: 88px; DISPLAY: block; HEIGHT: 88px; BORDER-TOP: #cdcdcd 1px solid; BORDER-RIGHT: #cdcdcd 1px solid
+}
+#topbar .mall_pop .info P {
+	PADDING-BOTTOM: 4px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; COLOR: #333; PADDING-TOP: 4px
+}
+#topbar .mall_pop .info EM {
+	FONT-FAMILY: "Arial"; COLOR: #ff0087
+}
+#topbar .mall_pop .info I {
+	BORDER-BOTTOM: #4f91c7 1px solid; BORDER-LEFT: #4f91c7 1px solid; LINE-HEIGHT: 14px; MARGIN: 2px auto; WIDTH: 48px; DISPLAY: block; BACKGROUND: #47b3ff; HEIGHT: 16px; COLOR: #fff; BORDER-TOP: #4f91c7 1px solid; BORDER-RIGHT: #4f91c7 1px solid
+}
+#topbar .mall_pop .right {
+	BORDER-LEFT: #c7cacf 1px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 12px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 192px; PADDING-TOP: 17px
+}
+#topbar .mall_pop .right .btn {
+	WIDTH: 128px; DISPLAY: block; MARGIN-BOTTOM: 12px; BACKGROUND: url(../images/cs_topbar_pop.jpg) no-repeat 0px -163px; HEIGHT: 38px; -webkit-transition: all .2s ease-in; -moz-transition: all .2s ease-in; -o-transition: all .2s ease-in; transition: all .2s ease-in; -ms-transition: all .2s ease-in
+}
+#topbar .mall_pop .right .btn:hover {
+	FILTER: alpha(opacity=85); opacity: 0.85
+}
+#topbar .game_pop .btn1:hover {
+	FILTER: alpha(opacity=85); opacity: 0.85
+}
+#topbar .game_pop .btn2:hover {
+	FILTER: alpha(opacity=85); opacity: 0.85
+}
+#topbar .mall_pop .right IMG {
+	BORDER-BOTTOM: #e35d93 1px solid; BORDER-LEFT: #e35d93 1px solid; WIDTH: 130px; DISPLAY: block; HEIGHT: 128px; BORDER-TOP: #e35d93 1px solid; BORDER-RIGHT: #e35d93 1px solid
+}
+#topbar .game_pop {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 518px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#topbar .game_pop UL {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 5px; WIDTH: 355px; PADDING-RIGHT: 5px; FLOAT: left; HEIGHT: 190px; BORDER-RIGHT: #c7cacf 1px solid; PADDING-TOP: 10px
+}
+#topbar .game_pop UL LI {
+	MARGIN-BOTTOM: 10px; FLOAT: left
+}
+#topbar .game_pop UL A {
+	BORDER-BOTTOM: #fff 1px solid; POSITION: relative; TEXT-ALIGN: center; BORDER-LEFT: #fff 1px solid; WIDTH: 68px; DISPLAY: block; HEIGHT: 85px; COLOR: #333; BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 1px solid
+}
+#topbar .game_pop UL A .ico {
+	POSITION: absolute; WIDTH: 27px; HEIGHT: 18px; TOP: 41px; RIGHT: 3px
+}
+#topbar .game_pop UL A .new {
+	BACKGROUND-POSITION: 0px 0px
+}
+#topbar .game_pop UL A .hot {
+	BACKGROUND-POSITION: 0px -20px
+}
+#topbar .game_pop UL A:hover {
+	BORDER-BOTTOM-COLOR: #ff5c5f; BORDER-TOP-COLOR: #ff5c5f; BACKGROUND: #f2f2f2; BORDER-RIGHT-COLOR: #ff5c5f; BORDER-LEFT-COLOR: #ff5c5f; TEXT-DECORATION: none
+}
+#topbar .game_pop UL A IMG {
+	MARGIN: 6px auto; WIDTH: 50px; DISPLAY: block; HEIGHT: 50px
+}
+#topbar .game_pop .right {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; FLOAT: left; PADDING-TOP: 17px
+}
+#topbar .game_pop .btn1 {
+	WIDTH: 130px; DISPLAY: block; MARGIN-BOTTOM: 10px; BACKGROUND: url(../images/cs_topbar_pop.jpg) no-repeat 0px -201px; HEIGHT: 38px; -webkit-transition: all .2s ease-in; -moz-transition: all .2s ease-in; -o-transition: all .2s ease-in; transition: all .2s ease-in; -ms-transition: all .2s ease-in
+}
+#topbar .game_pop .btn2 {
+	WIDTH: 130px; DISPLAY: block; MARGIN-BOTTOM: 10px; BACKGROUND: url(../images/cs_topbar_pop.jpg) no-repeat 0px -201px; HEIGHT: 38px; -webkit-transition: all .2s ease-in; -moz-transition: all .2s ease-in; -o-transition: all .2s ease-in; transition: all .2s ease-in; -ms-transition: all .2s ease-in
+}
+#topbar .game_pop .btn2 {
+	BACKGROUND-POSITION: 0px -239px
+}
+#topbar .game_pop .right IMG {
+	BORDER-BOTTOM: #e35c93 1px solid; BORDER-LEFT: #e35c93 1px solid; WIDTH: 130px; DISPLAY: block; HEIGHT: 84px; BORDER-TOP: #e35c93 1px solid; BORDER-RIGHT: #e35c93 1px solid
+}
+#topbar .fr .nav {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 44px; PADDING-LEFT: 14px; PADDING-RIGHT: 22px; FLOAT: left; PADDING-TOP: 0px
+}
+#topbar .fr .nav EM {
+	RIGHT: 9px
+}
+#topbar .fr .nav Q {
+	POSITION: absolute; TOP: 0px; RIGHT: -1px
+}
+#topbar .notice_pop {
+	WIDTH: 118px
+}
+#topbar .notice_pop I {
+	PADDING-LEFT: 5px; WIDTH: 60px; FLOAT: left
+}
+#topbar .notice_pop EM {
+	FONT-FAMILY: "Arial"; FLOAT: left; COLOR: #ff585d; FONT-WEIGHT: bold
+}
+#topbar .clock {
+	POSITION: absolute; WIDTH: 25px; DISPLAY: inline-block; BACKGROUND: url(../images/clock.gif) no-repeat; HEIGHT: 25px; TOP: 8px; RIGHT: 0px
+}
+#topbar .fr .pop_on .nav I {
+	DISPLAY: none
+}
+#topbar .fr .pop_box {
+	TOP: 44px; RIGHT: 0px; PADDING-TOP: 9px; LEFT: auto
+}
+#topbar .notice_pop LI SPAN {
+	LINE-HEIGHT: 32px; FONT-FAMILY: "宋体"
+}
+#topbar .fr .pop_wrap {
+	MARGIN: 0px
+}
+#topbar .book_pop {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 270px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#topbar .book_pop .tab_con {
+	WIDTH: 270px; HEIGHT: 430px; CLEAR: both; OVERFLOW: hidden
+}
+#topbar .book_pop .tab A {
+	BORDER-BOTTOM: #d1d5de 1px solid; TEXT-ALIGN: center; WIDTH: 134px; BACKGROUND: #eff2f9; FLOAT: left; HEIGHT: 32px
+}
+#topbar .book_pop .tab A I {
+	DISPLAY: inline-block; FONT: 14px/32px "Microsoft Yahei"; CURSOR: pointer
+}
+#topbar .book_pop .tab .curr {
+	BORDER-BOTTOM: medium none; BACKGROUND: #fff; TEXT-DECORATION: none
+}
+#topbar .book_pop .tab .curr I {
+	BORDER-BOTTOM: #fa5603 3px solid; HEIGHT: 31px; COLOR: #333
+}
+#topbar .book_pop .tab .curr .bor_green {
+	BORDER-BOTTOM-COLOR: #9cd12c; BORDER-TOP-COLOR: #9cd12c; BORDER-RIGHT-COLOR: #9cd12c; BORDER-LEFT-COLOR: #9cd12c
+}
+#topbar .book_pop .tab Q {
+	BORDER-LEFT: #d1d5de 1px solid; WIDTH: 0px; FLOAT: left; HEIGHT: 33px; OVERFLOW: hidden
+}
+#topbar .book_pop UL {
+	PADDING-TOP: 12px
+}
+#topbar .book_pop LI {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; PADDING-LEFT: 14px; PADDING-RIGHT: 14px; FLOAT: left; HEIGHT: 95px; CURSOR: pointer; PADDING-TOP: 0px; -webkit-transition: all .2s ease-in; -moz-transition: all .2s ease-in; -o-transition: all .2s ease-in; transition: all .2s ease-in; -ms-transition: all .2s ease-in
+}
+#topbar .book_pop LI:hover {
+	BACKGROUND: #f2f2f2
+}
+#topbar .book_pop LI DIV {
+	BORDER-BOTTOM: #c2c4c4 1px dashed; PADDING-BOTTOM: 7px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 80px; PADDING-TOP: 7px
+}
+#topbar .book_pop .fl IMG {
+	WIDTH: 60px; DISPLAY: block; HEIGHT: 79px
+}
+#topbar .book_pop LI P {
+	PADDING-LEFT: 14px; WIDTH: 168px; FLOAT: left
+}
+#topbar .book_pop .comic_name {
+	LINE-HEIGHT: 26px; DISPLAY: inline-block; COLOR: #333; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+#topbar .book_pop .comic_name:hover {
+	COLOR: #6dad14
+}
+#topbar .book_pop LI P SPAN {
+	DISPLAY: block; COLOR: #6daf0f
+}
+#topbar .book_pop .chapter_name {
+	DISPLAY: inline-block
+}
+#topbar .book_pop .bot {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 38px; PADDING-LEFT: 14px; PADDING-RIGHT: 14px; HEIGHT: 38px; PADDING-TOP: 0px
+}
+#topbar .book_pop .bot SPAN {
+	FLOAT: left; COLOR: #999
+}
+#topbar .book_pop .bot SPAN EM {
+	FONT-FAMILY: "Arial"; COLOR: #ff585d; FONT-WEIGHT: bold
+}
+#topbar .book_pop .bot A {
+	FLOAT: right; COLOR: #39adff
+}
+#topbar #recent_store LI P SPAN {
+	COLOR: #ff585d
+}
+#recent_read .noread {
+	BACKGROUND: url(../images/bg_noread.png) no-repeat center 55px; HEIGHT: 420px
+}
+#recent_store .nostore {
+	BACKGROUND: url(../images/bg_nostore.png) no-repeat 30px 52px; HEIGHT: 420px
+}
+#recent_store .nostore A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 39px; PADDING-RIGHT: 0px; DISPLAY: block; COLOR: #666; FONT-SIZE: 14px; FONT-WEIGHT: bold; TEXT-DECORATION: underline; PADDING-TOP: 102px
+}
+#recent_store .nostore A:hover {
+	COLOR: #60a306
+}
+#topbar .usercenter_pop {
+	WIDTH: 88px
+}
+#topbar .usercenter_pop LI {
+	TEXT-ALIGN: center
+}
+#topbar .more_pop {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; WIDTH: 268px; PADDING-RIGHT: 10px; PADDING-TOP: 0px
+}
+#topbar .more_pop H6 {
+	FONT: 13px/24px "Microsoft Yahei"; PADDING-TOP: 5px
+}
+#topbar .more_pop A {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; MARGIN: 2px; PADDING-LEFT: 7px; PADDING-RIGHT: 7px; FLOAT: left; HEIGHT: 20px; COLOR: #333; PADDING-TOP: 0px
+}
+#topbar .more_pop A:hover {
+	COLOR: #fff; TEXT-DECORATION: none; -webkit-transition: all .2s ease-in; -moz-transition: all .2s ease-in; -o-transition: all .2s ease-in; transition: all .2s ease-in; -ms-transition: all .2s ease-in; border-radius: 2px
+}
+#topbar .more_pop .con1 A:hover {
+	BACKGROUND: #fa5603
+}
+#topbar .more_pop .con2 A:hover {
+	BACKGROUND: #739f45
+}
+#topbar .more_pop .con3 A:hover {
+	BACKGROUND: #52a0e5
+}
+#topbar .more_pop .con4 A:hover {
+	BACKGROUND: #dfa934
+}
+#topbar .more_pop .con5 A:hover {
+	BACKGROUND: #b97a53
+}
+#topbar .more_pop LI {
+	BORDER-BOTTOM: #dcdddd 1px dashed; PADDING-BOTTOM: 5px; WHITE-SPACE: nowrap
+}
+#topbar .more_pop .con1 H6 {
+	COLOR: #fa5603
+}
+#topbar .more_pop .con2 H6 {
+	COLOR: #739f45
+}
+#topbar .more_pop .con3 H6 {
+	COLOR: #52a0e5
+}
+#topbar .more_pop .con4 H6 {
+	COLOR: #dfa934
+}
+#topbar .more_pop .con5 H6 {
+	COLOR: #b97a53
+}
+#topbar .btn_login {
+	BORDER-BOTTOM: #7cc815 3px solid; POSITION: relative; TEXT-ALIGN: center; WIDTH: 66px; FONT: 16px/47px "Microsoft Yahei"; BACKGROUND: #404040; FLOAT: left; HEIGHT: 47px; COLOR: #fff
+}
+#topbar .btn_login EM {
+	BORDER-BOTTOM: transparent 0px dashed; POSITION: absolute; BORDER-LEFT: #9f9f9f 0px solid; HEIGHT: 0px; OVERFLOW: hidden; BORDER-TOP: #9f9f9f 7px solid; TOP: 43px; RIGHT: -5px; BORDER-RIGHT: transparent 5px dashed
+}
+#topbar .btn_regist {
+	MARGIN: 0px 72px 0px 12px; FONT: 14px/46px "Microsoft Yahei"; FLOAT: left; COLOR: #333
+}
+#userbar {
+	FLOAT: left; COLOR: #666; MARGIN-RIGHT: 60px
+}
+#topbar #userbar .pop_wrap {
+	MARGIN-RIGHT: 10px
+}
+#userbar .u_nav {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 44px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 44px; CURSOR: pointer; PADDING-TOP: 0px
+}
+#userbar .u_nav A {
+	FLOAT: left
+}
+#userbar .username .u_nav A IMG {
+	BORDER-BOTTOM: #fff 1px solid; BORDER-LEFT: #fff 1px solid; MARGIN: 10px 8px 0px 0px; WIDTH: 22px; DISPLAY: block; HEIGHT: 22px; BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 1px solid
+}
+#userbar .username .u_nav A {
+	FONT: 14px/42px "Microsoft Yahei"; COLOR: #60a306
+}
+#userbar .userlevel IMG {
+	VERTICAL-ALIGN: text-bottom
+}
+#userbar .ticket_box .num_ticket {
+	BORDER-BOTTOM: #e53a3a 1px solid; BORDER-LEFT: #e53a3a 1px solid; PADDING-BOTTOM: 0px; MARGIN: 15px 0px 0px 5px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; FONT: 12px/12px "Arial"; BACKGROUND: #ff585d; FLOAT: left; HEIGHT: 12px; COLOR: #fff; BORDER-TOP: #e53a3a 1px solid; BORDER-RIGHT: #e53a3a 1px solid; PADDING-TOP: 1px
+}
+#userbar .stone .num_stone {
+	BORDER-BOTTOM: #e53a3a 1px solid; BORDER-LEFT: #e53a3a 1px solid; PADDING-BOTTOM: 0px; MARGIN: 15px 0px 0px 5px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; FONT: 12px/12px "Arial"; BACKGROUND: #ff585d; FLOAT: left; HEIGHT: 12px; COLOR: #fff; BORDER-TOP: #e53a3a 1px solid; BORDER-RIGHT: #e53a3a 1px solid; PADDING-TOP: 1px
+}
+#userbar Q {
+	MARGIN-TOP: 11px; FLOAT: left
+}
+#userbar .stone A {
+	MARGIN: 12px 5px 14px 10px; WIDTH: 15px; BACKGROUND-POSITION: 0px -245px; HEIGHT: 18px
+}
+#userbar .stone .num_stone {
+	BORDER-BOTTOM-COLOR: #40a2e9; BORDER-TOP-COLOR: #40a2e9; BACKGROUND: #78ccfa; BORDER-RIGHT-COLOR: #40a2e9; BORDER-LEFT-COLOR: #40a2e9
+}
+#userbar .logout {
+	LINE-HEIGHT: 44px; COLOR: #999; MARGIN-LEFT: 10px
+}
+#topbar #userbar .pop_box {
+	LEFT: 0px
+}
+#topbar #userbar .pop_box_con {
+	BORDER-BOTTOM-COLOR: #6dad15; BORDER-TOP-COLOR: #6dad15; BORDER-RIGHT-COLOR: #6dad15; BORDER-LEFT-COLOR: #6dad15
+}
+#topbar .username .pop_box_con {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 182px; PADDING-RIGHT: 0px; PADDING-TOP: 10px
+}
+#topbar .username .top .fr {
+	LINE-HEIGHT: 18px; WIDTH: 120px
+}
+#topbar .username .top .ico_m {
+	MARGIN: 4px 5px 0px 0px; _height: 18px
+}
+#topbar .username .top {
+	BORDER-BOTTOM: #dcdddd 1px dashed; MARGIN: 0px auto; WIDTH: 172px; HEIGHT: 48px
+}
+#topbar .username .mid {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+#topbar .username .mid P {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FONT: 13px/22px "Arial"; COLOR: #6dad15; PADDING-TOP: 0px
+}
+#topbar .username .mid .ticket {
+	BACKGROUND: #ebffd0; COLOR: #ff444e; FONT-WEIGHT: bold !important
+}
+#topbar .username .mid A {
+	FONT: 12px/22px "宋体"; COLOR: #333
+}
+#topbar .username .bot {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BACKGROUND: #f2f2f2; HEIGHT: 45px; PADDING-TOP: 5px
+}
+#topbar .username .bot A {
+	PADDING-LEFT: 8px; WIDTH: 73px; BACKGROUND: url(../images/cs_ico.png) no-repeat -26px -412px; FLOAT: left
+}
+#topbar .username .bot A I {
+	MARGIN: 0px 2px; FONT-FAMILY: "Arial"; COLOR: #6dad15
+}
+#topbar .userlevel .u_nav A {
+	MARGIN: 11px 2px 0px
+}
+#topbar .userlevel .pop_box_con {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 200px; PADDING-RIGHT: 0px; COLOR: #333; PADDING-TOP: 10px
+}
+#topbar .userlevel .pop_box P {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 12px; PADDING-RIGHT: 12px; PADDING-TOP: 0px
+}
+#topbar .userlevel .pop_box SPAN {
+	COLOR: #ff444e
+}
+#topbar .userlevel .pop_box .bot {
+	PADDING-BOTTOM: 5px; MARGIN-TOP: 5px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; BACKGROUND: #f2f2f2; HEIGHT: 45px; COLOR: #666; PADDING-TOP: 5px
+}
+#topbar .ticket_box .pop_box_con {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; WIDTH: 230px; PADDING-RIGHT: 10px; COLOR: #333; PADDING-TOP: 10px
+}
+#topbar .stone .pop_box_con {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; WIDTH: 230px; PADDING-RIGHT: 10px; COLOR: #333; PADDING-TOP: 10px
+}
+#header {
+	BACKGROUND: url(../images/bg_top.jpg) no-repeat center top
+}
+#header .wrap {
+	HEIGHT: 147px
+}
+#header .wrap {
+	HEIGHT: 147px
+}
+.logo {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 14px; PADDING-RIGHT: 0px; DISPLAY: inline; FLOAT: left; PADDING-TOP: 34px
+}
+.logo A {
+	WIDTH: 210px; DISPLAY: block; BACKGROUND: url(../images/logo/logo.png) no-repeat; HEIGHT: 80px
+}
+#header .top_link {
+	BACKGROUND: url(../images/pic_header.png) no-repeat; MARGIN-RIGHT: 6px
+}
+#header .search {
+	BACKGROUND: url(../images/pic_header.png) no-repeat; MARGIN-RIGHT: 6px
+}
+#header .search .laba {
+	BACKGROUND: url(../images/pic_header.png) no-repeat; MARGIN-RIGHT: 6px
+}
+#header .search .laba A:hover {
+	BACKGROUND: url(../images/pic_header.png) no-repeat; MARGIN-RIGHT: 6px
+}
+#header .top_link {
+	PADDING-BOTTOM: 0px; MARGIN: 7px 6px 40px 0px; PADDING-LEFT: 10px; WIDTH: 285px; PADDING-RIGHT: 10px; BACKGROUND-POSITION: 0px -60px; HEIGHT: 30px; PADDING-TOP: 0px
+}
+#header .top_link A {
+	WIDTH: 95px; FLOAT: left; HEIGHT: 30px
+}
+#header .search {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 1px; WIDTH: 343px; PADDING-RIGHT: 0px; HEIGHT: 27px; TOP: 0px; PADDING-TOP: 22px; LEFT: 0px
+}
+#header .search .text {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; LINE-HEIGHT: 26px; PADDING-LEFT: 5px; WIDTH: 280px; PADDING-RIGHT: 10px; BACKGROUND: #fff; FLOAT: left; HEIGHT: 26px; COLOR: #999; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+#header .btn_search {
+	BORDER-BOTTOM: medium none; POSITION: relative; BORDER-LEFT: medium none; WIDTH: 47px; BACKGROUND: url(../images/pic_header.png) no-repeat -250px -100px; FLOAT: left; HEIGHT: 28px; BORDER-TOP: medium none; TOP: -1px; CURSOR: pointer; BORDER-RIGHT: medium none
+}
+#header .btn_search:hover {
+	FILTER: alpha(opacity:80); opacity: .8
+}
+#header .search .laba {
+	POSITION: absolute; WIDTH: 19px; BACKGROUND-POSITION: 0px -100px; HEIGHT: 24px; OVERFLOW: hidden; TOP: -5px; LEFT: 105px
+}
+#header .search .laba A {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: medium; WIDTH: 24px; FLOAT: left; HEIGHT: 24px; MARGIN-LEFT: 5px
+}
+#header .search .laba .a1 {
+	MARGIN: 0px; WIDTH: 19px
+}
+#header .search .laba .a1:hover {
+	BACKGROUND-POSITION: -116px -100px
+}
+#header .search .laba .a2:hover {
+	BACKGROUND-POSITION: -140px -100px
+}
+#header .search .laba .a3:hover {
+	BACKGROUND-POSITION: -169px -100px
+}
+#header .search .laba .a4:hover {
+	BACKGROUND-POSITION: -198px -100px
+}
+#banner {
+	Z-INDEX: 11; POSITION: relative
+}
+.banner_wrap {
+	BORDER-BOTTOM: #232323 2px solid; BACKGROUND: #3a3a3a; HEIGHT: 40px; CLEAR: both
+}
+#portal {
+	Z-INDEX: 2; POSITION: relative; FLOAT: left
+}
+.banner_wrap .btn_portal {
+	PADDING-LEFT: 5px;  DISPLAY: block; FONT: 16px/40px "Microsoft Yahei"; BACKGROUND: url(../images/bg_banner.png) no-repeat; HEIGHT: 40px; COLOR: #fff
+}
+.banner_wrap .btn_portal SPAN {
+	CURSOR: pointer
+}
+.banner_wrap .btn_portal EM {
+	MARGIN: 15px 0px 0px 8px; WIDTH: 19px; DISPLAY: inline; BACKGROUND-POSITION: 0px -100px; FLOAT: left; HEIGHT: 11px; CURSOR: pointer
+}
+.banner_wrap .btn_portal:hover {
+	TEXT-DECORATION: none
+}
+.banner_wrap .open EM {
+	-webkit-transform: rotate(180deg); -moz-transform: rotate(180deg); -o-transform: rotate(180deg); transform: rotate(180deg); -webkit-transition: .3s ease-in; -moz-transition: .3s ease-in; -o-transition: .3s ease-in; transition: .3s ease-in; -ms-transform: rotate(180deg)
+}
+.portal_pop {
+	POSITION: absolute; WIDTH: 1200px; DISPLAY: none; BACKGROUND: url(../images/bg_portal.png) no-repeat; HEIGHT: 450px; FONT-SIZE: 14px; BORDER-TOP: #232323 2px solid; TOP: 40px; LEFT: 0px
+}
+.portal_pop .close {
+	POSITION: absolute; FILTER: Alpha(opacity=90); BACKGROUND-COLOR: #000; WIDTH: 43px; BOTTOM: -43px; BACKGROUND-POSITION: 9px -116px; HEIGHT: 43px; RIGHT: 0px; opacity: 0.85
+}
+.portal_pop .close:hover {
+	BACKGROUND-POSITION: 9px -152px
+}
+.portal_pop .left {
+	WIDTH: 875px; FLOAT: left
+}
+.portal_pop .allcomic UL {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 182px; PADDING-RIGHT: 0px; PADDING-TOP: 50px
+}
+.portal_pop .allcomic LI {
+	PADDING-TOP: 11px
+}
+.portal_pop .allcomic UL A {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; MARGIN: 0px 5px; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; FLOAT: left; HEIGHT: 20px; COLOR: #333; PADDING-TOP: 0px; -webkit-transition: all .2s ease-in; -moz-transition: all .2s ease-in; -o-transition: all .2s ease-in; transition: all .2s ease-in; -ms-transition: all .2s ease-in
+}
+.portal_pop .allcomic UL A:hover {
+	BACKGROUND: #9cd12c; COLOR: #fff; TEXT-DECORATION: none
+}
+.portal_pop .allcomic P {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 130px; PADDING-RIGHT: 0px; PADDING-TOP: 15px
+}
+.portal_pop .allcomic P A {
+	COLOR: #333; MARGIN-LEFT: 20px
+}
+.portal_pop .allcomic P A:hover {
+	COLOR: #6dad14
+}
+.portal_pop .allcomic P A I {
+	MARGIN-RIGHT: 3px
+}
+.portal_box {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 85px; WIDTH: 790px; PADDING-RIGHT: 0px; HEIGHT: 90px; CLEAR: both; OVERFLOW: hidden; PADDING-TOP: 70px
+}
+.portal_box A {
+	LINE-HEIGHT: 32px; WHITE-SPACE: nowrap; FLOAT: left; MARGIN-RIGHT: 35px
+}
+.portal_pop .right {
+	WIDTH: 305px; FLOAT: right; PADDING-TOP: 50px
+}
+.portal_pop .right IMG {
+	MARGIN: 0px auto 12px; WIDTH: 266px; DISPLAY: block; HEIGHT: 90px
+}
+.portal_pop .right .comic_list {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 22px; PADDING-RIGHT: 0px; PADDING-TOP: 52px
+}
+.portal_pop .right .comic_list LI {
+	LINE-HEIGHT: 26px; WIDTH: 128px; FLOAT: left; HEIGHT: 26px
+}
+.portal_pop .right .comic_list A {
+	COLOR: #fff; FONT-SIZE: 13px
+}
+.portal_pop .ico_male {
+	BACKGROUND-POSITION: -19px -270px
+}
+.portal_pop .ico_female {
+	BACKGROUND-POSITION: -19px -290px
+}
+.animeBox {
+	MARGIN: 40px 10px 0px 140px; OVERFLOW: hidden
+}
+.animeBox A {
+	DISPLAY: inline-block; FLOAT: left; MARGIN-RIGHT: 20px
+}
+.banner_mid {
+	FLOAT: left
+}
+.banner_mid A {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 17px; PADDING-RIGHT: 17px; FONT: 16px/40px "Microsoft Yahei"; FLOAT: left; COLOR: #fff; PADDING-TOP: 0px
+}
+.btn_brand {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 17px; PADDING-RIGHT: 17px; FONT: 16px/40px "Microsoft Yahei"; FLOAT: left; COLOR: #fff; PADDING-TOP: 0px
+}
+.banner_mid A:hover {
+	COLOR: #9cd12c; TEXT-DECORATION: none
+}
+.btn_brand:hover {
+	COLOR: #9cd12c; TEXT-DECORATION: none
+}
+.banner_mid Q {
+	BORDER-LEFT: #2e2e2e 1px solid; MARGIN-TOP: 13px; WIDTH: 0px; FLOAT: left; HEIGHT: 14px; BORDER-RIGHT: #424242 1px solid
+}
+.update_v4Box {
+	POSITION: absolute; TEXT-ALIGN: center; WIDTH: 100px; HEIGHT: 30px; MARGIN-LEFT: -50px; TOP: -20px; LEFT: 50%
+}
+.update_v4 {
+	TEXT-ALIGN: center; FILTER: alpha(opacity=75); PADDING-BOTTOM: 0px; LINE-HEIGHT: 18px; BACKGROUND-COLOR: #ff0000; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; HEIGHT: 18px; COLOR: #fff; FONT-SIZE: 12px; PADDING-TOP: 0px; opacity: 0.75; border-radius: 5px; -moz-opacity: 0.75
+}
+#brand {
+	Z-INDEX: 2; POSITION: relative; FLOAT: right; HEIGHT: 42px
+}
+#brand .btn_brand {
+	BORDER-BOTTOM: #232323 2px solid; TEXT-ALIGN: center; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 145px; PADDING-RIGHT: 0px; BACKGROUND: url(../images/bg_banner.png) no-repeat 0px -40px; HEIGHT: 40px; PADDING-TOP: 0px
+}
+#brand .pop_box {
+	POSITION: absolute; PADDING-BOTTOM: 3px; PADDING-LEFT: 4px; WIDTH: 670px; PADDING-RIGHT: 4px; DISPLAY: none; OVERFLOW: hidden; TOP: 42px; RIGHT: 0px; PADDING-TOP: 3px
+}
+#brand .pop_box UL {
+	WIDTH: 678px; HEIGHT: 162px; OVERFLOW: hidden
+}
+#brand .pop_box A {
+	MARGIN: 8px auto; WIDTH: 200px; DISPLAY: inline-block; HEIGHT: 60px
+}
+#brand .pop_box IMG {
+	WIDTH: 200px; HEIGHT: 60px
+}
+#brand .pop_box LI {
+	BORDER-BOTTOM: #dcdddd 1px dashed; WIDTH: 224px; FLOAT: left; HEIGHT: 80px; OVERFLOW: hidden; BORDER-RIGHT: #dcdddd 1px dashed
+}
+#banner .anime {
+	POSITION: relative; BACKGROUND: url(../images/bg_banner.png) repeat-x 0px -111px; HEIGHT: 31px
+}
+#banner .anime P {
+	POSITION: relative; BACKGROUND: url(../images/bg_banner.png) repeat-x 0px -111px; HEIGHT: 31px
+}
+#banner .anime P {
+	PADDING-LEFT: 67px; BACKGROUND-REPEAT: no-repeat; FONT: 16px/31px "Microsoft Yahei"; BACKGROUND-POSITION: -98px -80px; COLOR: #fff
+}
+#banner .anime SPAN {
+	POSITION: absolute; LINE-HEIGHT: 22px; PADDING-LEFT: 26px; WIDTH: 91px; DISPLAY: inline-block; BACKGROUND: url(../../www/images/index/main_pic.png) no-repeat -83px -298px; HEIGHT: 22px; TOP: 4px; RIGHT: 0px
+}
+#banner .anime A {
+	FONT: 14px/22px "Microsoft Yahei"; COLOR: #fff
+}
+#banner .anime SPAN A {
+	COLOR: #846612
+}
+#banner .anime Q {
+	MARGIN: 0px 9px; DISPLAY: inline-block; COLOR: #6f961c; FONT-SIZE: 14px
+}
+#banner .readed {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; BACKGROUND: #f3f3f3; HEIGHT: 32px; COLOR: #666; PADDING-TOP: 0px
+}
+#banner .readed .left {
+	PADDING-LEFT: 17px; FONT: 14px/30px "Microsoft Yahei"; BACKGROUND-POSITION: -21px -188px; FLOAT: left
+}
+#banner .readed .left A {
+	COLOR: #ff7a21
+}
+#banner .readed .left SPAN {
+	MARGIN: 0px 10px
+}
+#banner .readed .fr A {
+	LINE-HEIGHT: 32px; COLOR: #ff7a21
+}
+#v4footer {
+	Z-INDEX: 50; POSITION: relative; MARGIN: 15px auto 0px; PADDING-LEFT: 40px; WIDTH: 1160px; BACKGROUND: url(../../www/images/index/bg_footer.png); HEIGHT: 170px; CLEAR: both; BORDER-TOP: #79c90e 5px solid
+}
+#v4footer DL {
+	MARGIN: 30px 25px 0px 0px; FLOAT: left
+}
+#v4footer DT {
+	TEXT-ALIGN: center; LINE-HEIGHT: 23px; WIDTH: 120px; MARGIN-BOTTOM: 5px; BACKGROUND: url(../images/pic_foot.png) no-repeat; HEIGHT: 23px; COLOR: #fff
+}
+#v4footer DT.t2 {
+	BACKGROUND-POSITION: 0px -25px
+}
+#v4footer DT.t3 {
+	BACKGROUND-POSITION: 0px -50px
+}
+#v4footer DT.t4 {
+	BACKGROUND-POSITION: 0px -75px
+}
+#v4footer DD A:hover {
+	COLOR: #55af2d; TEXT-DECORATION: none
+}
+#v4footer Q {
+	BORDER-LEFT: #ddd 1px solid; MARGIN: 20px 0px 0px 25px; WIDTH: 0px; FLOAT: left; HEIGHT: 100px; OVERFLOW: hidden; _margin-left: 0
+}
+#v4footer .right {
+	LINE-HEIGHT: 28px; MARGIN: 22px 65px 0px 0px; WIDTH: 435px; DISPLAY: inline; FONT-FAMILY: "Arial"; FLOAT: right; COLOR: #666
+}
+#v4footer .right A {
+	LINE-HEIGHT: 28px
+}
+#v4footer .img_foot {
+	POSITION: absolute; WIDTH: 163px; BOTTOM: 0px; BACKGROUND: url(../images/img_foot.gif) no-repeat; HEIGHT: 74px; RIGHT: 0px
+}
+#v4footer DD.wx {
+	POSITION: relative
+}
+#v4footer DD.wx IMG {
+	POSITION: absolute; BOTTOM: 0px; DISPLAY: none; LEFT: 50px; -webkit-box-shadow: 1px 2px #b6b6b6; box-shadow: 1px 2px #b6b6b6; _bottom: 100px
+}
+.ad_wrap {
+	Z-INDEX: 10; POSITION: relative; MARGIN: 10px auto; WIDTH: 1200px
+}
+.ad_wrap IMG {
+	BORDER-BOTTOM: #c8c8c8 1px solid; BORDER-LEFT: #c8c8c8 1px solid; PADDING-BOTTOM: 2px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; DISPLAY: block; BORDER-TOP: #c8c8c8 1px solid; BORDER-RIGHT: #c8c8c8 1px solid; PADDING-TOP: 2px
+}
+.ad_wrap .support {
+	WIDTH: 26px; BACKGROUND-POSITION: 0px -310px; FLOAT: right; HEIGHT: 66px
+}
+.page {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 50px; LINE-HEIGHT: 30px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; HEIGHT: 32px; COLOR: #999; FONT-SIZE: 14px; PADDING-TOP: 50px
+}
+.page A {
+	BORDER-BOTTOM: #e0e0e0 1px solid; BORDER-LEFT: #e0e0e0 1px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: inline-block; FONT-FAMILY: "verdana"; BACKGROUND: #f6f6f6; HEIGHT: 30px; COLOR: #191919; BORDER-TOP: #e0e0e0 1px solid; MARGIN-RIGHT: 4px; BORDER-RIGHT: #e0e0e0 1px solid; PADDING-TOP: 0px
+}
+.page SPAN {
+	BORDER-BOTTOM: #e0e0e0 1px solid; BORDER-LEFT: #e0e0e0 1px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: inline-block; FONT-FAMILY: "verdana"; BACKGROUND: #f6f6f6; HEIGHT: 30px; COLOR: #191919; BORDER-TOP: #e0e0e0 1px solid; MARGIN-RIGHT: 4px; BORDER-RIGHT: #e0e0e0 1px solid; PADDING-TOP: 0px
+}
+.page A:hover {
+	BORDER-BOTTOM: #63a612 1px solid; BORDER-LEFT: #63a612 1px solid; BORDER-TOP: #63a612 1px solid; BORDER-RIGHT: #63a612 1px solid; TEXT-DECORATION: none
+}
+.page .prev {
+	DISPLAY: inline-block; FONT-FAMILY: "宋体"
+}
+.page .next {
+	DISPLAY: inline-block; FONT-FAMILY: "宋体"
+}
+.page .current {
+	BORDER-BOTTOM: #63a612 1px solid; BORDER-LEFT: #63a612 1px solid; BACKGROUND: #7cca1c; COLOR: #fff; BORDER-TOP: #63a612 1px solid; BORDER-RIGHT: #63a612 1px solid
+}
+.page .go {
+	BORDER-BOTTOM: medium none; TEXT-ALIGN: left; BORDER-LEFT: medium none; WIDTH: 150px; DISPLAY: inline-block; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 32px; COLOR: #666; MARGIN-LEFT: 20px; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+.page .go I {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 0px
+}
+.page .input_txt {
+	BORDER-BOTTOM: #e0e0e0 1px solid; BORDER-LEFT: #e0e0e0 1px solid; LINE-HEIGHT: 30px; WIDTH: 40px; DISPLAY: inline-block; BACKGROUND: #f6f6f6; HEIGHT: 30px; VERTICAL-ALIGN: middle; BORDER-TOP: #e0e0e0 1px solid; BORDER-RIGHT: #e0e0e0 1px solid
+}
+.page .btn_go {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; WIDTH: 35px; DISPLAY: none; FONT-FAMILY: "Arial"; BACKGROUND: #79cb29; HEIGHT: 30px; COLOR: #fff; VERTICAL-ALIGN: middle; BORDER-TOP: medium none; CURSOR: pointer; BORDER-RIGHT: medium none; border-radius: 1px
+}
+#tip_topfixed {
+	Z-INDEX: 50; BORDER-BOTTOM: #f0e5ba 1px solid; POSITION: fixed; BORDER-LEFT: #f0e5ba 1px solid; PADDING-BOTTOM: 8px; LINE-HEIGHT: 20px; PADDING-LEFT: 8px; WIDTH: 180px; PADDING-RIGHT: 8px; BACKGROUND: #ffffce; COLOR: #666; MARGIN-LEFT: 282px; BORDER-TOP: #f0e5ba 1px solid; TOP: 84px; BORDER-RIGHT: #f0e5ba 1px solid; PADDING-TOP: 8px; LEFT: 54%; _position: absolute
+}
+#tip_topfixed .close {
+	POSITION: absolute; WIDTH: 15px; BACKGROUND-POSITION: -15px -455px; HEIGHT: 15px; TOP: 3px; RIGHT: 4px
+}
+#tip_topfixed .fred {
+	COLOR: #ff444e; MARGIN-RIGHT: 3px
+}
+#tip_topfixed A {
+	COLOR: #379be9; MARGIN-LEFT: 12px; TEXT-DECORATION: underline
+}
+.ac_results {
+	Z-INDEX: 600; BORDER-BOTTOM: #81bd17 1px solid; BORDER-LEFT: #81bd17 1px solid; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: white; PADDING-LEFT: 0px; WIDTH: 340px !important; PADDING-RIGHT: 0px; MARGIN-LEFT: -1px; OVERFLOW: hidden; BORDER-TOP: #81bd17 1px solid; BORDER-RIGHT: #81bd17 1px solid; PADDING-TOP: 0px
+}
+.v4_w1000 .ac_results {
+	WIDTH: 258px !important; MARGIN-LEFT: -1px
+}
+.ac_results UL {
+	LIST-STYLE: none none outside; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.ac_results LI {
+	PADDING-BOTTOM: 2px; LINE-HEIGHT: 20px; MARGIN: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; DISPLAY: block; FONT: menu; FONT-SIZE: 14px; OVERFLOW: hidden; CURSOR: pointer; PADDING-TOP: 2px
+}
+.ac_results LI STRONG {
+	COLOR: #81bd17; FONT-WEIGHT: bold
+}
+.ac_over {
+	BACKGROUND-COLOR: #81bd17; COLOR: white
+}
+.ac_results LI.ac_over STRONG {
+	BACKGROUND-COLOR: #81bd17; COLOR: white
+}
+.v4_w1000 .wrap {
+	WIDTH: 990px
+}
+.v4_w1000 #header .wrap {
+	HEIGHT: 147px
+}
+.v4_w1000 #header .search {
+	WIDTH: 260px; BACKGROUND: url(../images/pic_header.png) no-repeat 0px -131px; FLOAT: right
+}
+.v4_w1000 #header .search .text {
+	WIDTH: 197px
+}
+.v4_w1000 #userbar {
+	MARGIN-RIGHT: 1px
+}
+.v4_w1000 #brand .btn_brand {
+	WIDTH: 94px; BACKGROUND-POSITION: 0px -145px
+}
+.v4_w1000 .banner_mid A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 12px; PADDING-RIGHT: 12px; PADDING-TOP: 0px
+}
+.v4_w1000 .portal_pop {
+	WIDTH: 990px; BACKGROUND: url(../images/bg_portal_1000.png)
+}
+.v4_w1000 #topbar .pop_wrap {
+	MARGIN-RIGHT: 4px
+}
+.v4_w1000 .portal_pop .left {
+	WIDTH: 680px
+}
+.v4_w1000 .portal_pop .allcomic UL {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 116px; PADDING-RIGHT: 0px; PADDING-TOP: 50px
+}
+.v4_w1000 .portal_pop .allcomic P {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 64px; PADDING-RIGHT: 0px; PADDING-TOP: 15px
+}
+.v4_w1000 .portal_box {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 66px; WIDTH: 682px; PADDING-RIGHT: 0px; PADDING-TOP: 66px
+}
+.v4_w1000 #v4footer {
+	PADDING-LEFT: 20px; WIDTH: 970px
+}
+.v4_w1000 #v4footer .right {
+	WIDTH: 386px; MARGIN-RIGHT: 36px
+}
+.v4_w1000 #v4footer DL {
+	MARGIN-RIGHT: 10px
+}
+.v4_w1000 #v4footer Q {
+	MARGIN-LEFT: 0px
+}
+.v4_w1000 .logo A {
+	BACKGROUND: url(../images/logo/logo_w1000.png) no-repeat
+}
+.exp {
+	Z-INDEX: 90; BORDER-BOTTOM: #83991a 1px solid; POSITION: absolute; BORDER-LEFT: #83991a 1px solid; PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 226px; PADDING-RIGHT: 5px; BACKGROUND: #b4dd1d; BORDER-TOP: #83991a 1px solid; BORDER-RIGHT: #83991a 1px solid; PADDING-TOP: 0px; -webkit-box-shadow: 2px 3px #bebebe; box-shadow: 2px 3px #bebebe
+}
+.exp_w {
+	Z-INDEX: 90; BORDER-BOTTOM: #83991a 1px solid; POSITION: absolute; BORDER-LEFT: #83991a 1px solid; PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 226px; PADDING-RIGHT: 5px; BACKGROUND: #b4dd1d; BORDER-TOP: #83991a 1px solid; BORDER-RIGHT: #83991a 1px solid; PADDING-TOP: 0px; -webkit-box-shadow: 2px 3px #bebebe; box-shadow: 2px 3px #bebebe
+}
+.exp_top {
+	LINE-HEIGHT: 20px; WIDTH: 226px; BACKGROUND: #b4dd1d; HEIGHT: 20px; OVERFLOW: hidden
+}
+.exp_top_w {
+	LINE-HEIGHT: 20px; WIDTH: 226px; BACKGROUND: #b4dd1d; HEIGHT: 20px; OVERFLOW: hidden
+}
+.exp_content {
+	MIN-HEIGHT: 20px; MAX-HEIGHT: 40px; _height: 20px
+}
+.exp_content I {
+	WIDTH: 0px; ZOOM: 1; DISPLAY: inline; HEIGHT: 100%; VERTICAL-ALIGN: middle
+}
+.exp_content_w I {
+	WIDTH: 0px; ZOOM: 1; DISPLAY: inline; HEIGHT: 100%; VERTICAL-ALIGN: middle
+}
+.exp_content P {
+	WIDTH: 0px; ZOOM: 1; DISPLAY: inline; HEIGHT: 100%; VERTICAL-ALIGN: middle
+}
+.exp_content_w P {
+	WIDTH: 0px; ZOOM: 1; DISPLAY: inline; HEIGHT: 100%; VERTICAL-ALIGN: middle
+}
+.exp_content P {
+	LINE-HEIGHT: 18px; WIDTH: 100%
+}
+.exp_content_w P {
+	LINE-HEIGHT: 18px; WIDTH: 100%
+}
+.blue_00 {
+	COLOR: #008aea
+}
+.font_18 {
+	FONT-FAMILY: "黑体"; FONT-SIZE: 18px
+}
+.exp_content {
+	BORDER-BOTTOM: #95bb18 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #95bb18 1px solid; PADDING-BOTTOM: 10px; LINE-HEIGHT: 18px; PADDING-LEFT: 0px; PADDING-RIGHT: 5px; BACKGROUND: #fff; HEIGHT: auto; VERTICAL-ALIGN: middle; BORDER-TOP: #95bb18 1px solid; BORDER-RIGHT: #95bb18 1px solid; PADDING-TOP: 5px
+}
+.exp_content_w {
+	BORDER-BOTTOM: #95bb18 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #95bb18 1px solid; PADDING-BOTTOM: 10px; LINE-HEIGHT: 18px; PADDING-LEFT: 0px; PADDING-RIGHT: 5px; BACKGROUND: #fff; HEIGHT: auto; VERTICAL-ALIGN: middle; BORDER-TOP: #95bb18 1px solid; BORDER-RIGHT: #95bb18 1px solid; PADDING-TOP: 5px
+}
+.loading {
+	TEXT-ALIGN: center; MARGIN: 50px 0px; FONT: 14px "Microsoft Yahei"; HEIGHT: 50px; COLOR: #666; CLEAR: both
+}
+.loading SPAN {
+	WIDTH: 50px; DISPLAY: inline-block !important; BACKGROUND: url(../../common/images/loading.gif) no-repeat; HEIGHT: 50px; VERTICAL-ALIGN: middle; MARGIN-RIGHT: 15px
+}
+#topbar .book_pop .loading {
+	MARGIN: 150px 0px
+}
+.ico_lev {
+	MARGIN: 0px 3px; WIDTH: 20px; DISPLAY: inline-block; BACKGROUND: url(../images/cs_ico_member.png) no-repeat; HEIGHT: 18px; VERTICAL-ALIGN: middle; OVERFLOW: hidden
+}
+.ico_levm {
+	MARGIN: 0px 3px; WIDTH: 20px; DISPLAY: inline-block; BACKGROUND: url(../images/cs_ico_member.png) no-repeat; HEIGHT: 18px; VERTICAL-ALIGN: middle; OVERFLOW: hidden
+}
+.ico_viplev {
+	MARGIN: 0px 3px; WIDTH: 20px; DISPLAY: inline-block; BACKGROUND: url(../images/cs_ico_member.png) no-repeat; HEIGHT: 18px; VERTICAL-ALIGN: middle; OVERFLOW: hidden
+}
+.ico_viplev_s {
+	MARGIN: 0px 3px; WIDTH: 20px; DISPLAY: inline-block; BACKGROUND: url(../images/cs_ico_member.png) no-repeat; HEIGHT: 18px; VERTICAL-ALIGN: middle; OVERFLOW: hidden
+}
+.ico_online {
+	MARGIN: 0px 3px; WIDTH: 20px; DISPLAY: inline-block; BACKGROUND: url(../images/cs_ico_member.png) no-repeat; HEIGHT: 18px; VERTICAL-ALIGN: middle; OVERFLOW: hidden
+}
+.ico_offline {
+	MARGIN: 0px 3px; WIDTH: 20px; DISPLAY: inline-block; BACKGROUND: url(../images/cs_ico_member.png) no-repeat; HEIGHT: 18px; VERTICAL-ALIGN: middle; OVERFLOW: hidden
+}
+.ico_vipyes {
+	MARGIN: 0px 3px; WIDTH: 20px; DISPLAY: inline-block; BACKGROUND: url(../images/cs_ico_member.png) no-repeat; HEIGHT: 18px; VERTICAL-ALIGN: middle; OVERFLOW: hidden
+}
+.ico_vipnot {
+	MARGIN: 0px 3px; WIDTH: 20px; DISPLAY: inline-block; BACKGROUND: url(../images/cs_ico_member.png) no-repeat; HEIGHT: 18px; VERTICAL-ALIGN: middle; OVERFLOW: hidden
+}
+.ico_man {
+	MARGIN: 0px 3px; WIDTH: 20px; DISPLAY: inline-block; BACKGROUND: url(../images/cs_ico_member.png) no-repeat; HEIGHT: 18px; VERTICAL-ALIGN: middle; OVERFLOW: hidden
+}
+.ico_woman {
+	MARGIN: 0px 3px; WIDTH: 20px; DISPLAY: inline-block; BACKGROUND: url(../images/cs_ico_member.png) no-repeat; HEIGHT: 18px; VERTICAL-ALIGN: middle; OVERFLOW: hidden
+}
+.ico_hi {
+	MARGIN: 0px 3px; WIDTH: 20px; DISPLAY: inline-block; BACKGROUND: url(../images/cs_ico_member.png) no-repeat; HEIGHT: 18px; VERTICAL-ALIGN: middle; OVERFLOW: hidden
+}
+.ico_manage {
+	MARGIN: 0px 3px; WIDTH: 20px; DISPLAY: inline-block; BACKGROUND: url(../images/cs_ico_member.png) no-repeat; HEIGHT: 18px; VERTICAL-ALIGN: middle; OVERFLOW: hidden
+}
+.ico_author {
+	MARGIN: 0px 3px; WIDTH: 20px; DISPLAY: inline-block; BACKGROUND: url(../images/cs_ico_member.png) no-repeat; HEIGHT: 18px; VERTICAL-ALIGN: middle; OVERFLOW: hidden
+}
+.ico_editor {
+	MARGIN: 0px 3px; WIDTH: 20px; DISPLAY: inline-block; BACKGROUND: url(../images/cs_ico_member.png) no-repeat; HEIGHT: 18px; VERTICAL-ALIGN: middle; OVERFLOW: hidden
+}
+.ico_zeng {
+	MARGIN: 0px 3px; WIDTH: 20px; DISPLAY: inline-block; BACKGROUND: url(../images/cs_ico_member.png) no-repeat; HEIGHT: 18px; VERTICAL-ALIGN: middle; OVERFLOW: hidden
+}
+.ico_cv {
+	MARGIN: 0px 3px; WIDTH: 20px; DISPLAY: inline-block; BACKGROUND: url(../images/cs_ico_member.png) no-repeat; HEIGHT: 18px; VERTICAL-ALIGN: middle; OVERFLOW: hidden
+}
+.ico_dj {
+	MARGIN: 0px 3px; WIDTH: 20px; DISPLAY: inline-block; BACKGROUND: url(../images/cs_ico_member.png) no-repeat; HEIGHT: 18px; VERTICAL-ALIGN: middle; OVERFLOW: hidden
+}
+.ico_sf {
+	MARGIN: 0px 3px; WIDTH: 20px; DISPLAY: inline-block; BACKGROUND: url(../images/cs_ico_member.png) no-repeat; HEIGHT: 18px; VERTICAL-ALIGN: middle; OVERFLOW: hidden
+}
+.ico_jing {
+	MARGIN: 0px 3px; WIDTH: 20px; DISPLAY: inline-block; BACKGROUND: url(../images/cs_ico_member.png) no-repeat; HEIGHT: 18px; VERTICAL-ALIGN: middle; OVERFLOW: hidden
+}
+.ico_lev {
+	WIDTH: 36px
+}
+.ico_levm {
+	WIDTH: 36px
+}
+.lev_0 {
+	BACKGROUND-POSITION: 0px -300px
+}
+.lev_1 {
+	BACKGROUND-POSITION: 0px -330px
+}
+.lev_2 {
+	BACKGROUND-POSITION: 0px -360px
+}
+.lev_3 {
+	BACKGROUND-POSITION: 0px -390px
+}
+.lev_4 {
+	BACKGROUND-POSITION: 0px -420px
+}
+.lev_5 {
+	BACKGROUND-POSITION: 0px -450px
+}
+.lev_6 {
+	BACKGROUND-POSITION: 0px -480px
+}
+.lev_7 {
+	BACKGROUND-POSITION: 0px -510px
+}
+.lev_8 {
+	BACKGROUND-POSITION: 0px -540px
+}
+.lev_9 {
+	BACKGROUND-POSITION: 0px -570px
+}
+.lev_10 {
+	BACKGROUND-POSITION: 0px -600px
+}
+.lev_11 {
+	BACKGROUND-POSITION: 0px -630px
+}
+.lev_12 {
+	BACKGROUND-POSITION: 0px -660px
+}
+.lev_13 {
+	BACKGROUND-POSITION: 0px -690px
+}
+.lev_14 {
+	BACKGROUND-POSITION: 0px -720px
+}
+.lev_15 {
+	BACKGROUND-POSITION: 0px -750px
+}
+.levm_0 {
+	BACKGROUND-POSITION: 0px -930px
+}
+.levm_1 {
+	BACKGROUND-POSITION: 0px -960px
+}
+.levm_2 {
+	BACKGROUND-POSITION: 0px -990px
+}
+.levm_3 {
+	BACKGROUND-POSITION: 0px -1020px
+}
+.levm_4 {
+	BACKGROUND-POSITION: 0px -1050px
+}
+.levm_5 {
+	BACKGROUND-POSITION: 0px -1080px
+}
+.levm_6 {
+	BACKGROUND-POSITION: 0px -1110px
+}
+.levm_7 {
+	BACKGROUND-POSITION: 0px -1140px
+}
+.levm_8 {
+	BACKGROUND-POSITION: 0px -1170px
+}
+.levm_9 {
+	BACKGROUND-POSITION: 0px -1200px
+}
+.levm_10 {
+	BACKGROUND-POSITION: 0px -1230px
+}
+.levm_11 {
+	BACKGROUND-POSITION: 0px -1260px
+}
+.levm_12 {
+	BACKGROUND-POSITION: 0px -1290px
+}
+.levm_13 {
+	BACKGROUND-POSITION: 0px -1320px
+}
+.levm_14 {
+	BACKGROUND-POSITION: 0px -1350px
+}
+.levm_15 {
+	BACKGROUND-POSITION: 0px -1380px
+}
+.levm_16 {
+	BACKGROUND-POSITION: 0px -1410px
+}
+.levm_17 {
+	BACKGROUND-POSITION: 0px -1440px
+}
+.levm_18 {
+	BACKGROUND-POSITION: 0px -1470px
+}
+.levm_19 {
+	BACKGROUND-POSITION: 0px -1500px
+}
+.levm_20 {
+	BACKGROUND-POSITION: 0px -1530px
+}
+.ico_viplev {
+	WIDTH: 48px
+}
+.viplev_0 {
+	BACKGROUND-POSITION: 0px -1560px
+}
+.viplev_0n {
+	BACKGROUND-POSITION: 0px -1590px
+}
+.viplev_1 {
+	BACKGROUND-POSITION: 0px -1620px
+}
+.viplev_1n {
+	BACKGROUND-POSITION: 0px -1650px
+}
+.viplev_2 {
+	BACKGROUND-POSITION: 0px -1680px
+}
+.viplev_2n {
+	BACKGROUND-POSITION: 0px -1710px
+}
+.viplev_3 {
+	BACKGROUND-POSITION: 0px -1740px
+}
+.viplev_3n {
+	BACKGROUND-POSITION: 0px -1770px
+}
+.viplev_4 {
+	BACKGROUND-POSITION: 0px -1800px
+}
+.viplev_4n {
+	BACKGROUND-POSITION: 0px -1830px
+}
+.viplev_5 {
+	BACKGROUND-POSITION: 0px -1860px
+}
+.viplev_5n {
+	BACKGROUND-POSITION: 0px -1890px
+}
+.viplev_6 {
+	BACKGROUND-POSITION: 0px -1920px
+}
+.viplev_6n {
+	BACKGROUND-POSITION: 0px -1950px
+}
+.ico_viplev_s {
+	WIDTH: 33px; HEIGHT: 12px; VERTICAL-ALIGN: middle
+}
+.viplev_1_s {
+	BACKGROUND-POSITION: 0px -2060px
+}
+.viplev_1n_s {
+	BACKGROUND-POSITION: 0px -2075px
+}
+.viplev_2_s {
+	BACKGROUND-POSITION: 0px -2090px
+}
+.viplev_2n_s {
+	BACKGROUND-POSITION: 0px -2105px
+}
+.viplev_3_s {
+	BACKGROUND-POSITION: 0px -2120px
+}
+.viplev_3n_s {
+	BACKGROUND-POSITION: 0px -2135px
+}
+.viplev_4_s {
+	BACKGROUND-POSITION: 0px -2150px
+}
+.viplev_4n_s {
+	BACKGROUND-POSITION: 0px -2165px
+}
+.viplev_5_s {
+	BACKGROUND-POSITION: 0px -2180px
+}
+.viplev_5n_s {
+	BACKGROUND-POSITION: 0px -2195px
+}
+.viplev_6_s {
+	BACKGROUND-POSITION: 0px -2210px
+}
+.viplev_6n_s {
+	BACKGROUND-POSITION: 0px -2225px
+}
+.ico_man {
+	WIDTH: 16px
+}
+.ico_woman {
+	WIDTH: 16px
+}
+.ico_online {
+	WIDTH: 16px
+}
+.ico_offline {
+	WIDTH: 16px
+}
+ico_online {
+	BACKGROUND-POSITION: 0px 0px
+}
+.ico_offline {
+	BACKGROUND-POSITION: 0px -30px
+}
+.ico_man {
+	BACKGROUND-POSITION: 0px -60px
+}
+.ico_woman {
+	BACKGROUND-POSITION: 0px -90px
+}
+.ico_hi {
+	BACKGROUND-POSITION: 0px -120px
+}
+.ico_vipyes {
+	BACKGROUND-POSITION: 0px -240px
+}
+.ico_vipnot {
+	BACKGROUND-POSITION: 0px -270px
+}
+.ico_author {
+	BACKGROUND-POSITION: 0px -150px
+}
+.ico_manage {
+	BACKGROUND-POSITION: 0px -180px
+}
+.ico_editor {
+	BACKGROUND-POSITION: 0px -210px
+}
+.ico_zeng {
+	WIDTH: 18px; BACKGROUND-POSITION: 0px -1980px
+}
+.ico_cv {
+	WIDTH: 32px; BACKGROUND-POSITION: 0px -2010px
+}
+.ico_dj {
+	WIDTH: 35px; BACKGROUND-POSITION: 0px -2035px; HEIGHT: 20px
+}
+.ico_sf {
+	WIDTH: 34px; BACKGROUND-POSITION: 0px -2240px; HEIGHT: 20px
+}
+.ico_jing {
+	WIDTH: 30px; BACKGROUND-POSITION: 0px -2265px; HEIGHT: 30px
+}
+#goTop {
+	Z-INDEX: 52; POSITION: fixed; BOTTOM: 10px; DISPLAY: none; MARGIN-LEFT: 620px; RIGHT: 10px; _position: absolute
+}
+#goTop .feedback {
+	WIDTH: 47px; DISPLAY: block; BACKGROUND: url(../images/goTop.png) no-repeat; HEIGHT: 43px
+}
+#goTop .feedback:hover {
+	BACKGROUND-POSITION: 0px -45px
+}
+#goTop .btn_goTop {
+	POSITION: relative; MARGIN-BOTTOM: 3px
+}
+#goTop .btn_goTop A {
+	Z-INDEX: 2; POSITION: relative; WIDTH: 47px; DISPLAY: block; BACKGROUND: url(../images/goTop.png) no-repeat 0px -90px; HEIGHT: 25px
+}
+#goTop .btn_goTop A:hover {
+	BACKGROUND-POSITION: 0px -115px
+}
+#goTop .btn_goTop SPAN {
+	POSITION: absolute; WIDTH: 50px; BACKGROUND: url(../images/up.gif) no-repeat; HEIGHT: 50px; TOP: -30px; CURSOR: pointer; LEFT: -1px
+}
+#goTop .btn_goTop SPAN.h {
+	BACKGROUND: url(../images/up1.gif) no-repeat
+}
+.banner_mid A.current {
+	COLOR: #9cd12c
+}
+.brand A.current {
+	COLOR: #9cd12c
+}
+INPUT {
+	VERTICAL-ALIGN: middle
+}
+.ui-widget-overlay {
+	POSITION: absolute; FILTER: alpha(opacity=20); BACKGROUND-COLOR: #545454; TOP: 0px; LEFT: 0px; opacity: .2
+}
+.ui-dialog {
+	Z-INDEX: 10; POSITION: absolute; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; TOP: 0px; PADDING-TOP: 0px; LEFT: 0px; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px
+}
+.ui-widget-header {
+	Z-INDEX: 12; BORDER-BOTTOM: #85ba01 1px solid; POSITION: relative; BORDER-LEFT: 0px; FONT-FAMILY: "微软雅黑"; BACKGROUND: #f7f7f7; HEIGHT: 30px; COLOR: #76a600; FONT-SIZE: 16px; BORDER-TOP: 0px; FONT-WEIGHT: normal; BORDER-RIGHT: 0px; PADDING-TOP: 5px; border-radius: 5px 5px 0 0; -webkit-border-radius: 5px 5px 0 0; -moz-border-radius: 5px 5px 0 0
+}
+.ui-dialog .ui-dialog-bg {
+	Z-INDEX: -1; BORDER-BOTTOM: #292928 6px solid; POSITION: absolute; FILTER: alpha(opacity=40); BORDER-LEFT: #292928 6px solid; WIDTH: 100%; BACKGROUND: #292928; HEIGHT: 100%; BORDER-TOP: #292928 6px solid; TOP: -6px; BORDER-RIGHT: #292928 6px solid; LEFT: -6px; opacity: 0.4; border-radius: 10px; -webkit-border-radius: 10px; -moz-border-radius: 10px
+}
+.ui-dialog .ui-dialog-content {
+	Z-INDEX: 1; BACKGROUND: #fff; COLOR: #3b3b3b; OVERFLOW: auto; border-radius: 0 0 5px 5px; -webkit-border-radius: 0 0 5px 5px; -moz-border-radius: 0 0 5px 5px; _overflow: visible
+}
+.ui-dialog .ui-dialog-title {
+	POSITION: static; PADDING-BOTTOM: 0px; LINE-HEIGHT: 24px; PADDING-LEFT: 23px; PADDING-RIGHT: 15px; BACKGROUND: url(../images/dialog/pic_dialog.png) no-repeat 10px 9px; FLOAT: left; HEIGHT: 30px; PADDING-TOP: 0px
+}
+.ui-dialog .ui-dialog-title I {
+	POSITION: absolute; TEXT-ALIGN: right; WIDTH: 150px; PADDING-RIGHT: 10px; HEIGHT: 22px; COLOR: #999; FONT-SIZE: 12px; TOP: 6px; RIGHT: 30px; FONT-WEIGHT: normal
+}
+.ui-dialog .ui-dialog-title I A {
+	Z-INDEX: 10000; POSITION: relative; COLOR: #f80
+}
+.ui-dialog .ui-dialog-titlebar-close {
+	POSITION: absolute; MARGIN: -7px 0px 0px; WIDTH: 16px; BACKGROUND: url(../images/dialog/pic_dialog.png) no-repeat 0px -25px; HEIGHT: 15px; TOP: 50%; RIGHT: 0.6em
+}
+.ui-dialog .ui-dialog-titlebar-close SPAN {
+	DISPLAY: none
+}
+.ui-dialog .ui-dialog-titlebar-close:hover {
+	BACKGROUND-POSITION: 0px -40px
+}
+.ui-dialog .ui-dialog-buttonpane {
+	POSITION: relative; MARGIN-TOP: -5px; BACKGROUND: #fff; HEIGHT: 40px; border-radius: 0 0 5px 5px; -webkit-border-radius: 0 0 5px 5px; -moz-border-radius: 0 0 5px 5px
+}
+.ui-dialog .ui-dialog-content TD {
+	VERTICAL-ALIGN: middle
+}
+.ui-dialog .ui-dialog-content TD A {
+	COLOR: #808080; TEXT-DECORATION: underline
+}
+.ui-dialog .ui-dialog-content TD A:hover {
+	COLOR: #ff9900; TEXT-DECORATION: none
+}
+.ui-dialog .ui-dialog-buttonpane .ui-dialog-buttonset {
+	TEXT-ALIGN: center
+}
+.ui-dialog .ui-dialog-buttonpane BUTTON {
+	BORDER-BOTTOM: 0px; TEXT-ALIGN: center; BORDER-LEFT: 0px; PADDING-BOTTOM: 3px; LINE-HEIGHT: 24px; MARGIN: 0px 0px 0.5em 0.4em; PADDING-LEFT: 0px; WIDTH: 72px; BOTTOM: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(../images/dialog/pic_dialog.png) no-repeat 0px -55px; HEIGHT: 26px; COLOR: #444; FONT-SIZE: 12px; OVERFLOW: hidden; BORDER-TOP: 0px; CURSOR: pointer; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.ui-dialog .ui-dialog-buttonpane BUTTON.left {
+	BORDER-BOTTOM: 0px; TEXT-ALIGN: center; BORDER-LEFT: 0px; PADDING-BOTTOM: 3px; LINE-HEIGHT: 24px; MARGIN: 0px 0px 0.5em 0.4em; PADDING-LEFT: 0px; WIDTH: 72px; BOTTOM: 20px; PADDING-RIGHT: 0px; BACKGROUND: url(../images/dialog/pic_dialog.png) no-repeat 0px -55px; HEIGHT: 26px; COLOR: #444; FONT-SIZE: 12px; OVERFLOW: hidden; BORDER-TOP: 0px; CURSOR: pointer; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.ui-dialog .ui-dialog-buttonpane BUTTON:hover {
+	FILTER: Alpha(Opacity=85); TEXT-INDENT: 0px; TEXT-DECORATION: none; opacity: 0.85
+}
+.ui-dialog .ui-dialog-buttonpane BUTTON.left {
+	BACKGROUND-POSITION: 0px -85px; COLOR: #fff
+}
+.ncc_upload_img {
+	HEIGHT: 100px; OVERFLOW: hidden
+}
+.m_set {
+	Z-INDEX: 200; POSITION: fixed; BOTTOM: 100px; LEFT: -94px
+}
+.m_set .set_btn {
+	Z-INDEX: 20; POSITION: relative; WIDTH: 200px; BACKGROUND: url(../images/ico_set.png) no-repeat; HEIGHT: 200px; background-size: 100%
+}
+.m_set .set_tip {
+	Z-INDEX: 10; BORDER-BOTTOM: #fff 4px solid; POSITION: absolute; BORDER-LEFT: #fff 4px solid; PADDING-LEFT: 97px; WIDTH: 408px; BACKGROUND: #6eb80b; HEIGHT: 117px; OVERFLOW: hidden; BORDER-TOP: #fff 4px solid; TOP: 14px; BORDER-RIGHT: #fff 4px solid; PADDING-TOP: 33px; LEFT: 75px; border-radius: 75px
+}
+.m_set .set_tip A {
+	TEXT-ALIGN: center; LINE-HEIGHT: 84px; WIDTH: 49%; DISPLAY: inline-block; COLOR: #fff; FONT-SIZE: 38px; FONT-WEIGHT: bold
+}
+.m_set .set_tip A#a1 {
+	COLOR: #433641; BORDER-RIGHT: #fff 1px dashed
+}
+.m_set .set_tip A:hover {
+	TEXT-DECORATION: none
+}
